@@ -1,1 +1,5 @@
 print("Hello Clara")
+
+Seth was here!!
+
+Just Playing
