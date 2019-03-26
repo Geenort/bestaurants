@@ -1,4 +1,4 @@
-print("Hello Clara")
+This is now text :)
 
 Seth was here!!
 
