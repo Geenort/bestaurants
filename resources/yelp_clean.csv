@@ -16,8 +16,8 @@ Akikos Sushi,431 Bush St,90,Moderate Risk,90.0,94108.0,IRD_9JUjR-06zztisuTdAA,4.
 Centerfolds,391 Broadway St,90,Low Risk,90.85714286,94133.0,6Ki5PvDCebTkCRkGEXD1qw,3.5,$$,151.0,Cabaret,Strip Clubs,,7.262055546,Other
 Mint,400 McAllister St,93,High Risk,87.0,94102.0,VwrkHwWi5_JBZzYeuUKn7Q,4.0,$,50.0,Cafes,,,5.790582216000001,Other
 Cafe Madeleine,300 California St,86,Moderate Risk,81.85714286,94104.0,SOZuFpNqQTD5XprPD5XeVw,4.0,$$,466.0,Coffee & Tea,Bakeries,Sandwiches,4.384915898,Other
-DEJA VU PIZZA & PASTA,3227 16th St,84,Low Risk,84.16666667,94103.0,5-B4VF38j-cba9rFtzcmFw,3.5,$,386.0,Pizza,Italian,,6.2497549470000004,Other
-BUS STOP PIZZA #1,256 Divisadero St,92,Moderate Risk,84.14285714,94117.0,4opwrzUv_FnwFBTkBFG-zQ,3.5,$,118.0,Pizza,,,7.471506183,Other
+DEJA VU PIZZA & PASTA,3227 16th St,84,Low Risk,84.16666667,94103.0,5-B4VF38j-cba9rFtzcmFw,3.5,$,386.0,Pizza,Italian,,6.2497549470000004,Italian
+BUS STOP PIZZA #1,256 Divisadero St,92,Moderate Risk,84.14285714,94117.0,4opwrzUv_FnwFBTkBFG-zQ,3.5,$,118.0,Pizza,,,7.471506183,Italian
 CAFE COLE,609 Cole St,79,Moderate Risk,83.88888889,94117.0,po_SEkDkaDLXkBNY4H6Qaw,3.5,$,158.0,Coffee & Tea,Juice Bars & Smoothies,Sandwiches,8.945989672,Other
 Ladle & Leaf,"50 Post St, 3rd Floor",87,High Risk,87.0,94104.0,AOdn7nKzs1S67ag_kgaFCg,4.0,$,25.0,Salad,Soup,Sandwiches,0.538268485,Other
 RADIO HABANA,1109 VALENCIA St,90,Moderate Risk,92.8,94110.0,mxklgb9anKRXLhHMWN2qcw,4.0,$$,208.0,Cuban,Bars,,2.350186077,Other
@@ -51,14 +51,14 @@ MOULIN ROUGE,887 GEARY St,94,Low Risk,88.93333333,94109.0,Bsh2ZpvfraCwDXEKuqP9KQ
 PACIFIC CATCH,2027 CHESTNUT St,88,Low Risk,87.57142857,94123.0,5xp-qHGhzEzXevsSzYrwkg,4.0,$$,1539.0,Seafood,,,8.284374697,Other
 The Posh Bagel,495A CASTRO St,87,High Risk,86.77777778,94114.0,y9yGHZK-m7UF-f3pszcaQg,3.0,$,136.0,Bagels,Bakeries,,6.188784332999999,Other
 FIRST CUP,2911 VAN NESS Ave,96,Low Risk,97.0,94109.0,z6DlLVZXBmLz4wKWLQBAGA,4.0,$,54.0,Coffee & Tea,Sandwiches,Bagels,7.311919709,Other
-NAPOLI PIZZA RESTAURANT,1045 POLK St,68,Moderate Risk,77.12,94109.0,I2QjNedfsZe3rKssrSyoIg,3.5,$,256.0,Pizza,,,5.189305098999999,Other
+NAPOLI PIZZA RESTAURANT,1045 POLK St,68,Moderate Risk,77.12,94109.0,I2QjNedfsZe3rKssrSyoIg,3.5,$,256.0,Pizza,,,5.189305098999999,Italian
 WAYO,1407 VAN NESS Ave,98,Low Risk,95.33333333,94109.0,f6G4fFuwx_hQOMxvZPmqjw,4.0,$$,673.0,Sushi Bars,Japanese,,9.900827507999999,Japanese
 TEN ICHI RESTAURANT,2235 FILLMORE St,78,Moderate Risk,80.4,94115.0,T1DIDe7MdSdPOpPT_VJzpw,3.5,$$,325.0,Japanese,Sushi Bars,,8.654134437,Japanese
 Miyako,1470 Fillmore St,82,High Risk,81.375,94118.0,L3_71hwGHkr38nZ2daksuA,4.5,$,313.0,Ice Cream & Frozen Yogurt,Delis,Sandwiches,5.524453315,Other
 GORDO TAQUERIA #2,1239 09th Ave,90,Low Risk,89.75,94122.0,bBa6-Hhe56m1RH-12IOXMw,4.0,$$,1222.0,Mexican,Comfort Food,Gluten-Free,22.89299058,Mexican
 GIANT SCOOP,2708 SAN BRUNO Ave,77,Moderate Risk,75.94117647,94134.0,#NAME?,4.0,$,15.0,Chinese,Ice Cream & Frozen Yogurt,Cafes,3.463992451,Chinese
 ADELITA'S CAKES,3780 MISSION St,82,Moderate Risk,77.45454545,94110.0,TYcPZVwTeLDXL27FTu3nhg,3.5,$,24.0,Latin American,Nicaraguan,,4.564882658,Other
-CAFE ELENA,1 MARKET St,96,Moderate Risk,98.0,94105.0,qZR0MwhFxhvWcFYNtvcO6g,3.5,$,82.0,Greek,,,21.15034488,Other
+CAFE ELENA,1 MARKET St,96,Moderate Risk,98.0,94105.0,qZR0MwhFxhvWcFYNtvcO6g,3.5,$,82.0,Greek,,,21.15034488,Mediterranean
 SUPER STAR RESTAURANT,4919 MISSION St B,76,Low Risk,80.58823529,94112.0,g60n9gcnr7cco5dh-j2RbA,4.0,$,393.0,Filipino,Chinese,,14.95970724,Other
 View Lounge,55 04th St,94,Moderate Risk,94.0,94103.0,lOCewxz6QNegZbArImNBfw,4.0,$$,1581.0,Lounges,Cocktail Bars,Tapas/Small Plates,33.46435855,Other
 HOUSE OF HUNAN,2 Townsend St,74,Low Risk,75.6,94107.0,_4xgvSsDuGgsyfSOVrneag,3.0,$,211.0,Chinese,,,8.773508654,Chinese
@@ -67,7 +67,7 @@ Buster's,366 Columbus Ave,74,Low Risk,76.13333333,94133.0,Iq0137dlAydEXdKJorWJxw
 Michelangelo Caffe,579 Columbus Ave,96,Moderate Risk,94.66666667,94133.0,p4noc5fB5D3l54uik05XNA,3.5,$$,531.0,Italian,Pizza,,6.565659449,Italian
 CHATZ,301 ARKANSAS St,90,Low Risk,87.42857143,94107.0,hCINmYIcLahGGN9c6w3xKQ,3.5,$,103.0,Bakeries,Coffee & Tea,Bagels,9.353186362,Other
 Caffe Ambrosia,14 Trinity Pl,98,Low Risk,97.0,94104.0,xLBkrh4Aie9iPCobGfFzog,4.5,$,307.0,Ice Cream & Frozen Yogurt,Coffee & Tea,Juice Bars & Smoothies,8.072100234,Other
-Calzone's,430 Columbus Ave,87,Low Risk,87.0,94133.0,eIp-wW02p_jcrZ2atZGDRA,3.5,$$,1431.0,Pizza,Salad,,5.903672447000001,Other
+Calzone's,430 Columbus Ave,87,Low Risk,87.0,94133.0,eIp-wW02p_jcrZ2atZGDRA,3.5,$$,1431.0,Pizza,Salad,,5.903672447000001,Italian
 Bohemian Cigar Store,566 Columbus Ave,86,Moderate Risk,87.5,94133.0,UjeOgcv831QTChTP04-Uag,4.0,$$,554.0,Italian,Bars,,6.651924707,Italian
 Vieni-Vieni,1431 Stockton St,88,Moderate Risk,89.6,94133.0,mj025BcDs8nsvOZvb8xvbA,4.0,$,36.0,Dive Bars,,,9.694562464,Other
 North Beach Restaurant,1512 Stockton St,87,Moderate Risk,83.36363636,94133.0,tzQaJ4-X7wZocpYBKKCRhQ,3.5,$$$,783.0,Italian,,,8.873572782,Italian
@@ -83,7 +83,7 @@ Mara's,503 Columbus Ave,90,Low Risk,90.0,94133.0,eBwXYcyh_4C4xiKYCy1ygw,3.5,$,55
 Il Pollaio,555 Columbus Ave,92,Low Risk,89.71428571,94133.0,66khyY7kxNKiW6x7anZj9g,4.5,$$,367.0,Italian,Argentine,,17.68967221,Italian
 Ristorante Ideale,1309 Grant Ave,92,Low Risk,89.5,94133.0,Ws6FGlrk0yxBT7GFpik57g,4.0,$$,711.0,Italian,Cocktail Bars,Pizza,13.50952948,Italian
 Mo's Grill,1322 Grant Ave,80,High Risk,82.0,94133.0,iFZuhhzJCfq5qQBOV5LWKw,4.0,$$,814.0,Burgers,American (Traditional),Breakfast & Brunch,1.122172025,Other
-Maykadeh Restaurant,470 Green St,96,Low Risk,96.0,94133.0,OpBTLNaGnGcn8DRsLcEfQQ,4.0,$$,788.0,Middle Eastern,Persian/Iranian,,5.696960048999999,Other
+Maykadeh Restaurant,470 Green St,96,Low Risk,96.0,94133.0,OpBTLNaGnGcn8DRsLcEfQQ,4.0,$$,788.0,Middle Eastern,Persian/Iranian,,5.696960048999999,Mediterranean
 Columbus Cafe,562 Green St,98,Low Risk,93.33333333,94133.0,Ibz2bWXEU2kLjVYBtB4BPg,4.0,$,335.0,Dive Bars,Sports Bars,Italian,5.915414611,Other
 Tommaso,1042 Kearny St,100,High Risk,96.5,94133.0,MWaeG9XhJdFzbcrSrpF6mQ,4.0,$$,1539.0,Italian,Pizza,Seafood,9.088709266,Italian
 The House,1230 Grant Ave,92,Moderate Risk,90.2,94133.0,ZoZjbOYR-apY8XvommlNUA,4.5,$$$,4543.0,Asian Fusion,,,7.006964952000001,Other
@@ -94,7 +94,7 @@ Quickly,5301 MISSION St,90,Low Risk,90.0,94112.0,AOCt9skWfZdpYkatiIfU3Q,2.5,$,12
 Viking's Giant Sub,2906 Diamond St,86,Low Risk,86.66666667,94131.0,IXgziwhZ-ClzW6mGLuBpsw,4.0,$,142.0,Burgers,Sandwiches,Vietnamese,29.95606569,Other
 Cafe Bakery,1365 Noriega St,88,Low Risk,88.16666667,94122.0,B0lqvrhX9BNPMggTFmFj8g,3.5,$$,483.0,Bakeries,Cafes,Coffee & Tea,3.6392374960000002,Other
 Donut Time,2401 Noriega St,88,Moderate Risk,87.1875,94122.0,ZV5cPlxIZdNiNZnZLAkvdw,3.5,$$,51.0,Donuts,Bakeries,Coffee & Tea,3.755083417,Other
-Nizario's Pizza,3840 Geary Blvd,87,Low Risk,88.90909091,94118.0,cYRTXu7jknjwW7w0mEUpmA,3.5,$,610.0,Pizza,,,4.825057066,Other
+Nizario's Pizza,3840 Geary Blvd,87,Low Risk,88.90909091,94118.0,cYRTXu7jknjwW7w0mEUpmA,3.5,$,610.0,Pizza,,,4.825057066,Italian
 Marnee Thai Restaurant,2225 Irving St,88,Low Risk,86.75,94122.0,pYk2UZ_AUGWO4s8YFepRHQ,4.0,$$,1702.0,Thai,,,6.998142935,Thai
 EL SALVADOR RESTAURANT,2278 MISSION St,90,Low Risk,91.5,94110.0,9-CeNEsmzKh8zrLNU0Ujbw,4.0,$,101.0,Salvadoran,,,6.6969874339999995,Other
 Hamburger Haven,800 Clement St,80,High Risk,84.66666667,94118.0,p8VC6-anSWeT5XLtDO7u4Q,3.5,$,286.0,Breakfast & Brunch,Burgers,,8.509258546,Other
@@ -120,7 +120,7 @@ MARINA SUBMARINE,2299 UNION St,80,High Risk,86.6,94123.0,c1uPQc6ylqB4Pj-KYB8cpw,
 THEM KY RESTAURANT,717 ELLIS St,73,Low Risk,69.26666667,94109.0,lw38MxB5AReAzXQVRrOfXg,3.5,$,195.0,Vietnamese,,,6.1531073329999995,Vietnamese
 MONG THU COFFEE SHOP,248 HYDE St,87,Moderate Risk,87.0,94102.0,r-NSN2mrefVCxqkquOWgaA,4.5,$,84.0,Vietnamese,Sandwiches,Breakfast & Brunch,2.306557666,Vietnamese
 BEN WAH RESTAURANT,2786 CALIFORNIA St,74,Low Risk,75.14285714,94115.0,zP4uciQqdVGZVf72HttgJA,3.0,$,84.0,Chinese,,,2.409088692,Chinese
-MOZZARELLA DI BUFALA PIZZERIA II,069 WEST PORTAL Ave,87,Low Risk,86.77777778,94127.0,QHeiQgLRI1aktqigtx3Muw,3.5,$$,577.0,Pizza,Brazilian,Italian,11.14571105,Other
+MOZZARELLA DI BUFALA PIZZERIA II,069 WEST PORTAL Ave,87,Low Risk,86.77777778,94127.0,QHeiQgLRI1aktqigtx3Muw,3.5,$$,577.0,Pizza,Brazilian,Italian,11.14571105,Italian
 Cafe Bellini,865 MARKET St C45,96,Low Risk,94.0,94103.0,DbcNEHdCxty-OUzaoGTj1w,3.5,$$,107.0,Juice Bars & Smoothies,Ice Cream & Frozen Yogurt,,16.30223996,Other
 Educated Palate,88 4th St.,98,Low Risk,98.0,94103.0,pvD64-V2OjBUFlFs4BQ9xA,4.0,$$,63.0,American (New),Salad,Sandwiches,4.109028126,American
 MOSHI MOSHI,2092 03rd St,92,Moderate Risk,92.0,94107.0,oi-jTQzuKRG_7q3u70LHDg,3.5,$$,653.0,Sushi Bars,Japanese,Cocktail Bars,5.903674088,Japanese
@@ -133,7 +133,7 @@ LOS PLANES DE RENDEROS,12 Persia Ave,85,Moderate Risk,84.07692308,94112.0,5q4iWQ
 Kam Po Kitchen,801 Broadway St,86,Moderate Risk,85.0,94133.0,0Yw-OWhZAU8BI852cx21ug,4.0,$,435.0,Cantonese,Noodles,,15.25919673,Other
 Molinari Delicatessen,373 Columbus Ave,87,Low Risk,87.0,94133.0,FmGF1B-Rpsjq1f5b56qMwg,4.5,$$,1052.0,Delis,,,6.769817005,Other
 Cafe Jacqueline,1454 Grant Ave,98,Low Risk,95.33333333,94133.0,JJnkXwf96vh1Uu7XZWZZAg,4.0,$$$,630.0,French,,,7.668896296000001,Other
-Golden Boy Pizza,542 Green St,92,Low Risk,89.5,94133.0,PTFxtXS47ZVRCdZIrEWvGw,4.5,$,3240.0,Pizza,Italian,,7.1880426260000005,Other
+Golden Boy Pizza,542 Green St,92,Low Risk,89.5,94133.0,PTFxtXS47ZVRCdZIrEWvGw,4.5,$,3240.0,Pizza,Italian,,7.1880426260000005,Italian
 New Hollywood Bakery & Restaurant,652 Pacific Ave,83,Low Risk,83.0,94133.0,sQaHwhP1s9wVOencbEGrkQ,4.0,$,83.0,Bakeries,Chinese,,6.588896247,Other
 Firenze By Night,1421 Stockton St,79,Moderate Risk,82.8,94133.0,GJ0eh6qBV0NjVwmPQUkHXQ,4.0,$$,948.0,Italian,,,3.525698168,Italian
 DELFINA RESTAURANT,3621 18th St,92,Moderate Risk,93.6,94110.0,YqvoyaNvtoC8N5dA8pD2JA,4.0,$$$,2004.0,Italian,Wine Bars,,6.42773007,Italian
@@ -141,15 +141,15 @@ Pancho's Salsa Bar & Grill,1639 Polk St,85,Low Risk,89.58333333,94109.0,7qSq-m4L
 House of Nanking,919 Kearny St,92,Moderate Risk,87.58333333,94133.0,C0whbbQhUMBv8X-Mmtqrcg,3.5,$$,3230.0,Chinese,,,1.3714681430000002,Chinese
 Le Petit Cafe,1 Maritime Plaza,96,Low Risk,96.0,94111.0,BNclpAIcHH8v0zC2w5jdXQ,4.0,$,28.0,Sandwiches,Cafes,,1.81200154,Other
 Happy Donuts,100 Bush St #101,87,Moderate Risk,82.35714286,94111.0,mk2WW5bA-0WfQP1Uo17_Sg,3.5,$,203.0,Donuts,Vietnamese,Coffee & Tea,5.5829478439999995,Other
-MARCELLO'S PIZZA,420 CASTRO St,94,Low Risk,95.5,94114.0,AQviX2W0XXJqYtc73KaNxQ,4.0,$,690.0,Pizza,Salad,Burgers,5.497384645,Other
-Sabra Restaurant,419 Grant Ave,90,Moderate Risk,90.22222222,94108.0,UFX2mEq82sF8kpuSUkAZ3g,3.5,$$,143.0,Middle Eastern,Kosher,,5.97207534,Other
+MARCELLO'S PIZZA,420 CASTRO St,94,Low Risk,95.5,94114.0,AQviX2W0XXJqYtc73KaNxQ,4.0,$,690.0,Pizza,Salad,Burgers,5.497384645,Italian
+Sabra Restaurant,419 Grant Ave,90,Moderate Risk,90.22222222,94108.0,UFX2mEq82sF8kpuSUkAZ3g,3.5,$$,143.0,Middle Eastern,Kosher,,5.97207534,Mediterranean
 Working Girls' Cafe',0259 Kearny St,96,Low Risk,96.0,94108.0,TEvPUNNIRNdiLLKYcKTFVg,4.0,$,504.0,Breakfast & Brunch,Cafes,,13.61321293,Other
 Cafe Dolci,740 Market St,96,Moderate Risk,95.0,94102.0,tHJQH4je6TrwJxotjHtP_g,4.0,$,421.0,Coffee & Tea,Vietnamese,Sandwiches,4.74852756,Other
 Cafe Ethiopia,878 Valencia St,98,Low Risk,92.0,94110.0,O-UenHinrjyX1poNa4Cafw,3.5,$$,437.0,Ethiopian,,,2.3322381030000003,Other
 PEKING WOK RESTAURANT,4920 03rd St,88,Moderate Risk,90.33333333,94124.0,I2B05NZUgigDU24PtTvlwQ,4.5,$,22.0,Chinese,,,1.825020759,Chinese
 TWO JACKS SEAFOOD #2,984 GILMAN Ave,90,Moderate Risk,90.66666667,94124.0,eaaV2ayxpAecdyZTKVDBuA,3.5,$$,16.0,Seafood,,,4.661128367,Other
 BUFFALO BURGERS RESTAURANT,5317-19 Geary Blvd,94,Moderate Risk,90.33333333,94121.0,Nvc1XZVJZhp2CHbh_hTLUw,4.0,$,405.0,Burgers,,,7.418077809,Other
-IRVING PIZZA,1825 IRVING St,96,Moderate Risk,90.42857143,94122.0,mzLa9Ye79zLiKxvExCngtw,3.0,$,578.0,Pizza,Salad,Burgers,10.06283128,Other
+IRVING PIZZA,1825 IRVING St,96,Moderate Risk,90.42857143,94122.0,mzLa9Ye79zLiKxvExCngtw,3.0,$,578.0,Pizza,Salad,Burgers,10.06283128,Italian
 JAVA BEACH CAFE,1396 LA PLAYA St,96,Low Risk,95.14285714,94122.0,7SRJWnPVRxwqke3d82qefw,4.0,$,1012.0,Coffee & Tea,Sandwiches,,10.15930691,Other
 VANIDA THAI KITCHEN,3050 TARAVAL St,87,Moderate Risk,83.66666667,94116.0,uauHhqLPVP0ug-_qCzzT9Q,3.5,$$,427.0,Thai,,,8.575725055,Thai
 The Sunset's Best Seafood Restaurant,3060 TARAVAL St,67,Moderate Risk,72.48,94116.0,LFxokisnLXNgVKpM_fJZqA,3.5,$,94.0,Chinese,Seafood,,6.326737566,Chinese
@@ -157,7 +157,7 @@ HEUNG YUEN RESTAURANT,3279 22nd St,81,Low Risk,76.88888889,94110.0,NGPpY1rZSuWZ7
 BIG MOUTH BURGERS,3392 24th St,85,High Risk,87.5,94110.0,ZPVCTXm4olsIEk4rWwAIWQ,3.5,$,523.0,Burgers,,,12.35295853,Other
 RINCON PERUANO RESTAURANT,3364 26th St,86,Low Risk,88.70588235,94110.0,QAfE9I-fVTF_zQtTjILsMQ,4.0,$$,85.0,Peruvian,,,4.770402567,Other
 CHAVITA'S MEXICAN RESTAURANT,3006 MISSION St,78,Low Risk,82.32,94110.0,27jQXgyYIFvVSXaiF47YrQ,3.5,$,49.0,Mexican,,,5.938256986,Mexican
-VALENCIA PIZZA & PASTA,801 VALENCIA St,88,Low Risk,88.0,94110.0,Syaydy3OIMsziI1spwAanA,4.0,$$,427.0,Pizza,Italian,Breakfast & Brunch,12.65697019,Other
+VALENCIA PIZZA & PASTA,801 VALENCIA St,88,Low Risk,88.0,94110.0,Syaydy3OIMsziI1spwAanA,4.0,$$,427.0,Pizza,Italian,Breakfast & Brunch,12.65697019,Italian
 PETES BARBEQUE,2399 MISSION St,87,Low Risk,88.8,94110.0,gKaBgL0FS7JBjBAKU69foA,4.0,$,277.0,Barbeque,,,4.6515639339999995,Other
 LA SANTANECA DE LA MISSION,2815 MISSION St,90,Low Risk,91.14285714,94110.0,a65f7jC8nGBZfmW31EtHbg,4.0,$$,364.0,Mexican,Salvadoran,,3.558992426,Mexican
 PHUKET THAI RESTAURANT,248 DIVISADERO St,87,Moderate Risk,87.0,94117.0,IHcOOCDt_NOENttBE7lWSg,3.0,$,149.0,Thai,,,6.28535686,Thai
@@ -167,8 +167,8 @@ CENTRAL COFFEE TEA & SPICE,1696 HAYES St,87,High Risk,84.71428571,94117.0,b1zMlS
 PORK STORE CAFE,1451 HAIGHT St,83,Low Risk,83.42857143,94117.0,eOCVoXsOEnbr9c89RD0UEQ,4.0,$$,1324.0,Breakfast & Brunch,Coffee & Tea,Comfort Food,0.9813318740000001,Other
 UNIVERSAL CAFE,2814 19th St,86,Low Risk,83.22222222,94110.0,DlLsw9bJMJ-YdnrUp2G7mw,4.0,$$,1311.0,Breakfast & Brunch,American (New),Diners,5.909451637,Other
 "SANDWICH PLACE, THE",2029 MISSION St,89,High Risk,88.0,94110.0,uAVg1yq5kb3Ia2Ve5_K5HQ,4.5,$,268.0,Sandwiches,,,7.280388264,Other
-ARINELL PIZZA,509 VALENCIA St,88,Moderate Risk,91.33333333,94110.0,QjnmVuqVArA7d-syiUCiUw,4.0,$,1129.0,Pizza,,,6.125953041,Other
-Tricolore Caffe' and Pizzeria,590 Washington St,74,Low Risk,79.55555556,94111.0,F7cpHf8ovSaZhQSTRQAVkw,4.0,$,145.0,Pizza,Italian,,6.059574962999999,Other
+ARINELL PIZZA,509 VALENCIA St,88,Moderate Risk,91.33333333,94110.0,QjnmVuqVArA7d-syiUCiUw,4.0,$,1129.0,Pizza,,,6.125953041,Italian
+Tricolore Caffe' and Pizzeria,590 Washington St,74,Low Risk,79.55555556,94111.0,F7cpHf8ovSaZhQSTRQAVkw,4.0,$,145.0,Pizza,Italian,,6.059574962999999,Italian
 STARBUCKS COFFEE,4094 18th St,96,Low Risk,96.4,94114.0,mjih0yEQhxnoZU5xxnR21w,3.5,$,169.0,Coffee & Tea,,,8.598856667,Other
 SUBWAY 16604,753 POLK St,90,Low Risk,88.2,94109.0,7tGDE-dZMXCraDNQYRwKow,2.5,$,34.0,Sandwiches,Fast Food,,7.000904802999999,Other
 SQUAT & GOBBLE CAFE #3,3600 16th St,80,Low Risk,83.375,94114.0,GnReX_ZUNEL39c7AiWhGjA,3.5,$$,478.0,American (Traditional),Breakfast & Brunch,Sandwiches,3.697129765,American
@@ -194,7 +194,7 @@ Banwich,1105 TARAVAL St,90,Moderate Risk,90.66666667,94116.0,cac6q5C271Yve86zQl5
 JAVA SUPREME,0703 GUERRERO St,87,Low Risk,91.375,94110.0,BORik_MbIabFgzdFRVLDvQ,4.5,$,197.0,Breakfast & Brunch,Cafes,,3.862953487,Other
 KABABAYAN FAST FOOD,2706 MISSION St,78,Moderate Risk,76.58823529,94110.0,2ocTtBOx-1TghQrBxFjORg,3.5,$,67.0,Filipino,Barbeque,Fast Food,6.722903082,Other
 REVERIE COFFEE CAFE,848 COLE St,88,Low Risk,88.0,94117.0,pDUpsLSoSw08aREqgGjABg,4.0,$$,74.0,Coffee & Tea,,,15.24239843,Other
-NORTH BEACH PIZZA,800 STANYAN St,90,Low Risk,90.0,94117.0,yPxYIAJXOJJtpD1YT5fSIA,3.0,$,240.0,Pizza,,,5.988565696,Other
+NORTH BEACH PIZZA,800 STANYAN St,90,Low Risk,90.0,94117.0,yPxYIAJXOJJtpD1YT5fSIA,3.0,$,240.0,Pizza,,,5.988565696,Italian
 LAVA JAVA,852 STANYAN St,94,Low Risk,94.0,94117.0,RyMG16yT-rON-uscR3QFwg,4.0,$,174.0,Coffee & Tea,Breakfast & Brunch,,4.970226458,Other
 STARBUCKS COFFEE CO.,744 IRVING St,100,,100.0,94122.0,P4QhfAOf1MuT4gRo5zfkRA,2.5,$,165.0,Coffee & Tea,,,15.04139355,Other
 STARBUCKS,201 SPEAR St,98,Low Risk,94.8,94105.0,C36BK5luxi-8apVMMhsizQ,3.5,$,117.0,Coffee & Tea,,,27.65558338,Other
@@ -220,7 +220,7 @@ CAFE LA TAZA,2475A MISSION,74,High Risk,79.95,94110.0,p2UxlDCm7aIP9jpK6g1e5A,4.0
 Starbucks Coffee,701 Battery St,98,Low Risk,94.5,94111.0,Td04Ab0qQ761sXJHczyrrA,4.0,$,52.0,Coffee & Tea,,,0.917769205,Other
 PEBBLE'S CAFE,2852 Diamond St,92,Moderate Risk,82.42857143,94131.0,_zu83bXlHo-76rawc_E8gw,3.5,$,71.0,Sandwiches,Brazilian,Cafes,3.834098528,Other
 GASPARE'S PIZZA HOUSE AND RESTAURANT,5546 GEARY Blvd,87,Low Risk,81.90909091,94121.0,A9QDUzIGMcybhLhtPDSN4A,4.0,$$,907.0,Italian,Pizza,American (New),4.777037248,Italian
-YUMMA'S MED GRILL,721 IRVING St,88,Moderate Risk,88.0,94122.0,yxfq9eICLD5M4Sw5Fddc0A,3.5,$,622.0,Greek,Middle Eastern,Falafel,5.348669329,Other
+YUMMA'S MED GRILL,721 IRVING St,88,Moderate Risk,88.0,94122.0,yxfq9eICLD5M4Sw5Fddc0A,3.5,$,622.0,Greek,Middle Eastern,Falafel,5.348669329,Mediterranean
 La Copa Loca,3150 22nd St,93,High Risk,96.25,94110.0,Ew12TaYkYC3bkUiJ36gdLg,4.0,$,291.0,Ice Cream & Frozen Yogurt,Gelato,,10.08977828,Other
 STARBUCKS,5455 GEARY Blvd,100,,100.0,94121.0,A2lE5KbHZrbkke-_XNjKRw,3.0,$,135.0,Coffee & Tea,,,16.24942261,Other
 SWEET DELIGHT BAKERY,4476A MISSION,71,Moderate Risk,68.82758621,94112.0,hPz83m43JzMUzgAoE3SgzA,4.0,$,70.0,Bakeries,Dim Sum,,7.50317761,Other
@@ -239,7 +239,7 @@ Neiman Marcus On The Square,"150 Stockton St, Ground Floor",96,Moderate Risk,92.
 Cafe Niebaum Coppola,916 Kearny St,88,Low Risk,88.0,94133.0,CvmIfaftFA4bp0HBnwQ_bw,3.5,$$,390.0,Italian,Pizza,,5.015292991,Italian
 I LUV TERIYAKI AND SUSHI,270 Potrero Ave,83,Low Risk,84.71428571,94103.0,imNRDs0iUHjsxaWOvIGwNg,3.5,$$,220.0,Sushi Bars,Japanese,,20.52387241,Japanese
 Cornell Hotel - Jeanne D'Arc,715 Bush St,100,Low Risk,99.0,94108.0,gFcSLTJo3HXdkXScg0FgcA,4.0,$$$,362.0,French,,,3.776069039,Other
-Uncle Vito's Pizza,700 Bush St,94,Low Risk,85.75,94108.0,MDTJK0mH5Xc14aCwNuMg7Q,4.0,$$,1154.0,Pizza,Italian,,7.024126455,Other
+Uncle Vito's Pizza,700 Bush St,94,Low Risk,85.75,94108.0,MDTJK0mH5Xc14aCwNuMg7Q,4.0,$$,1154.0,Pizza,Italian,,7.024126455,Italian
 Asia Chinese Food #2,350 Bay St,79,Low Risk,82.6,94133.0,KK2_oX8TbDd4BOa0Nunn2w,3.5,$,54.0,Chinese,,,7.166984837,Chinese
 TANPOPO,1740 BUCHANAN St,87,High Risk,87.0,94115.0,ld0mW_4EUFVK-izi5mD3GA,3.5,$$,1361.0,Ramen,Noodles,Soup,3.380311805,Other
 901 Columbus Cafe,901 Columbus Ave,92,Low Risk,90.85714286,94133.0,8O2Z292anffuimm9OXkbUA,4.0,$,330.0,Cafes,,,3.5962849739999996,Other
@@ -267,7 +267,7 @@ WORKING GIRLS' CAFE III,100 SPEAR St 140,94,Moderate Risk,87.44444444,94105.0,uG
 RUBIN'S,101 SPEAR St,79,High Risk,79.0,94105.0,rQ0IS-WDra4BuF0qQkVQKQ,4.0,,1.0,Caterers,,,7.288124938999999,Other
 Sai's Vietnamese Restaurant,505 Washington St,96,Moderate Risk,96.0,94111.0,IaDXv2ZNo2HUeTatlsjMsw,3.5,$$,522.0,Vietnamese,,,9.06582082,Vietnamese
 Plouf,40 Belden Pl,81,Low Risk,83.26666667,94104.0,mZcxUJOnsKKhEiDaiAfyHg,3.5,$$,1065.0,Seafood,French,Wine Bars,5.684863984,Other
-TWILIGHT CAFE,2600 McALLISTER St,96,Moderate Risk,94.66666667,94118.0,iRittrE0Pld2u3Vq_lxC_Q,4.0,$,115.0,Middle Eastern,Kebab,Sandwiches,20.67929013,Other
+TWILIGHT CAFE,2600 McALLISTER St,96,Moderate Risk,94.66666667,94118.0,iRittrE0Pld2u3Vq_lxC_Q,4.0,$,115.0,Middle Eastern,Kebab,Sandwiches,20.67929013,Mediterranean
 Raintree Cafe,118 West Portal Ave,96,Low Risk,92.0,94127.0,z6fZrAXRLcj3zaWgs2krtw,3.0,$,177.0,Breakfast & Brunch,American (Traditional),,18.03179205,Other
 Lanna Restaurant,1245 Noriega St,86,Moderate Risk,88.4,94122.0,6y26VcGgSuiJrcXk6YKXyw,4.0,$,177.0,Thai,,,3.283005087,Thai
 Emporio Rulli Il Caffe at Union Square,225 Stockton St,88,Moderate Risk,89.0,94108.0,_MB9ozh0K7trfu9y8aCk3A,3.0,$$,266.0,Coffee & Tea,,,25.64894558,Other
@@ -279,13 +279,13 @@ SAI JAI THAI,771 O'FARRELL St,81,Low Risk,79.80952381,94109.0,bGI_oq-DVPo2bWJZxD
 Osha Thai Noodle Cafe,696 Geary St,90,Low Risk,86.8,94102.0,vsNXAscvm-FIU423Cy874w,3.5,$$,1613.0,Thai,,,6.203537653,Thai
 FLORIO,1915 FILLMORE St,94,Moderate Risk,89.28571429,94115.0,xZIar7Wc8YCUiAz7S_0Gdg,3.5,$$$,313.0,French,Italian,Cocktail Bars,5.008643923,Other
 Subway Sandwiches,1199 Sutter St,88,Moderate Risk,90.1,94109.0,YEdxEDRcGOPmjU5l2dvcAQ,2.0,$,38.0,Sandwiches,Fast Food,,1.978125691,Other
-Academy Bar & Kitchen,1800 Fillmore St,91,Low Risk,93.0,94115.0,_sl4NUAHcrqU-F9x25kBQw,3.5,$$,125.0,Pizza,American (New),Wine Bars,3.513345034,Other
+Academy Bar & Kitchen,1800 Fillmore St,91,Low Risk,93.0,94115.0,_sl4NUAHcrqU-F9x25kBQw,3.5,$$,125.0,Pizza,American (New),Wine Bars,3.513345034,Italian
 Capannina,1809 UNION St,100,Low Risk,91.25,94123.0,HWWXRD3KWJRB-WBuXX9RKQ,4.0,$$$,806.0,Italian,,,5.599310026,Italian
 EXECUTIVE CAFE,150 EXECUTIVE PARK Blvd 2000,87,Low Risk,89.85714286,94134.0,z93mjnqenYRyeoWqOJXlrA,4.0,,22.0,Sandwiches,Breakfast & Brunch,Burgers,14.00209274,Other
 GARDEN HOUSE CAFE,3117 CLEMENT St,86,Low Risk,87.88235294,94121.0,M0xEpdbcmF6iEG7LSST_lQ,4.0,$,272.0,Breakfast & Brunch,Sandwiches,Coffee & Tea,7.001110047,Other
 ATLAS CAFE,3049 20th St,90,Low Risk,90.0,94110.0,aQuwkkUS_S52ga0PxiOIag,4.0,$,761.0,Sandwiches,Breakfast & Brunch,Cafes,7.583905626,Other
 TIO CHILOS GRILL,2872 24th St,88,Low Risk,87.2,94110.0,OM8v0GDGzdIhcJODUDCv2Q,4.5,$,55.0,Mexican,,,4.1619641860000005,Mexican
-BRAVO PIZZA,5145 MISSION St,82,Moderate Risk,83.0,94112.0,JU3t0Bae1G4p4NVM0sS0Xg,4.0,$$,398.0,Pizza,Italian,,6.033709717000001,Other
+BRAVO PIZZA,5145 MISSION St,82,Moderate Risk,83.0,94112.0,JU3t0Bae1G4p4NVM0sS0Xg,4.0,$$,398.0,Pizza,Italian,,6.033709717000001,Italian
 MOONLIGHT CAFE,634 CORTLAND Ave,96,Low Risk,92.3,94110.0,#NAME?,4.0,$$,217.0,Cafes,Breakfast & Brunch,,6.184942047000001,Other
 Cesario,601 Sutter St,90,Moderate Risk,83.91666667,94102.0,aQZfzVaKO7vVg4FqnOMtNA,3.5,$$,341.0,Italian,Desserts,,5.165606188,Italian
 Nob Hill Cafe,1152 Taylor St,82,Moderate Risk,88.28571429,94108.0,yNMCITEPGh6cgqd6VDfQOg,4.0,$$,1242.0,Italian,Pizza,,7.892714879,Italian
@@ -299,9 +299,9 @@ Battery Street Coffee Roastery,950 Battery St,92,Moderate Risk,84.28571429,94111
 Pat's Cafe,2330 Taylor St,92,Low Risk,89.125,94133.0,gg--F2Z-X2Qh1fkkm1ODHA,4.0,$$,677.0,Breakfast & Brunch,American (Traditional),,9.149648634,Other
 Cafe Venue,218 Montgomery St,90,Low Risk,88.5,94104.0,D0S0urMr-WbYCpj4MX0kyA,4.0,$,457.0,Sandwiches,Coffee & Tea,Juice Bars & Smoothies,1.661145492,Other
 Diller's Delicatessen,348 Pine St,90,Moderate Risk,86.875,94104.0,1J9JWlQJCQZ4SdPXRxxdRQ,3.5,$,125.0,Delis,Sandwiches,Breakfast & Brunch,7.524635166,Other
-Escape From New York Pizza,333 Bush St #103,90,Moderate Risk,90.4,94104.0,xak4bC7dZFM9vuEYIJPF0Q,3.5,$,247.0,Pizza,,,7.471812736,Other
+Escape From New York Pizza,333 Bush St #103,90,Moderate Risk,90.4,94104.0,xak4bC7dZFM9vuEYIJPF0Q,3.5,$,247.0,Pizza,,,7.471812736,Italian
 Cafe Tiramisu,28 Belden Pl,74,Moderate Risk,79.76470588,94104.0,deDtn5INFHv8FNYty03hLQ,3.5,$$,628.0,Italian,Seafood,,2.268605256,Italian
-Pasquales,2640 Sloat Blvd,88,Moderate Risk,88.0,94116.0,iToTydlu7-NuR_i7yFzV0A,3.5,$$,121.0,Pizza,Italian,,7.513801264,Other
+Pasquales,2640 Sloat Blvd,88,Moderate Risk,88.0,94116.0,iToTydlu7-NuR_i7yFzV0A,3.5,$$,121.0,Pizza,Italian,,7.513801264,Italian
 MAI'S VIETNAMESE RESTAURANT,316 Clement St,90,Low Risk,91.83333333,94118.0,ogif-GNQYoVNsc9mqI378w,3.5,$,297.0,Vietnamese,,,4.580562106,Vietnamese
 SIMPLE PLEASURES CAFE,3434 BALBOA St,90,Low Risk,87.14285714,94121.0,qkArHlJuZHD4Cqe98yCnFQ,3.5,$,440.0,Bagels,Cafes,Bakeries,3.1462114839999997,Other
 Cafe Bakery,1345 Noriega St,90,Moderate Risk,85.63636364,94122.0,B0lqvrhX9BNPMggTFmFj8g,3.5,$$,483.0,Bakeries,Cafes,Coffee & Tea,18.61766355,Other
@@ -317,7 +317,7 @@ Han Bat Korean Restaurant,2001 TARAVAL St,94,Low Risk,91.0,94116.0,NE5F0rMk0uw0g
 T C PASTRY,2222 IRVING St,88,Moderate Risk,89.0,94103.0,2q1Trf5erXkY6hWyH9tOCw,4.0,$,300.0,Dim Sum,,,7.133691477999999,Other
 EBISU RESTAURANT,1283 09th Ave,79,Moderate Risk,83.16666667,94122.0,x8KjU6JY64bXo60Tktu4PQ,3.5,$$,936.0,Japanese,Sushi Bars,,25.38184541,Japanese
 Spiazzo,033 WEST PORTAL Ave,92,Moderate Risk,93.0,94127.0,NWu1cDtYArkjWw2F8PzU9Q,4.0,$$,627.0,Italian,Seafood,,4.598254288,Italian
-AL-MASRI EGYPTIAN RESTAURANT,4031 BALBOA St,90,Low Risk,81.33333333,94121.0,2KpVYd8WcRj11xEpryOL6Q,3.0,$$$,226.0,Middle Eastern,,,7.994295311,Other
+AL-MASRI EGYPTIAN RESTAURANT,4031 BALBOA St,90,Low Risk,81.33333333,94121.0,2KpVYd8WcRj11xEpryOL6Q,3.0,$$$,226.0,Middle Eastern,,,7.994295311,Mediterranean
 MICADO  RESTAURANT,2126 IRVING St,88,Low Risk,87.84615385,94122.0,Ye6oSvS6dhNSeK9UjurU_g,3.5,$$,144.0,Sushi Bars,Japanese,,8.405957112000001,Japanese
 KENTUCKY FRIED CHICKEN,4150 GEARY Blvd,88,Moderate Risk,83.14285714,94118.0,TPSsOoSGQev7xUuGPkzJjg,2.5,$,78.0,Fast Food,Chicken Wings,Chicken Shop,12.93914552,Other
 MY FAVORITE CAFE,2110 CLEMENT St,83,Low Risk,74.83333333,94121.0,VxT3LXwPdHEz1qpXeI5hig,3.5,$,322.0,Hong Kong Style Cafe,,,5.526612504,Other
@@ -328,11 +328,11 @@ GENEVA STEAK HOUSE,5130 MISSION St,69,Moderate Risk,70.86666667,94112.0,F4YXeDcx
 EL POLLO SUPREMO,5210 MISSION St,92,Moderate Risk,91.25,94112.0,cxsx1IG_FKKqORs1f9tfFQ,4.0,$,230.0,Mexican,Cuban,Latin American,7.804146522999999,Mexican
 PANDA EXPRESS,3251 20th Ave 250H,90,Moderate Risk,90.71428571,94132.0,rBwaN3XeaCQGUH1RLgo0tQ,3.0,$,85.0,Chinese,Fast Food,,4.55469953,Chinese
 Elaine's Kitchen,434 Broadway St,86,Moderate Risk,84.33333333,94133.0,bf72ckc4mWwcpqoZiFfVHA,4.0,$,350.0,Chinese,,,10.1419174,Chinese
-EXTREME  PIZZA,1730 FILLMORE St,93,High Risk,91.66666667,94115.0,ZatXLL5acJQlOBo_EqhFiQ,3.0,$$,358.0,Pizza,Salad,Sandwiches,7.666526442,Other
+EXTREME  PIZZA,1730 FILLMORE St,93,High Risk,91.66666667,94115.0,ZatXLL5acJQlOBo_EqhFiQ,3.0,$$,358.0,Pizza,Salad,Sandwiches,7.666526442,Italian
 THE GROVE FILLMORE,2016 FILLMORE St,89,High Risk,90.5,94115.0,ugXtAA14p4EoD42zMaF1Xw,3.5,$$,1499.0,Sandwiches,American (New),Breakfast & Brunch,4.054370714,Other
 VIA VENETO,2244 FILLMORE St,91,Low Risk,88.75,94115.0,f_uf8paCL1pJ29ZI4AyiEg,4.0,$$,238.0,Italian,,,5.158606456,Italian
 Cocotte,1521 Hyde St,83,Moderate Risk,86.72727273,94109.0,xO2V0wkXP3Na-mWhLo1ZxQ,4.0,$$$,488.0,French,,,17.88381783,Other
-ZA,1919 Hyde St,96,Low Risk,96.0,94109.0,WKJzi4g1OGp1nW_6ZJD_rQ,4.0,$,1059.0,Pizza,,,9.45123139,Other
+ZA,1919 Hyde St,96,Low Risk,96.0,94109.0,WKJzi4g1OGp1nW_6ZJD_rQ,4.0,$,1059.0,Pizza,,,9.45123139,Italian
 Amarena,2162 Larkin St,87,High Risk,85.85714286,94109.0,SIlvau33Tsp5IuEEmGf46A,4.0,$$,558.0,Italian,,,1.5174331230000002,Italian
 ATAMI SUSHI BAR & GRILL,1662 LOMBARD St,100,Low Risk,96.0,94123.0,Wo-ruLEoNLGNGG7gTv7LoA,4.0,$$,265.0,Sushi Bars,Japanese,,3.5078757639999996,Japanese
 ZUSHI-PUZZLE,1910 LOMBARD St,86,Low Risk,81.44444444,94123.0,u2qFhVAiH3kQIGhEW6PmMA,4.0,$$$,1322.0,Sushi Bars,Japanese,Salad,6.7546537529999995,Japanese
@@ -355,7 +355,7 @@ STARBUCKS COFFEE CO.,100 WEST PORTAL Ave,100,Low Risk,99.0,94127.0,xfF67q7HGvpKM
 THE BITTER END,441 CLEMENT St,92,Low Risk,88.25,94118.0,H1n4hE8uLFs_W1w-j7M2ow,4.0,$,426.0,Pubs,Dive Bars,,7.859286701,Other
 FRINGALE,570 04th St,84,Moderate Risk,85.5,94107.0,Ug9a63OBRBje0796bFFPgA,4.0,$$$,1058.0,French,Basque,,6.330446139,Other
 HARD KNOX CAFE,2526 03rd St,89,Moderate Risk,89.0,94107.0,8pZevgVXucZStPwUYPfAkQ,4.0,$$,2081.0,Soul Food,Southern,Sandwiches,4.398090818,Other
-GOAT HILL PIZZA,300 CONNECTICUT St,96,Low Risk,92.4,94107.0,gVikx9Ad2aAVv0BXnJJPKw,3.5,$$,1215.0,Pizza,,,4.128516529,Other
+GOAT HILL PIZZA,300 CONNECTICUT St,96,Low Risk,92.4,94107.0,gVikx9Ad2aAVv0BXnJJPKw,3.5,$$,1215.0,Pizza,,,4.128516529,Italian
 Cafe Francisco,2161 Powell St,90,Low Risk,91.8,94133.0,I1MLJDLj7aXZI5Q1xJBSbw,3.5,$,248.0,Coffee & Tea,American (Traditional),Wine Bars,2.037463961,Other
 Mamas on Washington Square,1701 Stockton St,83,Low Risk,80.22222222,94133.0,MvAo0hj9FXOeNL5PwBZ0fQ,4.0,$$,4065.0,Breakfast & Brunch,,,12.48812661,Other
 Acquerello,1722 Sacramento St,100,Moderate Risk,99.0,94109.0,mDM7-ho67ePJXd5TodtCOg,4.5,$$$$,1059.0,Italian,Wine Bars,Venues & Event Spaces,9.492066566,Italian
@@ -383,7 +383,7 @@ STARBUCKS COFFEE,1401 VAN NESS Ave,100,Low Risk,98.0,94109.0,KvmsvhsR2ehkwZ2FWIm
 TAQUERIA CAN-CUN,2288 MISSION St,80,Moderate Risk,83.0,94110.0,g0VCHer2uE5NLOEdblZuSw,4.0,$,1971.0,Mexican,,,7.297470493,Mexican
 BURGER JOINT,807 VALENCIA St,92,Low Risk,91.28571429,94110.0,TNygOlfp5YPvuDPobtTUMQ,3.5,$$,245.0,Burgers,,,8.288825826,Other
 Garcon,1101 VALENCIA St,90,Low Risk,89.09090909,94110.0,f7GbmIcePXbV7ZtQv4_JNg,3.5,$$$,805.0,French,Wine Bars,Tapas/Small Plates,5.339924094,Other
-BLUE FRONT DELI,1430 HAIGHT St,90,Low Risk,90.0,94117.0,eRft7qf6rgxuSptQnKEWzg,4.0,$$,679.0,Middle Eastern,Coffee & Tea,Wraps,2.011410721,Other
+BLUE FRONT DELI,1430 HAIGHT St,90,Low Risk,90.0,94117.0,eRft7qf6rgxuSptQnKEWzg,4.0,$$,679.0,Middle Eastern,Coffee & Tea,Wraps,2.011410721,Mediterranean
 THE CITRUS CLUB,1790 HAIGHT St,72,Moderate Risk,79.27272727,94117.0,b1aZxd5Auo1f5rG9zgr0Ig,3.5,$$,1257.0,Asian Fusion,Noodles,,6.527779413999999,Other
 IRMA'S PAMPANGA RESTAURANT,2901 16th St,86,High Risk,72.8,94103.0,TkG9X1noKvdPMHd7sjkVig,3.5,$,144.0,Filipino,,,7.741623468999999,Other
 JADE CAFE #3,1688 BRYANT St,72,Low Risk,71.72413793,94103.0,#NAME?,3.0,$,276.0,Chinese,,,5.834780555,Chinese
@@ -420,13 +420,13 @@ PLUTO'S,3258 SCOTT St,90,Low Risk,87.5,94123.0,PuOsLglHAg0kpHVvGj2new,4.0,$,675.
 AMERICANA GRILL & FOUNTAIN,3532 BALBOA St,90,Moderate Risk,91.33333333,94121.0,lihePxQnIYrI0bXT_ZlO6g,4.5,$$,226.0,American (Traditional),Breakfast & Brunch,,6.52182936,American
 ALEGRIAS,2018 LOMBARD St,96,Moderate Risk,93.33333333,94123.0,tkLC24zVhWLCCFQp3NCKMw,4.0,$$,753.0,Spanish,Tapas Bars,,9.177462422,Other
 PACIFIC PLAZA CAFE,1340 FRANKLIN St,92,Low Risk,85.06666667,94109.0,7xHM9hJH0INQhRtqUnTx6g,4.5,$,123.0,Sandwiches,,,0.24222125100000003,Other
-VENICE PIZZA AND RESTAURANT,5228 MISSION St,88,Moderate Risk,88.42857143,94112.0,_vQZbUY7s373Z17atFNtsg,3.0,$$,62.0,Pizza,,,2.922646312,Other
+VENICE PIZZA AND RESTAURANT,5228 MISSION St,88,Moderate Risk,88.42857143,94112.0,_vQZbUY7s373Z17atFNtsg,3.0,$$,62.0,Pizza,,,2.922646312,Italian
 PEET'S COFFEE & TEA,2197 FILLMORE St,96,Moderate Risk,92.0,94115.0,Z5G6Va64QQwYBXNpO74nMw,4.0,$,160.0,Coffee & Tea,,,3.894998152,Other
 KATES KITCHEN,471 HAIGHT St,73,High Risk,73.0,94117.0,n5LHxcE-fbgr9O4Unri_ug,3.5,$$,829.0,Breakfast & Brunch,American (Traditional),,6.873399339,Other
 PETER D'S RESTAURANT,2201 Van Ness St,81,Moderate Risk,71.15384615,94109.0,41OVDdg2fu94A35utLTHxQ,3.5,$$,180.0,Breakfast & Brunch,Cafes,,5.622346116,Other
 EMPEROR PALACE RESTAURANT,0530 BALBOA St,85,Low Risk,79.76190476,94118.0,CqhD3Ou25ygJPvweqFaZSw,3.5,$,144.0,Chinese,,,2.959965463,Chinese
 Its Tops Coffee Shop,1801 Market St,89,High Risk,78.28571429,94103.0,yBwejh5N36gw4DOt49t3wg,3.5,$$,470.0,Coffee & Tea,Breakfast & Brunch,Waffles,10.286398,Other
-EXTREME PIZZA,1980 UNION St,92,Moderate Risk,90.16666667,94123.0,IsaBDwCNmXw7b3HAtZ7F6Q,3.0,$,253.0,Pizza,Salad,Sandwiches,9.941673603,Other
+EXTREME PIZZA,1980 UNION St,92,Moderate Risk,90.16666667,94123.0,IsaBDwCNmXw7b3HAtZ7F6Q,3.0,$,253.0,Pizza,Salad,Sandwiches,9.941673603,Italian
 HAI'S RESTAURANT,227 HYDE St,90,Moderate Risk,91.0,94102.0,4M1wrPcRWO1iOLsB8-ZuRg,4.0,$,68.0,Chinese,,,8.38245002,Chinese
 ANANDA FUARA,1298 MARKET St,94,Moderate Risk,94.0,94102.0,ZWvXWUhJUBph9Ip1a2j-xw,4.0,$$,1036.0,Vegetarian,Vegan,Breakfast & Brunch,6.549156803,Other
 CAFE MARS,798 BRANNAN St,88,Moderate Risk,90.0,94103.0,0FU4AMHgNcElMtoXg0Li6Q,4.0,$$,433.0,Bars,American (New),,9.49448072,Other
@@ -438,7 +438,7 @@ Pride of the Mediterranean,1761 Fillmore St,75,High Risk,75.0,94115.0,Q3WVLBpfaF
 CAFE LA BOHEME,3318 24th St,90,Low Risk,90.6,94110.0,3IPHiyXfwdN7lwz5qqotJA,3.5,$,294.0,Coffee & Tea,Desserts,Beer Bar,7.575880486,Other
 Thai Chef 2,4133 18th St,90,Moderate Risk,90.88888889,94114.0,QZNRa98Xb0UNwg0GoqNyzw,3.5,$$,242.0,Thai,,,13.73742468,Thai
 KEZAR BAR & RESTAURANT,900 COLE St,85,Low Risk,83.09090909,94117.0,MmI91-KoLkfdMVQhaafvMQ,3.5,$$,327.0,American (New),Gastropubs,Latin American,2.589984323,American
-Bambino's Ristorante,945 Cole St,96,Low Risk,96.0,94117.0,smceLM-VDB5jkILB6OSSvg,4.0,$$,536.0,Pizza,Breakfast & Brunch,Italian,3.92109403,Other
+Bambino's Ristorante,945 Cole St,96,Low Risk,96.0,94117.0,smceLM-VDB5jkILB6OSSvg,4.0,$$,536.0,Pizza,Breakfast & Brunch,Italian,3.92109403,Italian
 WING HING RESTAURANT,2550 SAN BRUNO Ave,70,Low Risk,66.69696970000001,94134.0,hSLhT8Che055WbkweNi-Ug,3.5,$,90.0,Chinese,,,6.9195199579999995,Chinese
 BURGERMEISTER,138 Church St,86,Low Risk,86.85714286,94114.0,Mr_t0XqWmdTWcoUaorhReA,3.5,$$,419.0,Burgers,,,13.34756904,Other
 MARTHA & BROS COFFEE CO,745 CORTLAND Ave,94,Moderate Risk,90.91666667,94110.0,tYD-CUfuLF8Hpt0ELiQpKA,4.0,$,173.0,Coffee & Tea,Bakeries,Bagels,7.68238934,Other
@@ -484,16 +484,16 @@ Starbucks Coffee,780 Market St,96,Low Risk,97.33333333,94102.0,tMmCglI7jn7_r78Yg
 Starbucks Coffee,390 Stockton St,98,Low Risk,98.0,94108.0,Bj7ET7upaJDDQ1hJ0EI_-g,2.5,$,141.0,Coffee & Tea,,,8.344478382,Other
 NEW EMMY'S RESTAURANT,1923 OCEAN Ave,81,Moderate Risk,76.33333333,94127.0,pXV02Lj-jWt6rgHRQzJmqA,3.0,$,636.0,Chinese,Seafood,Mongolian,19.87852479,Chinese
 Pena Pachamama,1630 Powell St,90,Low Risk,90.0,94133.0,7HHq6MKpWcZqUgwsQaBSZw,4.0,$$,429.0,Live/Raw Food,Vegan,Gluten-Free,4.881117498,Other
-EAGLE PIZZA,1712 TARAVAL St,94,Low Risk,94.8,94116.0,KI5zzFIdRfwTExsB51z_zw,4.0,$$,241.0,Pizza,Gluten-Free,,4.486307193,Other
+EAGLE PIZZA,1712 TARAVAL St,94,Low Risk,94.8,94116.0,KI5zzFIdRfwTExsB51z_zw,4.0,$$,241.0,Pizza,Gluten-Free,,4.486307193,Italian
 Hard Rock Cafe,Pier 39  Building Q1,92,Low Risk,91.33333333,94133.0,8fPAYyTxg2jMDYmWUDhasw,3.0,$$,735.0,American (Traditional),Burgers,,7.805428031,American
 KITARO JAPANESE RESTAURANT,5723 GEARY Blvd,94,Moderate Risk,93.66666667,94121.0,_JB5Bv5h7txJ7rcqcQJ6fw,3.5,$,1048.0,Japanese,Sushi Bars,,7.9288604970000005,Japanese
 SEASONS RESTAURANT,757 MARKET St 5/Fl,73,Moderate Risk,71.61538462,94103.0,3smNIoQZ7wc-_rgcNBHy4A,3.5,$$$,158.0,American (New),Tapas/Small Plates,Bars,8.243302723,American
 San Raku Restaurant,704 Sutter St,92,Moderate Risk,79.55555556,94109.0,cjfJOMF6hpE7bX0ESWdAEg,4.0,$$,1577.0,Japanese,Sushi Bars,Asian Fusion,18.44036832,Japanese
 Kells,530 Jackson St,90,Low Risk,90.0,94133.0,O19HZS-FXu0sZF8ObQ3meg,3.0,$$,524.0,Irish,Pubs,,7.5038681810000005,Other
 SANRAKU,101 04th St 1/F,82,Moderate Risk,77.36363636,94103.0,w45rq7jonVT2z8nEIhm96g,3.5,$$,634.0,Japanese,Sushi Bars,,31.18789535,Japanese
-Kokkari,200 Jackson St,87,Moderate Risk,87.0,94111.0,PsY5DMHxa5iNX_nX0T-qPA,4.5,$$$,4317.0,Greek,Mediterranean,,19.92827547,Other
+Kokkari,200 Jackson St,87,Moderate Risk,87.0,94111.0,PsY5DMHxa5iNX_nX0T-qPA,4.5,$$$,4317.0,Greek,Mediterranean,,19.92827547,Mediterranean
 Jasper's Corner Tap & Kitchen,401 Taylor St,82,Low Risk,84.8,94102.0,HZ6-_Lzdv7Q8aacNs8m5zQ,3.5,$$,1110.0,Gastropubs,Breakfast & Brunch,Sports Bars,5.26695206,Other
-HAYSTACK PIZZA RESTAURANT,3881 24th St,88,Low Risk,89.0,94114.0,sZ0pm4KX5z1n5SAAg96vVw,3.0,$$,405.0,Pizza,Italian,,5.99796546,Other
+HAYSTACK PIZZA RESTAURANT,3881 24th St,88,Low Risk,89.0,94114.0,sZ0pm4KX5z1n5SAAg96vVw,3.0,$$,405.0,Pizza,Italian,,5.99796546,Italian
 ELIZA'S RESTAURANT,2877 CALIFORNIA St,92,Low Risk,89.66666667,94115.0,9PWo-h-TiQYaIZ5w0MqhLg,3.5,$$,534.0,Chinese,,,4.534801658999999,Chinese
 Fountain Cafe,"50 Post St, Suite B62",77,Low Risk,74.0,94104.0,vxwILNakRRPDodiDswtcdA,3.5,$,195.0,Diners,American (Traditional),,47.97551209,Other
 Starbucks Coffee,44 Montgomery St,100,,100.0,94104.0,o21s8f-8zwqX0nlnN_2icA,3.5,$,98.0,Coffee & Tea,,,11.75585593,Other
@@ -516,7 +516,7 @@ PUERTO ALEGRE,546 Valencia St,89,High Risk,89.0,94110.0,vp1VTH08YSA9O9w6ej-G0A,3
 Far East Cafe,631 Grant Ave,90,Moderate Risk,80.71428571,94108.0,1EiMCJuOr-VoP2EIaiYmtQ,3.0,$$,450.0,Chinese,,,7.075669713,Chinese
 Tad's,120 Powell St,88,Moderate Risk,90.0,94102.0,XsOlmp-7Vn-1GBLG6gDGug,3.0,$$,736.0,Steakhouses,Desserts,Breakfast & Brunch,6.945738173,Other
 PEKING RESTAURANT,1375 NORIEGA St,88,Low Risk,85.5,94122.0,_3MJz0zgTg35NZGlifqQzQ,3.5,$,151.0,Chinese,,,5.9800965029999995,Chinese
-Victor's Pizza,1411 Polk St,87,Moderate Risk,83.9,94109.0,GjdLppkFQODOiV4DQZ5EyA,4.0,$$,912.0,Pizza,Italian,,5.986044755,Other
+Victor's Pizza,1411 Polk St,87,Moderate Risk,83.9,94109.0,GjdLppkFQODOiV4DQZ5EyA,4.0,$$,912.0,Pizza,Italian,,5.986044755,Italian
 CHIPOTLE MEXICAN GRILL,126 NEW MONTGOMERY St,98,Low Risk,98.66666667,94105.0,SQuQ32gVOVsnXrKCOXl0Xw,3.0,$,493.0,Mexican,Fast Food,,3.5111388619999997,Mexican
 Crustacean,1475 Polk St,83,Low Risk,82.69230769,94109.0,BahDyzswTsdaSa8jnOaK-A,3.5,$$$,1457.0,Asian Fusion,Vietnamese,,6.835969875,Other
 Benkyodo Co,1747 BUCHANAN St,90,Moderate Risk,90.0,94115.0,0100LAmvjZPFjEPswwrDBQ,4.5,$,928.0,Bakeries,Candy Stores,,14.94523732,Other
@@ -545,7 +545,7 @@ The Royal Exchange Restaurant Co.,301 Sacramento St,83,High Risk,86.14285714,941
 HAN IL KWAN,1802 BALBOA St,77,Moderate Risk,79.17391304,94121.0,eBxkmr-hJ2KgpZQzEO3ArQ,4.0,$$,1518.0,Korean,,,4.637466337,Korean
 MING'S DINER,2129 Taraval St,76,Low Risk,72.46428571,94116.0,iguOSVitkzZ8EIMQcOn8VQ,3.5,$,181.0,Chinese,,,5.906205118,Chinese
 NEW ERITREA RESTAURANT,907 Irving St,91,Low Risk,93.5,94122.0,u6AFSw9Hawsjhf7hmFdoSg,4.0,$$,708.0,Ethiopian,Vegetarian,Eritrean,5.326097853,Other
-PIRRO'S PIZZERIA,2244 TARAVAL St,96,Low Risk,96.0,94116.0,wmsSH390xs2w-32y31dGnQ,2.5,$$,117.0,Pizza,,,6.132848476,Other
+PIRRO'S PIZZERIA,2244 TARAVAL St,96,Low Risk,96.0,94116.0,wmsSH390xs2w-32y31dGnQ,2.5,$$,117.0,Pizza,,,6.132848476,Italian
 Schuberts Bakery,521 Clement St,98,Low Risk,96.8,94118.0,DyXoC_NhJW0Xx5j_OPQRHQ,4.5,$$,1614.0,Bakeries,Desserts,,3.456059227,Other
 NORIEGA TERIYAKI HOUSE,1755 NORIEGA St,70,Low Risk,79.15789474,94122.0,YDeqSFd7qdbbFiBUO6Gpjw,3.5,$$,552.0,Japanese,Sushi Bars,,4.968310356,Japanese
 United Irish Cultural Center,2700 45th Ave,89,High Risk,90.09090909,94116.0,Mbv1R8pCzYgVGQMBjsoetg,4.0,$$,78.0,Venues & Event Spaces,Irish,Pubs,2.612053547,Other
@@ -555,7 +555,7 @@ Farallon Restaurant,"450 Post St, 4th Floor",100,,100.0,94102.0,4raSXRuvBH1CHawS
 International House of Pancakes,200 Beach St,98,Low Risk,96.57142857,94133.0,R8i81IRfwk-XCLqmYl2zwg,3.0,$$,212.0,Breakfast & Brunch,American (Traditional),Burgers,22.0404926,Other
 PHO HUYNH HIEP II,1833 IRVING St,85,Moderate Risk,84.66666667,94122.0,Bfc3RwM7UAEohk9e19Q1xw,4.0,$,1551.0,Vietnamese,Noodles,,10.1522379,Vietnamese
 MARNEE THAI RESTAURANT,1243 09th Ave,79,Moderate Risk,79.44444444,94122.0,JSWgCOJ3zuegIhkTAfW7yQ,4.0,$$,1590.0,Thai,,,5.833007257,Thai
-GIORGIO'S PIZZA,151 CLEMENT St,89,High Risk,86.875,94118.0,GNzoAOXPxP0UzW7fb51dNg,4.0,$$,961.0,Pizza,Italian,Sandwiches,11.52461595,Other
+GIORGIO'S PIZZA,151 CLEMENT St,89,High Risk,86.875,94118.0,GNzoAOXPxP0UzW7fb51dNg,4.0,$$,961.0,Pizza,Italian,Sandwiches,11.52461595,Italian
 PASQUALES,700 IRVING St,85,High Risk,86.875,94122.0,VyvrQn7j_YfsxKkFl7T3ww,3.5,$$,918.0,Italian,,,6.094893879,Italian
 MEL'S DRIVE-IN,3355 GEARY Blvd,82,Moderate Risk,86.15384615,94118.0,ptlwIBbhC6m6TdcQscf54A,3.0,$$,851.0,Breakfast & Brunch,American (Traditional),Cocktail Bars,4.428281195,Other
 THANH LONG RESTAURANT,4101 JUDAH St,86,Moderate Risk,88.57142857,94122.0,z9CN58fSrA46ggyb6OnCnQ,4.0,$$$,2494.0,Seafood,Vietnamese,,6.470547811,Other
@@ -571,8 +571,8 @@ Cigar Bar and Grill,850 Montgomery St,90,Low Risk,90.0,94133.0,8rwcx4ZwW_tEj4onn
 HARRY'S BAR,2020 FILLMORE St,82,Low Risk,84.0,94115.0,R-IHnccjb6tXlNXzR-xsng,3.0,$$,858.0,Bars,American (New),Breakfast & Brunch,6.65863287,Other
 Wing Lum Cafe,1150 Polk St,83,Low Risk,78.5625,94109.0,hR-QnUgMeKKnO0l5k9zqcg,3.5,$$,164.0,Chinese,,,6.959972105,Chinese
 Super Burrito,1200 Polk St,87,High Risk,78.7,94109.0,#NAME?,3.0,$,321.0,Mexican,,,5.409709766000001,Mexican
-Round Table Pizza,801 Van Ness Ave,69,Low Risk,78.21428571,94109.0,sW98jWYHl01r46avD5cUYA,2.0,$$,171.0,Pizza,,,7.4560542629999995,Other
-ALBORZ,1245 VAN NESS Ave,90,Low Risk,77.61904762,94109.0,83lEHBx7nSKvdLz_P5xbMw,3.5,$$,354.0,Middle Eastern,Persian/Iranian,,4.490020841000001,Other
+Round Table Pizza,801 Van Ness Ave,69,Low Risk,78.21428571,94109.0,sW98jWYHl01r46avD5cUYA,2.0,$$,171.0,Pizza,,,7.4560542629999995,Italian
+ALBORZ,1245 VAN NESS Ave,90,Low Risk,77.61904762,94109.0,83lEHBx7nSKvdLz_P5xbMw,3.5,$$,354.0,Middle Eastern,Persian/Iranian,,4.490020841000001,Mediterranean
 Pane e Vino Trattoria,1715 UNION St,80,Low Risk,82.5,94123.0,ERQmO2w3OOsxw_GVkmuG3A,4.0,$$,389.0,Italian,,,5.87645,Italian
 Buena Vista Cafe,2765 Hyde St,87,High Risk,89.75,94109.0,wdlyeH5ug7uZpvtb-N97fQ,4.0,$$,2422.0,Bars,Cafes,Breakfast & Brunch,9.31194908,Other
 Gary Danko,800 North Point St,92,Moderate Risk,92.75,94109.0,WavvLdfdP6g8aZTtbBQHTw,4.5,$$$$,5339.0,American (New),French,Wine Bars,6.497757524,American
@@ -603,7 +603,7 @@ Raven Bar,1151 Folsom St.,96,Low Risk,96.0,94103.0,lOENC0d2BCi9AyBjc_1BHA,4.0,$$
 BASIL THAI RESTAURANT & BAR,1175 FOLSOM St,85,Moderate Risk,85.57142857,94103.0,lL-Zq1hlHreP7qAA2sVqNg,4.0,$$,1456.0,Thai,Bars,,3.2777264219999998,Thai
 GRAND LODGE OF CALIFORNIA,5051 MISSION St,88,Low Risk,89.61538462,94112.0,sx-VbkIbvoqW54ZVHF-uBw,5.0,,1.0,,,,9.435439435,Other
 CHOW,215 Church St,80,Low Risk,85.33333333,94114.0,oRvgzZeQ2nsTzi5Tq4efYQ,4.0,$$,1937.0,American (Traditional),Breakfast & Brunch,Comfort Food,5.678410845,American
-ROUND TABLE PIZZA,2660 SAN BRUNO Ave,94,Low Risk,95.6,94134.0,LYzW5O-VQ0k-8INvA0_ryA,2.5,$$,68.0,Pizza,,,7.328396013,Other
+ROUND TABLE PIZZA,2660 SAN BRUNO Ave,94,Low Risk,95.6,94134.0,LYzW5O-VQ0k-8INvA0_ryA,2.5,$$,68.0,Pizza,,,7.328396013,Italian
 Trattoria Contadina Restaurant,1800 Mason St,86,Moderate Risk,86.0,94133.0,6e7gMgVJRQ5rtkIbTF6TLQ,4.0,$$,1272.0,Italian,,,5.639647038,Italian
 Sears Fine Food,439 Powell St,79,Low Risk,83.125,94102.0,3LZRfbnx8bCpHWrRDSIF9g,3.5,$$,1876.0,American (Traditional),Breakfast & Brunch,Burgers,20.17776861,American
 BOULEVARD,1 MISSION St,92,Moderate Risk,87.8,94105.0,Tttm1r5Dw1sRMCfc3EQWPw,4.0,$$$,2593.0,American (New),,,9.196363964,American
@@ -652,7 +652,7 @@ PANCHO VILLA,3071 16th St,81,High Risk,79.22222222,94103.0,UjjNgzBFAVXF3iVXPVjH_
 VERDI CLUB,2424A MARIPOSA St,98,Low Risk,96.66666667,94110.0,rJoGt8B0gwRYlJJdcmqIaA,4.5,,98.0,Venues & Event Spaces,,,2.4055314290000003,Other
 LA CUMBRE,515 VALENCIA St,85,Moderate Risk,77.5625,94110.0,iEbNZymY3kEbPG7wP1i19w,3.0,$$,864.0,Mexican,,,6.159339585,Mexican
 Chinatown Restaurant,744 Washington St,70,High Risk,76.375,94108.0,7CDYvq7H9RmtaInM8FEbtQ,2.0,$$,724.0,Chinese,,,6.267122637000001,Chinese
-ROUND TABLE PIZZA,737 PORTOLA Dr,94,Low Risk,95.0,94127.0,R8M5LVLLFZK8EnBU5T2O8Q,2.5,$$,206.0,Pizza,,,10.7806594,Other
+ROUND TABLE PIZZA,737 PORTOLA Dr,94,Low Risk,95.0,94127.0,R8M5LVLLFZK8EnBU5T2O8Q,2.5,$$,206.0,Pizza,,,10.7806594,Italian
 NEW HING LUNG RESTAURANT,1556 NORIEGA St,76,Low Risk,76.0,94122.0,YA_IfP1_x89yjxzKGn1QyQ,3.0,$$,202.0,Chinese,,,8.617017648,Chinese
 MATTERHORN RESTAURANT,2323 VAN NESS Ave,92,Moderate Risk,94.5,94109.0,av8vitp4twNYvUi4Ox0pGw,3.5,$$$,342.0,Fondue,German,Bars,5.271174847,Other
 Zingari,501 Post St,96,Low Risk,97.33333333,94102.0,yQ5_zQbdfiexfvDe90__KQ,3.0,$$$,480.0,Italian,Bars,Jazz & Blues,7.564302101,Italian
@@ -661,8 +661,8 @@ ACE WASABI'S ROCK N ROLL SUSHI,3339 STEINER St,88,Moderate Risk,85.5,94123.0,NMT
 "GOLD CLUB, THE",650 HOWARD St,79,Moderate Risk,79.0,94105.0,e4mPhiUpHDzJSm27p8rCvQ,3.5,$,424.0,Adult Entertainment,Dance Clubs,Cocktail Bars,4.906738171000001,Other
 JARDINIERE RESTAURANT,300 GROVE St,86,High Risk,86.0,94102.0,inVsc1turxk_OpM9E2Q1Rw,4.0,$$$$,1637.0,French,American (New),Champagne Bars,5.513060297000001,Other
 CINDERELLA BAKERY & CAFE,0436 BALBOA St,91,Low Risk,91.0,94118.0,hpWcjUQ0dhXRN-2wUWQYCQ,4.0,$$,892.0,Bakeries,Russian,Cafes,8.619371517000001,Other
-ROUND TABLE PIZZA RESTAURANT,3567 Geary Blvd,83,Low Risk,83.0,94118.0,HfOv2Z0OyKVw_jt1KnXoag,2.5,$$,113.0,Pizza,,,10.74550025,Other
-Pauline's Pizza,260 Valencia St,92,Low Risk,92.8,94103.0,tIzKxpADKMMmzDr5n07lQg,4.0,$$,656.0,Pizza,Wine Bars,American (New),2.04667371,Other
+ROUND TABLE PIZZA RESTAURANT,3567 Geary Blvd,83,Low Risk,83.0,94118.0,HfOv2Z0OyKVw_jt1KnXoag,2.5,$$,113.0,Pizza,,,10.74550025,Italian
+Pauline's Pizza,260 Valencia St,92,Low Risk,92.8,94103.0,tIzKxpADKMMmzDr5n07lQg,4.0,$$,656.0,Pizza,Wine Bars,American (New),2.04667371,Italian
 BURGER KING,35 POWELL St,100,Low Risk,97.2,94102.0,2L4tJ-kfHaBXlF1nwDz-_A,2.0,$,130.0,Fast Food,Burgers,,7.251539573,Other
 BLOWFISH SUSHI,2170 BRYANT St,80,Low Risk,83.0,94110.0,7E4oGj36ctPi58hm9-PYHw,3.5,$$$,1414.0,Sushi Bars,Japanese,Bars,5.811583942,Japanese
 Biscuits & Blues,401 Mason St,85,High Risk,88.75,94102.0,8oe2cvC0vlQ0DC7Mc_mOjw,3.5,$$,487.0,Jazz & Blues,Southern,Lounges,5.287176947,Other
@@ -770,7 +770,7 @@ Starbucks Coffee,398 Market St,88,Moderate Risk,90.28571429,94111.0,kXRdC1L0Ji_f
 THE GAP CAFE,1 HARRISON St,93,High Risk,94.5,94105.0,4r_2IlyjfHnp-We4-ZIAMQ,3.0,,1.0,Cafes,,,11.43967314,Other
 SAY CHEESE,856 COLE St,98,Low Risk,97.0,94117.0,SdGtfr9n1rgRXxNRMfqxzQ,4.5,$$,309.0,Cheese Shops,Sandwiches,,7.901941974,Other
 GEORGE'S ZOO,2560 SLOAT Blvd,90,Moderate Risk,92.25,94116.0,UxfhIwJWzmUq4j3kD7BXcw,4.5,$,171.0,"Beer, Wine & Spirits",Sandwiches,,8.032756642999999,Other
-NORTH BEACH PIZZA,3054 TARAVAL St,87,Low Risk,87.5,94116.0,qRJRNFrR6SJbOlod-yPDIA,3.0,$,178.0,Pizza,Italian,,1.3056233879999999,Other
+NORTH BEACH PIZZA,3054 TARAVAL St,87,Low Risk,87.5,94116.0,qRJRNFrR6SJbOlod-yPDIA,3.0,$,178.0,Pizza,Italian,,1.3056233879999999,Italian
 DRAGON CITY BAKERY & CAFE,2367 MISSION St,76,Low Risk,81.9,94110.0,cceVsCxlAR3VaME_T3x6tQ,3.5,$,45.0,Bakeries,Custom Cakes,,6.157969611,Other
 NABILA'S HAYES VALLEY HEALTH FOOD,559 HAYES St,90,Low Risk,91.57142857,94102.0,YvZqHLRq-B_f0pu0cUIbTw,4.0,$$,111.0,Health Markets,Grocery,,7.186256415,Other
 JUMP START COFFEE & GROCERY,1192 GUERRERO St,88,Moderate Risk,87.64285714,94110.0,5oTMdBQj8cVvfr_Z7OkaYw,4.5,$,102.0,Coffee & Tea,Sandwiches,"Beer, Wine & Spirits",14.05475866,Other
@@ -787,12 +787,12 @@ FRENCH BAKERY,1101 TARAVAL St,92,Moderate Risk,94.0,94116.0,9Ra5jMzYIctpddzWMQ0T
 THAT'S IT MARKET,2699 Mission St,86,Moderate Risk,87.0,94110.0,OVx1jiJRVoZg3jDkPvehQg,4.0,$,319.0,"Beer, Wine & Spirits",Sandwiches,,5.8589571760000005,Other
 Three Star Restaurant,2515 Noriega St,88,Moderate Risk,81.1875,94122.0,eQTAY6EI1QzJOTz9TlJn4Q,3.0,$,33.0,Chinese,,,0.730237411,Chinese
 Sweet Mart,727 Washington St,98,Low Risk,95.2,94108.0,aRPnlJsvyzrrriXH8HJ9bg,3.0,$,4.0,Candy Stores,,,7.173417841,Other
-SENIORE'S PIZZA,2415 19th Ave,88,Moderate Risk,87.7,94116.0,loZXJPwZujUlDE6_wVY7dQ,3.5,$,1202.0,Pizza,Sandwiches,Chicken Wings,11.43532934,Other
+SENIORE'S PIZZA,2415 19th Ave,88,Moderate Risk,87.7,94116.0,loZXJPwZujUlDE6_wVY7dQ,3.5,$,1202.0,Pizza,Sandwiches,Chicken Wings,11.43532934,Italian
 ROSSI'S DELI,426 Castro St,86,Moderate Risk,89.77777778,94114.0,luREw4YhfFuYiUdA0SECaw,4.5,$,138.0,Delis,"Beer, Wine & Spirits",,2.819800593,Other
 PEET'S COFFEE & TEA,2257 MARKET St,90,Low Risk,92.5,94114.0,BMzrow5NMGQifKMLpyxAOQ,3.5,$,171.0,Coffee & Tea,,,6.09917425,Other
 LA MEJOR BAKERY,3329 24th St,92,Moderate Risk,90.66666667,94110.0,t4WcuNvabx5OoWYv5YOZkw,4.0,$,67.0,Bakeries,,,7.109281308,Other
 STARBUCKS COFFEE CO,1231 MARKET St,96,Low Risk,94.0,94103.0,MHy3k1nXYSWTLqgQPiYoAA,2.5,$,115.0,Coffee & Tea,,,14.54004861,Other
-PIZZA HUT,3349 MISSION St,96,Low Risk,92.0,94110.0,Gs5_sfZWnl154OafOL6eJQ,2.0,$,93.0,Pizza,Italian,Chicken Wings,5.385099264,Other
+PIZZA HUT,3349 MISSION St,96,Low Risk,92.0,94110.0,Gs5_sfZWnl154OafOL6eJQ,2.0,$,93.0,Pizza,Italian,Chicken Wings,5.385099264,Italian
 MITCHELLS ICE CREAM,688 SAN JOSE Ave,94,Low Risk,94.66666667,94110.0,76smcUUGRvq3k1MVPUXbnA,4.5,$,3803.0,Ice Cream & Frozen Yogurt,Custom Cakes,,14.70525,Other
 DESTINATION BAKING COMPANY,598 Chenery St,90,Low Risk,87.38888889,94131.0,c2s4NY6M7NuD6FOWDa7YCw,4.0,$$,279.0,Bakeries,Coffee & Tea,,7.31848991,Other
 MARINA DELI,2299 CHESTNUT St,89,Low Risk,89.5,94123.0,imuT3pLHVFscv_z74lGYDQ,4.5,$,242.0,Convenience Stores,,,4.054529896,Other
@@ -906,14 +906,14 @@ Windsor Tearoom,334 Mason St,100,,100.0,94102.0,d9wPElAQxkl3kr020ttwGw,2.5,,4.0,
 Donut World,1399 09th Ave,96,Moderate Risk,97.0,94122.0,4nKCA1XhcT7E_jqlOKxm-g,4.0,$,224.0,Coffee & Tea,Donuts,,7.332752527,Other
 Morning Brew Cafe,401 Sansome St,81,Moderate Risk,81.0,94111.0,eKTVnt8QVzVQx05TiUawGQ,3.0,$,177.0,Coffee & Tea,Bubble Tea,Vietnamese,5.580978656,Other
 AMICI'S EAST COAST PIZZERIA,216 KING STREET,96,Moderate Risk,94.5,94107.0,eRjjiIX92RNnEDo1Kg5oow,3.0,$$,620.0,Italian,Pizza,,4.231126741000001,Italian
-Cybelle's Front Room,1385 09th Ave,92,Low Risk,89.875,94122.0,yJjTCZ_WWCeznEWRM-Majg,4.0,$$,563.0,Pizza,American (Traditional),Vegan,5.636940585,Other
+Cybelle's Front Room,1385 09th Ave,92,Low Risk,89.875,94122.0,yJjTCZ_WWCeznEWRM-Majg,4.0,$$,563.0,Pizza,American (Traditional),Vegan,5.636940585,Italian
 The Napper Tandy,3200 24th St,75,High Risk,80.0,94110.0,LxwEIqPbyYlceMVOomUd6g,4.0,$$,321.0,Pubs,Irish,,7.957448266,Other
 Nijiya Market,1737 Post St 333,89,Low Risk,88.75,94115.0,3-QftDg5y7rqLfCVt_Ja-g,4.0,$$,814.0,International Grocery,,,7.110494394,Other
 King of Thai Noodle House,184 O'Farrell St,53,Moderate Risk,66.88888889,94102.0,udYo3BZ0Y3nR1iOtk58Inw,3.5,$$,1791.0,Thai,Noodles,,7.838406577000001,Thai
 Harvest Urban Market,191 08th St,77,Moderate Risk,77.90909091,94103.0,Lyl7fmCru0IAk0vl96KPfg,2.5,$$$,370.0,Specialty Food,Grocery,Salad,4.494499691000001,Other
-Good Frikin Chicken,10 29th St,98,Low Risk,90.4,94110.0,w0Vw-4toI_UT_cU8pCVnTg,3.5,$$,886.0,Greek,Middle Eastern,Mediterranean,3.333155727,Other
+Good Frikin Chicken,10 29th St,98,Low Risk,90.4,94110.0,w0Vw-4toI_UT_cU8pCVnTg,3.5,$$,886.0,Greek,Middle Eastern,Mediterranean,3.333155727,Mediterranean
 Cafe La Taza,470 Post St,86,Moderate Risk,80.0,94102.0,7WiKJGM9kPc2WCh0v16Lqw,3.5,$$,315.0,Breakfast & Brunch,Cafes,Bagels,8.778958257000001,Other
-Piraat Pizza,696 Sutter St,92,Moderate Risk,91.33333333,94102.0,YpxDXFtuX47QWGHNvlqpxA,3.0,$$,318.0,Pizza,Chicken Shop,Sandwiches,9.995773737999999,Other
+Piraat Pizza,696 Sutter St,92,Moderate Risk,91.33333333,94102.0,YpxDXFtuX47QWGHNvlqpxA,3.0,$$,318.0,Pizza,Chicken Shop,Sandwiches,9.995773737999999,Italian
 Boxed Foods Company,245 Kearny St,85,High Risk,82.52941176,94108.0,tNAkdDxzwTQI2lNm7OG2fA,4.0,$$,563.0,Sandwiches,Salad,,11.35988315,Other
 A16,2355 CHESTNUT ST,96,Low Risk,96.0,94123.0,e3WDNQMYpLdMEmM2UV13rA,3.5,$$$,1927.0,Italian,Pizza,,10.89259614,Italian
 Brendas Meat & Three,919 DIVISADERO ST,90,Low Risk,91.0,94115.0,UbKrcsBaZoaBkBOajEX08g,4.0,$$,929.0,Soul Food,Breakfast & Brunch,Southern,11.56423853,Other
@@ -934,16 +934,16 @@ El Gallo Giro,3055 23rd St,91,Low Risk,91.6,94110.0,ygtuwv7hTzQbQmxgYMe0uA,4.5,$
 VASQUEZ COFFEE CO,50 MENDELL STREET #1,90,Low Risk,91.0,94124.0,-8mvLH7dsKaIBCy76kOJgA,5.0,$$,21.0,Cafes,,,15.738026500000002,Other
 Coi,373 broadway St,93,High Risk,95.5,94133.0,HG5cvtfUcpMojb2RyB2ZJQ,4.0,$$$$,759.0,American (New),,,5.601417121,American
 CALIFORNIA WINE MERCHANT,2113 CHESTNUT ST,98,Low Risk,98.0,94123.0,34PjVd87KUcTHuSZXWvAOg,3.5,$$,290.0,"Beer, Wine & Spirits",Wine Bars,,3.6021159519999997,Other
-Extreme Pizza,3911 Alemany Bl.,94,Low Risk,94.8,94132.0,93GzweOrH4o3_SRGreG7ow,3.0,$$,217.0,Pizza,Salad,Sandwiches,12.09412444,Other
+Extreme Pizza,3911 Alemany Bl.,94,Low Risk,94.8,94132.0,93GzweOrH4o3_SRGreG7ow,3.0,$$,217.0,Pizza,Salad,Sandwiches,12.09412444,Italian
 CAFE MADELEINE,149 NEW MONTGOMERY STREET,83,High Risk,84.77777778,94105.0,gBuLECbmaxvxQX9y90EZSA,4.0,$,457.0,Bakeries,Coffee & Tea,Sandwiches,12.14564598,Other
-Taboun,203 Parnassus Ave,88,Low Risk,90.25,94117.0,6ZrEklsw3WiASAUq_2DZcQ,4.0,$,227.0,Middle Eastern,Mediterranean,,5.542021587000001,Other
+Taboun,203 Parnassus Ave,88,Low Risk,90.25,94117.0,6ZrEklsw3WiASAUq_2DZcQ,4.0,$,227.0,Middle Eastern,Mediterranean,,5.542021587000001,Mediterranean
 Go Go Market & Deli,99 09th St,88,Low Risk,84.66666667,94103.0,CIVTPahdhDgSaaE5TOFYVw,4.0,$,22.0,"Beer, Wine & Spirits",Grocery,Delis,7.972624067000001,Other
 Focaccia Market Bakery,119 Sacramento St A,83,Low Risk,79.5,94111.0,_zwr8JlWr-lGej6rmZ9BNw,3.5,$,515.0,Sandwiches,Delis,Caterers,5.321561408,Other
 Judahlicious Juice,3906 Judah st,90,Moderate Risk,92.5,94122.0,PT_j8Sj6sIScFXo04UpXww,3.5,$$,705.0,Juice Bars & Smoothies,Vegan,Live/Raw Food,3.068683695,Other
 Yuyu Sushi,1559 A Sloat St,90,Low Risk,90.5,94132.0,xqP8EXQrBkFEwTnjSbMD0w,3.0,$$,136.0,Sushi Bars,,,6.085893706,Japanese
 Lee's Deli,75 Battery St,83,Low Risk,80.77777778,94111.0,QhGBFz1fO_898X36KdN_Vw,3.0,$,93.0,Chinese,Sandwiches,Salad,5.991976975,Chinese
 Mango Medley,3911 Judah St.,84,Moderate Risk,84.0,94122.0,DDHAkjcXk7sl-Rda9u8XDA,2.5,$,261.0,Mexican,,,13.64573012,Mexican
-Little Star Pizza,846 Divisadero,100,,100.0,94117.0,__I9HmtBMV4dDkEgT22V4g,4.5,$$,2803.0,Pizza,,,4.559771886,Other
+Little Star Pizza,846 Divisadero,100,,100.0,94117.0,__I9HmtBMV4dDkEgT22V4g,4.5,$$,2803.0,Pizza,,,4.559771886,Italian
 THE Art Bistro,6900 GEARY BLVD,94,Low Risk,87.45454545,94121.0,OfbRaVdL41hRR65Y9UXMZw,4.5,$,278.0,Coffee & Tea,Sandwiches,Bagels,5.1770493019999995,Other
 Eggette Cafe,3136 Noriega St,98,Low Risk,99.0,94122.0,TB3Yx9vRug8lnkL-08VkCw,3.5,$,547.0,Bubble Tea,Waffles,Juice Bars & Smoothies,7.040393172000001,Other
 Polly Ann Ice Cream,3138 Noriega St.,100,Low Risk,98.5,94122.0,2kigSyi7myx0-34YATi-Xw,4.0,$,1202.0,Ice Cream & Frozen Yogurt,,,5.2625894330000005,Other
@@ -966,15 +966,15 @@ Enjoy Vegetarian Restaurant,754 KIRKHAM St,88,Moderate Risk,88.0,94122.0,1hZO9SO
 New Mings Restaurant,641 Mission St,70,High Risk,71.84615385,94105.0,1nzk92bfVUq-NSNsilrmQQ,3.5,$,372.0,Chinese,Seafood,,11.70083273,Chinese
 Sushi Suki Restaurant,360 C West Portal Ave,88,Low Risk,78.25,94127.0,OVbF_IMHhBDi62Njm7zs9w,3.5,$$,143.0,Sushi Bars,Japanese,,5.655212377000001,Japanese
 Squat and Gobble Cafe,2263 Chestnut St,93,High Risk,81.8,94123.0,C-FmlwtyYfNJ_47T0xyS1g,3.5,$$,853.0,Creperies,Breakfast & Brunch,,8.024954031,Other
-Patxi's Chicago Pizza,511 Hayes St,88,Low Risk,85.69230769,94102.0,WLqqZYTeo6wFXuCFtlweqA,3.5,$$,2174.0,Pizza,Salad,Italian,0.968939465,Other
+Patxi's Chicago Pizza,511 Hayes St,88,Low Risk,85.69230769,94102.0,WLqqZYTeo6wFXuCFtlweqA,3.5,$$,2174.0,Pizza,Salad,Italian,0.968939465,Italian
 New Bosworth Market,145 Bosworth,90,Moderate Risk,75.36363636,94112.0,5xkvVDTfcsXnffeIhCQoow,4.0,$,24.0,Mexican,Delis,Fast Food,5.9369320839999995,Mexican
 Nile Cafe,544 Jones St,100,Low Risk,97.33333333,94102.0,c5-kcsmTjpe_7FsDCuQEHw,3.5,$$,305.0,Coffee & Tea,Hookah Bars,,18.10244973,Other
-Pizzeria Delfina,3611 18th St,94,Low Risk,94.4,94110.0,bai6umLcCNy9cXql0Js2RQ,4.0,$$,2250.0,Pizza,Italian,Bars,7.704049938,Other
+Pizzeria Delfina,3611 18th St,94,Low Risk,94.4,94110.0,bai6umLcCNy9cXql0Js2RQ,4.0,$$,2250.0,Pizza,Italian,Bars,7.704049938,Italian
 Um Ma Son,5850 GEARY BLVD,71,High Risk,78.86666667,94121.0,NcwP3kUy90oadOkRLcGO4w,4.0,$$,373.0,Korean,,,5.970288828999999,Korean
 Las Palmeras,2721 Mission St,77,High Risk,74.28571429,94110.0,jLKP2lt2ZDEnRhMQ2Yk55Q,3.5,$,74.0,Mexican,Latin American,,8.042760161,Mexican
 Joe's coffee Shop,6134 Geary Blvd,94,Moderate Risk,94.28571429,94121.0,XSkH6XIxgGiGN3fVkHy2jg,4.0,$,323.0,Diners,Salad,Breakfast & Brunch,3.3916969260000003,Other
 Kim Son Restaurant,3614 BALBOA St,92,Moderate Risk,81.61538462,94121.0,C7e1ZvLk-X3vGmZj5fuUAQ,4.0,$,677.0,Vietnamese,Noodles,,5.188083292,Vietnamese
-Ayola,118 NEW MONTGOMERY STREET,88,Low Risk,90.66666667,94105.0,S3P5F0j-KfPQpXZQNuMIvw,4.0,$,685.0,Greek,Mediterranean,,3.3901668039999997,Other
+Ayola,118 NEW MONTGOMERY STREET,88,Low Risk,90.66666667,94105.0,S3P5F0j-KfPQpXZQNuMIvw,4.0,$,685.0,Greek,Mediterranean,,3.3901668039999997,Mediterranean
 Tacos San Buena,768 Sansome St,96,Moderate Risk,96.0,94111.0,5MpnpX9fZX_1NBV-1q6dug,4.0,,1.0,Food Trucks,,,5.992728178999999,Other
 Que Syrah,230 West Portal Ave,94,Moderate Risk,96.0,94127.0,uSPZcHa95Hx9nWOsJk35Pg,4.5,$$,112.0,Wine Bars,,,7.58735955,Other
 Chef Hunan,4661 MISSION St,83,High Risk,84.57142857,94112.0,4z8ySDFczYWgLk1jDyEpKw,4.0,$,42.0,Chinese,,,8.059999602000001,Chinese
@@ -1038,9 +1038,9 @@ Wah Hing Market,1200 Stockton St,80,Moderate Risk,80.0,94133.0,ybjjnV3R6EsElqzYO
 Doo Bu Restaurant,1723 Buchanan St,76,Moderate Risk,80.875,94115.0,WyBN8MGM6LVuDNBD4cBEqA,3.5,$$,454.0,Korean,,,5.132397921,Korean
 Bi-Rite Creamery,3692 18th St,90,Low Risk,87.5,94110.0,wGl_DyNxSv8KUtYgiuLhmA,4.5,$,9445.0,Ice Cream & Frozen Yogurt,Bakeries,,5.487822109,Other
 Olivo's Taqueria,1017 Larkin St,85,Low Risk,83.61538462,94109.0,wC6YHdGylMHRh3-Nsb2yNA,4.0,$,324.0,Mexican,Latin American,,7.632118683,Mexican
-Park Gyros,1201 09th Ave,90,Moderate Risk,89.125,94122.0,E5MdoCV6kahC6ZEjuamgzQ,3.5,$,531.0,Greek,Turkish,Mediterranean,5.001096296,Other
+Park Gyros,1201 09th Ave,90,Moderate Risk,89.125,94122.0,E5MdoCV6kahC6ZEjuamgzQ,3.5,$,531.0,Greek,Turkish,Mediterranean,5.001096296,Mediterranean
 Peet's Coffee & Tea,692 Mission St,92,Low Risk,93.75,94105.0,3Vp1tYOegGTeuFbhZGKAGA,4.0,$,185.0,Coffee & Tea,,,11.40601742,Other
-Caffe Baonecci,516 Green St,94,Low Risk,89.8,94133.0,gtIud2JPu_tW3LMldEOUaw,4.5,$$,929.0,Pizza,Italian,,5.229830238,Other
+Caffe Baonecci,516 Green St,94,Low Risk,89.8,94133.0,gtIud2JPu_tW3LMldEOUaw,4.5,$$,929.0,Pizza,Italian,,5.229830238,Italian
 District,216 Townsend St,92,Moderate Risk,90.5,94107.0,NZI303NL5iVqOCxZKCfCYQ,4.0,$$,1123.0,Wine Bars,Tapas/Small Plates,Whiskey Bars,4.81758706,Other
 S & T Hong Kong Seafood,2588 Noriega St,87,Low Risk,79.8,94122.0,TR5FbzexqkO0jJ7Sc3MsMA,3.5,$$,359.0,Seafood,Dim Sum,,7.171733436,Other
 San Francisco Soup Company,315 California St,90,Moderate Risk,82.28571429,94104.0,wxU0PYejiWMSah-Q0BiCXw,3.0,$,75.0,Soup,Sandwiches,Salad,4.196904814,Other
@@ -1061,7 +1061,7 @@ The Morning Fix,1008 Bush St,100,Low Risk,97.5,94109.0,i7S7iv9Nzpi_Ox-ZMA8Dug,4.
 Yvonne's Southern Sweets,5128 03rd St,98,Low Risk,98.0,94124.0,M7oenVpkw_G0PRVRasA1zQ,4.5,$,72.0,Bakeries,,,7.326683125,Other
 Saffron Lounge,685 Townsend St,96,Moderate Risk,93.33333333,94103.0,TcUhtqRLL-lwSGJmpz415Q,4.0,$$,635.0,Mediterranean,Turkish,,2.264411699,Mediterranean
 Shanghai House,3641 BALBOA ST,84,Low Risk,75.38461538,94121.0,Q25GDNRvf4dKzgwWli2oCg,3.5,$$,656.0,Shanghainese,Dim Sum,,5.832323491,Other
-Little Star Pizza Valencia,400 Valencia St,91,High Risk,87.4,94103.0,OoyK7MyuPtKOQAXmEmyM5g,4.0,$$,1990.0,Pizza,,,14.00977373,Other
+Little Star Pizza Valencia,400 Valencia St,91,High Risk,87.4,94103.0,OoyK7MyuPtKOQAXmEmyM5g,4.0,$$,1990.0,Pizza,,,14.00977373,Italian
 Hollywood Cafe,530 North Point St,89,High Risk,86.55555556,94133.0,vVN_oVe6jvr4PCmXg_m9CA,4.5,$$,1958.0,Breakfast & Brunch,Cafes,,8.266214019,Other
 Bella Lucca,418 Geary St,90,Moderate Risk,92.0,94102.0,f9DPAfiQtX4mXKAWLLk7Sw,2.5,$,130.0,American (Traditional),Pizza,Salad,6.566141694,American
 Salt House,2 Shaw Alley,92,Low Risk,89.71428571,94105.0,jk1T4xIb_FH_SsiVng43HA,3.5,$$$,1707.0,American (New),Bars,,11.18690015,American
@@ -1073,7 +1073,7 @@ The Plant Cafe,3352 STEINER ST,80,Low Risk,82.5,94123.0,rR_7mgpw0FmPgrTMJRsmuQ,3
 Lee's Sandwiches,625 Larkin St,79,Low Risk,71.57142857,94109.0,maULMTcda9y6bQlPnqcJVw,3.0,$,654.0,Sandwiches,Juice Bars & Smoothies,Delis,2.134118979,Other
 Cafe Venue,67 05th St,92,Moderate Risk,88.75,94931.0,vwnnO0yO7sxA1hoXMhRxVQ,4.5,,170.0,Caterers,,,68725.24923,Other
 Mrs. Fields Cookies,Pier 39  B-06,96,Low Risk,90.88888889,94133.0,QtSSE72vZ5124hFZXaZ0Rw,3.5,$$,857.0,Bakeries,Sandwiches,Salad,19.69689792,Other
-Amici's East Coast Pizzeria,2200 LOMBARD St,86,High Risk,89.33333333,94123.0,G_CJ4WcLc64c4Re_YCGDnA,3.0,$$,501.0,Pizza,Gluten-Free,Sandwiches,12.38654696,Other
+Amici's East Coast Pizzeria,2200 LOMBARD St,86,High Risk,89.33333333,94123.0,G_CJ4WcLc64c4Re_YCGDnA,3.0,$$,501.0,Pizza,Gluten-Free,Sandwiches,12.38654696,Italian
 Roadhouse Cafe,5191 03rd St,78,Moderate Risk,81.92307692,94124.0,0MGLcD6JKXL1iJvA9CxSCw,4.0,$,19.0,Coffee & Tea,,,6.2706303310000004,Other
 Taqueria El Sol #2,595 Geary St,90,Low Risk,86.25,94102.0,_XM2EgEjtfphpIpt-VguuA,3.5,$,183.0,Mexican,,,6.966220486,Mexican
 La Torta Gorda,2833 24th St,89,Moderate Risk,89.57142857,94110.0,KJ60hbQU50Q_TJm9kJezuQ,4.0,$,278.0,Mexican,,,7.306974295,Mexican
@@ -1090,14 +1090,14 @@ Hunan Cafe #2,4450 CABRILLO St,84,Low Risk,85.6,94121.0,3iEHqnB-kwsZqRNea3US_w,4
 Cafe La Vie,514 Octavia St,88,Moderate Risk,83.93333333,94102.0,_DIGnA73a966BV02ekLKhg,4.0,$,284.0,Coffee & Tea,Bagels,,7.099865107,Other
 Xanath Ice Cream,951 Valencia St,94,Moderate Risk,95.71428571,94110.0,y1CtMGY68B5ZJeH82ok8HA,4.0,$,416.0,Ice Cream & Frozen Yogurt,Desserts,,1.548255809,Other
 Maru Sushi,529 Powell St,67,Low Risk,75.625,94108.0,ZVjhg9F7r1iTf5FfyaivDQ,3.5,$$,461.0,Japanese,Sushi Bars,,15.36629446,Japanese
-Gialina,2842 DIAMOND St,92,Low Risk,92.6,94131.0,fAaxYP_sc03MV57trhBNPA,4.0,$$,1083.0,Pizza,Italian,Salad,6.843317104,Other
-The Pizza Place,3901 Noriega Street,94,Low Risk,94.0,94122.0,Rk-g2qfBTnvanvVCmkBtqw,3.5,$$,743.0,Pizza,,,14.18821364,Other
+Gialina,2842 DIAMOND St,92,Low Risk,92.6,94131.0,fAaxYP_sc03MV57trhBNPA,4.0,$$,1083.0,Pizza,Italian,Salad,6.843317104,Italian
+The Pizza Place,3901 Noriega Street,94,Low Risk,94.0,94122.0,Rk-g2qfBTnvanvVCmkBtqw,3.5,$$,743.0,Pizza,,,14.18821364,Italian
 Matador,679 Sutter St,80,Low Risk,83.55555556,94102.0,9LwoAkemycBPpO08wqU7SA,4.0,$$,498.0,Mexican,Cocktail Bars,,7.040299492000001,Mexican
 Mission Beach Cafe,198 GUERRERO St,70,Moderate Risk,67.33333333,94103.0,_2EHMIdoYeWgsuAiWydjYQ,4.0,$$,2659.0,Coffee & Tea,American (New),Breakfast & Brunch,9.712428215,Other
 Papalote,3409 24th St,78,Low Risk,82.85714286,94110.0,jwb3vTh8rn3OsN9wlI56-Q,3.5,$$,2164.0,Mexican,,,2.947575575,Mexican
 Jackson Place Cafe - Kiosk,633 Battery St,98,Low Risk,94.66666667,94111.0,HRyBoh32eQDJ1MPWFHlGpg,4.5,$,198.0,Coffee & Tea,Italian,Breakfast & Brunch,6.4113359270000005,Other
 "7-Eleven, Store 2231-33501",564 Market St,85,Low Risk,87.22222222,94104.0,JXJ7gnKpO7GLSMSo30Up9A,3.5,$,43.0,Convenience Stores,Coffee & Tea,,12.76774959,Other
-Escape From New York Pizza,2109 Polk St,92,Low Risk,90.8,94109.0,qh5eSxqvG7KRVNLbc7DCFQ,3.5,$,362.0,Pizza,,,13.23111497,Other
+Escape From New York Pizza,2109 Polk St,92,Low Risk,90.8,94109.0,qh5eSxqvG7KRVNLbc7DCFQ,3.5,$,362.0,Pizza,,,13.23111497,Italian
 Papalote Mexican Grill,1777 Fulton St,93,High Risk,90.75,94117.0,s8uX4sYQM2_HeCab7leG5A,3.5,$,1319.0,Mexican,,,6.540754842,Mexican
 "Pho Tan Hoa, Inc",431 Jones St,100,Low Risk,88.0,94102.0,aPWsJK-BuGQftRY5WECmAw,4.0,$,606.0,Vietnamese,Noodles,,3.8408113839999998,Vietnamese
 L & L Hawaiian Barbecue,312 Kearny St,87,High Risk,87.36363636,94108.0,SjTDAltcEQWmkCp_CGXGSQ,3.0,$,319.0,Hawaiian,Barbeque,,9.756455608,Other
@@ -1124,8 +1124,8 @@ Thee Parkside,1600 17th St,69,Moderate Risk,74.71428571,94107.0,CvpIz9x7Ju2gOsgo
 Nabe,1325 09th Ave,94,Low Risk,92.0,94122.0,NI49vg3BRErnPDDytqgkYQ,4.0,$$,497.0,Hot Pot,Japanese,,22.89461941,Other
 Harlot,46 Minna St,85,,85.0,94105.0,2_LMFvnu6JFdFAq8-WLVYw,3.0,$$,980.0,Lounges,Dance Clubs,,7.571174645,Other
 B Star,127 CLEMENT St,92,Low Risk,74.46666667,94118.0,6bc2FmFGzrcEvXcS2cOeeA,4.0,$$,1798.0,Burmese,Asian Fusion,Breakfast & Brunch,0.387594031,Other
-Subway 30303,3911 Alemany Bl.,85,Low Risk,85.71428571,94132.0,93GzweOrH4o3_SRGreG7ow,3.0,$$,217.0,Pizza,Salad,Sandwiches,12.09412444,Other
-Extreme Pizza,1062 Folsom St,85,Moderate Risk,83.9,94103.0,wJYtHVEJl547YxmCO_UTRQ,3.0,$$,426.0,Pizza,Salad,Sandwiches,4.628323167,Other
+Subway 30303,3911 Alemany Bl.,85,Low Risk,85.71428571,94132.0,93GzweOrH4o3_SRGreG7ow,3.0,$$,217.0,Pizza,Salad,Sandwiches,12.09412444,Italian
+Extreme Pizza,1062 Folsom St,85,Moderate Risk,83.9,94103.0,wJYtHVEJl547YxmCO_UTRQ,3.0,$$,426.0,Pizza,Salad,Sandwiches,4.628323167,Italian
 Lalita Thai Restaurant & Bar,96 McAllister St,84,Low Risk,77.8,94102.0,baGs3b6E4fPUz8aQuSXjDw,3.0,$$,282.0,Bars,Thai,,7.126005535,Other
 Avedano's,235 Cortland Ave.,90,Moderate Risk,88.71428571,94110.0,_X3OobCjbcs3S_pnql_PsA,4.0,$$$,162.0,Meat Shops,Butcher,Sandwiches,2.829242241,Other
 Coastside Farms and Specialties,50 Post St,100,,100.0,94104.0,UTeVasqtJrMY7ZjFM1xyxA,4.5,$$,118.0,Farmers Market,,,0.538268485,Other
@@ -1136,11 +1136,11 @@ Angel Cafe and Deli,700 Geary St,86,Moderate Risk,91.5,94109.0,cwFeD_oqUarKPzzoi
 Trouble Coffee Company,4033 Judah St,92,Low Risk,94.66666667,94122.0,ziENGkelh-BBEEbdAE6k2g,3.5,$,1102.0,Coffee & Tea,,,7.455466997,Other
 "Campton Place SF, A Taj Hotel-Restaurant",340 Stockton St,89,Moderate Risk,88.44444444,94108.0,iU-XQ4dhII3WF1UKR4XrNQ,4.0,$$$$,717.0,American (New),Indian,Bars,13.41225709,American
 "Campton Place SF, A Taj Hotel-Employee Cafeteria",340 Stockton St,94,Moderate Risk,92.8,94108.0,iU-XQ4dhII3WF1UKR4XrNQ,4.0,$$$$,717.0,American (New),Indian,Bars,13.41225709,American
-Pizza Orgasmica,3157 FILLMORE St,64,Moderate Risk,67.4375,94123.0,XV9-EIQcPMJwut271zom6w,3.0,$$,834.0,Pizza,,,7.886345661,Other
+Pizza Orgasmica,3157 FILLMORE St,64,Moderate Risk,67.4375,94123.0,XV9-EIQcPMJwut271zom6w,3.0,$$,834.0,Pizza,,,7.886345661,Italian
 E Tutto Qua,270 Columbus Ave,98,Low Risk,92.0,94133.0,F6SOy6-3tP4i-ipACZUS0g,4.0,$$,2052.0,Italian,Seafood,Pizza,8.75024181,Italian
 SPQR,1911 FILLMORE St,85,High Risk,89.0,94115.0,uEucSd4jwY_zb10AcEye_g,3.5,$$$,1908.0,Italian,Wine Bars,Breakfast & Brunch,6.979117326,Italian
 Fang's,660 Howard St,92,Low Risk,82.0,94105.0,q22kIfCuND7shr9vkOmwnQ,3.5,$$,1512.0,Chinese,Asian Fusion,,2.651299759,Chinese
-Ayola,327 Kearny St,72,Moderate Risk,80.14285714,94108.0,fduDnNgbiRWxjOna5qVNpA,4.0,$,293.0,Greek,Mediterranean,,7.717250634,Other
+Ayola,327 Kearny St,72,Moderate Risk,80.14285714,94108.0,fduDnNgbiRWxjOna5qVNpA,4.0,$,293.0,Greek,Mediterranean,,7.717250634,Mediterranean
 Hing Wang Bakery,339 JUDAH St,86,Low Risk,86.0,94122.0,Kv1ighcDyBuT7BPVKqn7BQ,3.5,$,99.0,Dim Sum,,,9.517040532000001,Other
 La Laguna,3906 03rd St,86,High Risk,87.33333333,94124.0,yjD16DQ2GI1I0c2rmVI8zA,4.0,$,110.0,Mexican,,,16.62362663,Mexican
 May's Coffee Shop,1737 Post St #395,84,High Risk,86.8,94115.0,9RPNu5pP4VspDl0pUsbQ-Q,3.0,$,220.0,Coffee & Tea,,,7.357979942,Other
@@ -1149,7 +1149,7 @@ Le Petit Laurent,699 CHENERY St,90,Moderate Risk,83.77777778,94131.0,rlJntikl6Je
 Golden Kim Tar Restaurant,434 Larkin St,63,Low Risk,65.5,94102.0,ZajCfjeJaHdakadUMYT9Dw,3.5,$,280.0,Chinese,,,6.4496756820000005,Chinese
 Spruce,3640 SACRAMENTO St,85,High Risk,88.875,94118.0,ZfMLpV7p3EvRv3Idpx89sQ,4.0,$$$$,1834.0,American (Traditional),,,5.920475327999999,American
 Pete's Tavern,128 KING STREET,90,Low Risk,90.0,94107.0,hiWDJhG4SIKmcFvQyPMcmg,3.5,$$,561.0,Sports Bars,American (New),Cocktail Bars,7.506316567000001,Other
-Marina Pizza & Pasta,2139 Lombard St,87,Low Risk,89.5,94123.0,wTJhR3NdvpCB2ZAx_qRiqQ,3.0,$,241.0,Pizza,Italian,,5.604569832999999,Other
+Marina Pizza & Pasta,2139 Lombard St,87,Low Risk,89.5,94123.0,wTJhR3NdvpCB2ZAx_qRiqQ,3.0,$,241.0,Pizza,Italian,,5.604569832999999,Italian
 Chatz Coffee,215 02nd St,98,Low Risk,92.0,94105.0,Uv0rM1mX1bgTx9iKNvM-cw,3.5,$,18.0,Coffee & Tea,,,12.27256735,Other
 The Irish Bank Bar & Restaurant,10 Mark Ln,82,Moderate Risk,84.72727273,94108.0,_GunRIpJwrm5aZWb6bHSsQ,3.5,$$,980.0,Irish Pub,,,12.933208500000001,Other
 Brenda's French Soul Food,652 B Polk St,81,Moderate Risk,74.22222222,94102.0,lJAGnYzku5zSaLnQ_T6_GQ,4.0,$$,10341.0,Breakfast & Brunch,French,Soul Food,9.60192921,Other
@@ -1197,7 +1197,7 @@ Catering With Style,2800 BRYANT St,81,High Risk,71.66666667,94110.0,wRXyHTpJMvfX
 Cafe Insalata,209 Jackson St,98,Low Risk,98.0,94111.0,bPqj4m-cNODZ4vLxTN7ZTg,3.5,$,62.0,Vegetarian,Sandwiches,Salad,3.198094573,Other
 Poesia,4072 18th St,83,Low Risk,83.0,94114.0,1FZM1wOnjMYg0KPSD9qTjg,4.0,$$$,738.0,Italian,Bars,,8.685096145,Italian
 Chug Pub,1849 Lincoln Way,92,Low Risk,89.71428571,94122.0,rPwB56EQ9JfEo2mN24fqOQ,4.0,$,307.0,Sports Bars,Pubs,,5.346381674,Other
-Big Slice Pizza,1535 Haight St,88,Low Risk,89.71428571,94117.0,L2vwqxuki-CiFU9neHxHhQ,4.0,$,213.0,Pizza,,,1.9241092219999998,Other
+Big Slice Pizza,1535 Haight St,88,Low Risk,89.71428571,94117.0,L2vwqxuki-CiFU9neHxHhQ,4.0,$,213.0,Pizza,,,1.9241092219999998,Italian
 Jay's Cheesesteak,3285 21st St,80,Low Risk,84.25,94110.0,mH4Odw-22ZdS4UMh04a3wg,4.0,$,509.0,Sandwiches,Cheesesteaks,Burgers,8.589710426,Other
 Golden Natural Foods,130 Church St,98,Low Risk,97.0,94114.0,Chu5DuhjU97MOan5Ni1nnA,4.0,$$,134.0,Meat Shops,Grocery,Health Markets,6.774056133999999,Other
 Clementine,126 CLEMENT St,96,Low Risk,90.66666667,94118.0,L5vSeC_sa3TUQW_lticqyA,4.5,$$$,2642.0,French,Wine Bars,,2.907435815,Other
@@ -1225,14 +1225,14 @@ Ghirardelli Chocolate Fountain,801 Beach St,100,Low Risk,97.0,94109.0,mKF27ZPBga
 Irelands 32,3920 Geary Blvd,77,Low Risk,74.0,94118.0,BfmZVBdCHloptGocB003Pg,3.5,$$,237.0,Music Venues,Pubs,Karaoke,8.013712985,Other
 Udupi Palace,1007 1/2 Valencia St,80,Low Risk,77.88235294,94110.0,8ZmEszI4ZMncK9kuJYQjuA,4.0,$$,1306.0,Indian,Vegetarian,Vegan,5.608636855,Indian
 Jenny's Burger,1233 09th Ave,85,Moderate Risk,90.5,94122.0,LU5ocCXCs9sDIc0DsRTVkg,4.0,$,565.0,American (Traditional),Burgers,Sandwiches,5.889334726,American
-Bursa,60 West Portal Ave.,85,Low Risk,87.63636364,94127.0,OeTD5HlXMjrmztfu02niQQ,4.0,$$,746.0,Middle Eastern,Turkish,Mediterranean,5.45119969,Other
+Bursa,60 West Portal Ave.,85,Low Risk,87.63636364,94127.0,OeTD5HlXMjrmztfu02niQQ,4.0,$$,746.0,Middle Eastern,Turkish,Mediterranean,5.45119969,Mediterranean
 The Pub At S.F.S.U.,1650 Holloway Ave C-134,94,Low Risk,95.0,94132.0,CL5Dwobv7vIQHLvhyLACnQ,4.0,$,50.0,Pubs,,,39.08950851,Other
 Third Avenue Food Mart,4101 California St,88,Moderate Risk,88.22222222,94118.0,ol-QqGiSn_kkl7S0xtM1_w,4.5,$,23.0,Convenience Stores,,,5.201144719,Other
 Bergerac,316 11th St,94,Low Risk,95.0,94103.0,SAymqe2nMxK8u5Cxp42WKw,4.0,$$,292.0,Comfort Food,Cocktail Bars,Lounges,5.639591804,Other
 Honey Honey Cafe,599 Post St,100,Moderate Risk,86.5,94102.0,W1DGoHrkx8qptuWCcWSPLA,4.0,$$,2313.0,Breakfast & Brunch,Creperies,,5.661919273,Other
 Peet's Coffee & Tea,370 04th St,96,Low Risk,96.4,94107.0,0BcGpQRuFwGO_WJPK5uWIg,4.0,$,89.0,Coffee & Tea,,,6.222099857000001,Other
 SF Wraps,255 Kearny st.,96,Low Risk,95.0,94108.0,3AC3j3K25rdYLDe3D2Ld4w,4.0,$$,238.0,Mediterranean,Fast Food,,6.746250336,Mediterranean
-Zaytoon,1136 Valencia St,87,Moderate Risk,88.29411765,94110.0,L6B2t1t2PifwYppaty17Ag,4.0,$,279.0,Middle Eastern,Falafel,,2.314360109,Other
+Zaytoon,1136 Valencia St,87,Moderate Risk,88.29411765,94110.0,L6B2t1t2PifwYppaty17Ag,4.0,$,279.0,Middle Eastern,Falafel,,2.314360109,Mediterranean
 The Grind Cafe,783 Haight St,90,Low Risk,90.0,94117.0,RmYvlTMKTGzfCJ-u8kqVIA,3.5,$$,530.0,Breakfast & Brunch,Cafes,,23.20008548,Other
 Lee's Deli,550 California St,92,Low Risk,88.0,94104.0,Z4UFvczD5ZouX8ap5J0iSA,2.0,$,28.0,Sandwiches,Salad,Chinese,2.521395477,Other
 Nick's Crispy Tacos,1500 Broadway St,96,Low Risk,96.0,94109.0,ziVej4oW2JpUConTE_Y_mg,4.0,$,3213.0,Mexican,Sports Bars,,7.996742096,Mexican
@@ -1244,7 +1244,7 @@ First Cake,5901 GEARY Blvd,86,Low Risk,86.66666667,94121.0,XGejsMvwzYIct2CsqOjqL
 Boccalone,1 Ferry Building  #21,100,,100.0,94111.0,D9D7J9dCcMyq5KD4ybzLEA,4.0,$,381.0,Meat Shops,Delis,,24.25053493,Other
 Java Beach at the Zoo,2650 SLOAT Blvd,94,Moderate Risk,94.0,94116.0,iRmdKzcbdFLIp3s9e4xrHA,4.0,$,473.0,Coffee & Tea,Sandwiches,Bagels,5.236440745,Other
 La Mar Cebicheria Peruana,Pier 1.5,100,High Risk,90.25,94111.0,Qbr2JG96K6d31NqqAUxf9g,4.0,$$$,3515.0,Seafood,Peruvian,,5.18544804,Other
-Pizza Zone & Grill,178 Valencia St,88,Low Risk,89.33333333,94103.0,Y2tRPJxl0nvRJ3BsZUzAkQ,3.0,$,313.0,Pizza,Burgers,Sandwiches,2.964231472,Other
+Pizza Zone & Grill,178 Valencia St,88,Low Risk,89.33333333,94103.0,Y2tRPJxl0nvRJ3BsZUzAkQ,3.0,$,313.0,Pizza,Burgers,Sandwiches,2.964231472,Italian
 Island Market & Deli,2 Ave of the Palms  Bldg. 146,87,High Risk,87.0,94130.0,eFu5eRBAeo0i0Bxas5lF3A,3.5,$,17.0,Convenience Stores,,,6.56377506,Other
 San Pancho's Tacos,491 Bayshore St,91,High Risk,91.0,94124.0,5B87gQ66UJzwQU_es5enDQ,5.0,$,57.0,Food Trucks,Tacos,,12.76159254,Other
 Hillstone Restaurant,1800 Montgomery St,96,Moderate Risk,92.57142857,94111.0,_D1Ev_zTZs5ijHkleK6C2w,4.0,$$$,2093.0,American (New),Diners,Wine Bars,2.368867757,American
@@ -1264,10 +1264,10 @@ Sweet Passion Bakery,3020 TARAVAL St,88,Low Risk,89.75,94116.0,GSyWxUqrzYZ4reusR
 Chili Lemon Garlic,518 Bryant St,74,Low Risk,78.28571429,94107.0,63brNArytTTX9Gi4cJjFqA,3.0,$$,214.0,Thai,,,18.49061109,Thai
 Tropisueño,75 Yerba Buena Ln,81,Low Risk,85.9,94103.0,_EncdQezAzcShATMFXL0dA,4.0,$$,4120.0,Cocktail Bars,Tacos,,10.32049204,Other
 Punjab Restaurant,2838 24th St,83,Low Risk,85.46153846,94110.0,Z_y97di6ovwsjFjCBRoMZg,4.0,$,194.0,Chinese,,,7.102457202,Chinese
-Milan,606 Geary St,87,Low Risk,88.375,94102.0,4flzSf_EwBqeRb_3YT5VTg,3.5,$,404.0,Pizza,,,5.96523792,Other
+Milan,606 Geary St,87,Low Risk,88.375,94102.0,4flzSf_EwBqeRb_3YT5VTg,3.5,$,404.0,Pizza,,,5.96523792,Italian
 Pepe's Taqueria,101 SPEAR St A15,81,Low Risk,84.71428571,94105.0,HLVxwmj6SVrF1XfkyXjIjw,3.0,$,126.0,Mexican,Breakfast & Brunch,,7.298771,Mexican
-Little Caesars Pizza,955 Geneva Ave,98,Low Risk,97.33333333,94112.0,nbaGCLIqc_NvVdWuEweFqw,3.0,$,84.0,Pizza,,,4.822908924,Other
-Pizzeria Delfina,2406 CALIFORNIA St,96,Moderate Risk,93.5,94115.0,wPJjpOZ0mnsajJLBkWUnwA,4.0,$$,1437.0,Pizza,Italian,,9.663312128,Other
+Little Caesars Pizza,955 Geneva Ave,98,Low Risk,97.33333333,94112.0,nbaGCLIqc_NvVdWuEweFqw,3.0,$,84.0,Pizza,,,4.822908924,Italian
+Pizzeria Delfina,2406 CALIFORNIA St,96,Moderate Risk,93.5,94115.0,wPJjpOZ0mnsajJLBkWUnwA,4.0,$$,1437.0,Pizza,Italian,,9.663312128,Italian
 K's Kitchen,757 Monterey Blvd,92,Low Risk,92.5,94127.0,S98G1Fcqo24kTZVuR643cg,4.0,$$,395.0,Japanese,Sushi Bars,Tapas/Small Plates,15.63020469,Japanese
 PPQ Beef Noodle House,1816 IRVING St,74,Moderate Risk,78.4,94122.0,9QXEJdRizwCYBjGX_go_Qw,3.5,$,1318.0,Vietnamese,Noodles,,6.968155782999999,Vietnamese
 Jelly Donut,3198 24th St,80,Moderate Risk,82.46428571,94110.0,np1YpFt9GfX-umR1ZKx_uA,4.5,$,237.0,Donuts,Coffee & Tea,,7.053513196,Other
@@ -1291,7 +1291,7 @@ Darwin Cafe,212 Ritch St,90,Moderate Risk,80.33333333,94107.0,g2QJodH7bcdl-btCWf
 Stable Cafe,2128 Folsom St,98,Low Risk,93.71428571,94110.0,I-32OYNaIU4AMkUB-17fpw,4.0,$$,481.0,Breakfast & Brunch,Cafes,,2.263917375,Other
 Balboa Teriyaki,3536 BALBOA St,92,Moderate Risk,82.16666667,94121.0,VhFuTau6lW--wfMQJJw1VQ,3.5,$$,224.0,Japanese,,,1.236743942,Japanese
 Peet's Coffee & Tea,1400 Van Ness Ave,94,Low Risk,94.5,94109.0,CUZp7vzZMY4ihzKtLEVk3A,4.0,$,81.0,Coffee & Tea,,,7.477482407999999,Other
-Pizzelle Di North Beach,314 Columbus Ave,90,Low Risk,87.77777778,94133.0,#NAME?,3.5,$,360.0,Pizza,Italian,Sandwiches,5.661591571000001,Other
+Pizzelle Di North Beach,314 Columbus Ave,90,Low Risk,87.77777778,94133.0,#NAME?,3.5,$,360.0,Pizza,Italian,Sandwiches,5.661591571000001,Italian
 Volcano Kitchen,5454 GEARY Blvd,83,Moderate Risk,89.0,94121.0,WnQoN1uV65vacUj0q1TgoQ,4.0,$,1072.0,Japanese Curry,,,8.053562226,Japanese
 Perry's Embarcadero,155 STEUART St,80,Low Risk,80.55555556,94105.0,ZfDcbuLBx8-CVtTUjFCQPA,3.5,$$,732.0,American (Traditional),Bars,Breakfast & Brunch,6.597471838,American
 Duc Loi Supermarket,2200 MISSION St,63,Low Risk,68.25,94110.0,_GWn5WGXS_VE_gpXoRVlCA,4.0,$,212.0,Delis,International Grocery,"Beer, Wine & Spirits",8.082782259,Other
@@ -1304,7 +1304,7 @@ Saffron Grill,1279 Fulton st,90,Moderate Risk,90.0,94117.0,El1fNeBVBglXlZtFuq4SW
 Humphry Slocombe Ice Cream,2790 A Harrison St,92,Low Risk,93.4,94110.0,47OC_X6KkiDDQ4jwoCUjFg,4.0,$,3326.0,Ice Cream & Frozen Yogurt,,,7.692570756,Other
 5A5 Steak Lounge,244 Jackson St,94,Low Risk,91.3,94111.0,Q8cYhJGa9pwlu63f-KMV-A,4.0,$$$,2100.0,Steakhouses,Bars,,5.622974791,Other
 Borderlands Cafe,870 Valencia St,100,Moderate Risk,98.66666667,94110.0,cOdvS3Y3utG6qze-quO_4A,4.0,$,268.0,Coffee & Tea,,,20.74911428,Other
-Pizzetta 211,211 23rd Ave,83,Low Risk,83.27777778,94121.0,QOpqNPKpClL48TVVrYobAw,4.5,$$,1203.0,Pizza,,,5.955588812,Other
+Pizzetta 211,211 23rd Ave,83,Low Risk,83.27777778,94121.0,QOpqNPKpClL48TVVrYobAw,4.5,$$,1203.0,Pizza,,,5.955588812,Italian
 Cafe Prague,424 Merchant St,68,Moderate Risk,69.0,94111.0,WI3XGMuBiy04YR6rmiLnyQ,3.5,$$,245.0,Czech,Cafes,,13.31522958,Other
 Bei Jing Restaurant,1801 Alemany Blvd,65,High Risk,72.31818182,94112.0,8sTqr9ehaZuqORQCddYeUg,3.5,$$,458.0,Chinese,,,2.28973866,Chinese
 Cafe Enchante,6157 GEARY Blvd,90,Low Risk,92.0,94121.0,MNE2e4UoORx_JqJzKTkRlQ,4.0,$,289.0,Coffee & Tea,Bagels,,5.573445202,Other
@@ -1312,19 +1312,19 @@ Tacos San Buena #2,79 Sansome St,83,High Risk,80.72727273,94104.0,BNiAdGR9pvgJvX
 China Fun Express,211 Kearny St,87,Moderate Risk,87.0,94108.0,foGe0ZZgkviDZcNUH0N70w,3.0,$,159.0,Chinese,,,6.600489168999999,Chinese
 Mercury Cafe,201 Octavia St,94,Moderate Risk,92.8,94102.0,X1XdSgiNBAEwMrC7WeLO2w,4.0,$,295.0,Coffee & Tea,Sandwiches,,23.50502663,Other
 Haus Coffee,3086 24th St,98,Low Risk,91.71428571,94110.0,RF-9DydHA1BsTaRx_MB-eQ,3.5,$,413.0,Coffee & Tea,,,5.4342032620000005,Other
-Goat Hill Pizza,171 Stillman St,87,Low Risk,87.0,94107.0,aoL4l31kJDURPsnpzofDVg,3.5,$$,162.0,Pizza,,,5.942532452000001,Other
+Goat Hill Pizza,171 Stillman St,87,Low Risk,87.0,94107.0,aoL4l31kJDURPsnpzofDVg,3.5,$$,162.0,Pizza,,,5.942532452000001,Italian
 Thanh Tam II,577 Valencia St.,78,Moderate Risk,77.53846154,94110.0,dp79eNPRsgJ8MgBjH5DozQ,3.5,$,394.0,Vietnamese,,,10.03070289,Vietnamese
-North Beach Pizza,1462 Grant Ave,88,Moderate Risk,87.57142857,94133.0,AdGVHby-rwevZ0kzUmmwUg,3.0,$$,518.0,Pizza,,,7.173195784,Other
+North Beach Pizza,1462 Grant Ave,88,Moderate Risk,87.57142857,94133.0,AdGVHby-rwevZ0kzUmmwUg,3.0,$$,518.0,Pizza,,,7.173195784,Italian
 54 Mint Wine Bar,16 Mint Plaza,93,High Risk,93.8,94103.0,QajaCa7rYHgaQ5TvZD6M-A,4.0,$$$,1105.0,Italian,Diners,Cocktail Bars,10.52367438,Italian
 Bread and Cocoa,199 Sutter St,91,Low Risk,78.25,94104.0,lMipM9xXR3amL-VzSFfKBg,3.5,$,712.0,Sandwiches,Coffee & Tea,Breakfast & Brunch,8.020757425,Other
 New Luen Sing Fish Market,1207 Stockton St,84,Low Risk,77.76923077,94133.0,jAvnj60BFrMBHLUKtJvOew,3.0,$$$,3.0,Seafood Markets,,,3.719137462,Other
 Fishbowl,1854 DIVISADERO St,94,Low Risk,91.6,94115.0,qMoaAv2WUAybwx-bOxCc5w,3.5,$,260.0,Pubs,,,3.525219083,Other
-Escape From New York Pizza,1737 Haight St,94,Low Risk,96.0,94117.0,KH_Tpzy29VRGIrtVhNFY2w,4.0,$,1063.0,Pizza,Gluten-Free,Chicken Wings,26.94068203,Other
+Escape From New York Pizza,1737 Haight St,94,Low Risk,96.0,94117.0,KH_Tpzy29VRGIrtVhNFY2w,4.0,$,1063.0,Pizza,Gluten-Free,Chicken Wings,26.94068203,Italian
 Catering For Two Or More,5051 MISSION STREET,88,Moderate Risk,82.46666667,94112.0,m3WZHZdKrSjHn-14_2ViWg,5.0,,16.0,Caterers,,,10.17749243,Other
 Woerner's Liquor,901 Geary St,96,Low Risk,84.27272727,94109.0,_Y9yb54sLewh8x0dqX6Y0A,3.5,$$,15.0,"Beer, Wine & Spirits",,,6.312227386,Other
 The Tipsy Pig,2231 CHESTNUT St,93,High Risk,92.33333333,94123.0,lbH9iQJM4wwgPQI2RL1oPg,3.5,$$,1510.0,Gastropubs,Bars,American (New),13.00668816,Other
-Tony's Pizza,1570 Stockton St,90,Moderate Risk,89.09090909,94133.0,mSMZJj2pFvttWLpcDmgrEA,4.0,$$,4553.0,Pizza,Italian,Cocktail Bars,8.075196356000001,Other
-Naples Pizzarella,1192 GENEVA Ave,94,Moderate Risk,92.8,94112.0,D9Ati4R4cRoitMFTtzBudQ,3.0,$,92.0,Pizza,Seafood,Sandwiches,3.61434672,Other
+Tony's Pizza,1570 Stockton St,90,Moderate Risk,89.09090909,94133.0,mSMZJj2pFvttWLpcDmgrEA,4.0,$$,4553.0,Pizza,Italian,Cocktail Bars,8.075196356000001,Italian
+Naples Pizzarella,1192 GENEVA Ave,94,Moderate Risk,92.8,94112.0,D9Ati4R4cRoitMFTtzBudQ,3.0,$,92.0,Pizza,Seafood,Sandwiches,3.61434672,Italian
 Yummy Bakery & Restaurant,607 Jackson St,94,Low Risk,93.11111111,94108.0,jlfRzbNxfwlEMqZtKKwmMg,4.0,$,161.0,Bakeries,,,7.97181808,Other
 Woodhouse Fish Co.,1914 FILLMORE St,94,Moderate Risk,91.71428571,94115.0,PFk6k_hEGG0n6_FAJSm9EQ,4.0,$$,2115.0,Seafood,American (New),,8.431214897,Other
 Sushi Umi,132 Bush St,85,Low Risk,79.5,94104.0,AbN47cP3SWvj4uvWnT7pSQ,2.5,$$,138.0,Sushi Bars,Japanese,,4.471107593,Japanese
@@ -1337,7 +1337,7 @@ Little Delhi India Restaurant,83 Eddy St,91,Low Risk,78.78947368,94102.0,Qr0dBKx
 Oasis Cafe,901 Divisadero St,84,High Risk,87.0,94115.0,nGet0Wd9KwkF2OMoOSP0yg,4.5,$$,222.0,Ethiopian,Gluten-Free,Vegetarian,10.83800439,Other
 Enjoy Vegetarian Restaurant #2,839 Kearny St,94,Low Risk,94.375,94108.0,XKj8_4QdoBMeYcg6OoespA,4.0,$$,508.0,Chinese,,,1.5335289930000002,Chinese
 Golden Gate Dim Sum Seafood,1829 Clement St,63,High Risk,68.47619048,94121.0,s60VG68VDe6PZBuW3958zQ,2.5,$$,154.0,Dim Sum,Seafood,,4.274605687,Other
-Escape from New York Pizza,3242 22nd St,100,Low Risk,98.4,94110.0,C_W-HP1aYfHodUn6DPjZuw,3.0,$,183.0,Pizza,,,4.647908635,Other
+Escape from New York Pizza,3242 22nd St,100,Low Risk,98.4,94110.0,C_W-HP1aYfHodUn6DPjZuw,3.0,$,183.0,Pizza,,,4.647908635,Italian
 Basa Seafood Express,3064 24th St,85,High Risk,80.94736842,94110.0,imHjAJ9uuUK_PNkzT9kCag,4.5,$,598.0,Seafood,Sandwiches,Burgers,5.500167122000001,Other
 Parkside Quickly,1050 TARAVAL St,86,Low Risk,86.84210526,94116.0,JWxqFUDpzX-tn7aikLlOQQ,2.5,$,186.0,Asian Fusion,Coffee & Tea,Bubble Tea,6.548824162000001,Other
 Aveline / The European,490 Geary St,96,Moderate Risk,89.25,94102.0,p1c1DhOH4C8scoLlagE5Bg,4.0,$$,136.0,Cocktail Bars,Lounges,,1.149795831,Other
@@ -1348,12 +1348,12 @@ Flour & Water,2401 Harrison St,86,High Risk,87.0,94110.0,qs7FgJ-UXgpbAMass0Oojg,
 McGarden Bakery,5131 Mission St,81,High Risk,80.66666667,94112.0,LYExDwZBa1hmKCXXdJ_0Mw,4.0,$,23.0,Bakeries,Coffee & Tea,Sandwiches,6.890946227000001,Other
 Bouche,603 Bush St,91,High Risk,91.0,94108.0,mfD5wlWS6tY92FJHDcBwJA,4.5,$$$,736.0,French,,,11.76460273,Other
 Laureate,488 PRESIDIO Ave,96,Moderate Risk,92.0,94115.0,11xyVVjyLyf3JLcxNZXiuQ,4.0,,9.0,Lounges,Cocktail Bars,,12.52927364,Other
-JANNAH,1775 FULTON St,76,High Risk,79.42857143,94117.0,3OJDmLIElDu-ZWSsBdncdQ,4.5,$$,375.0,Middle Eastern,,,0.83583863,Other
+JANNAH,1775 FULTON St,76,High Risk,79.42857143,94117.0,3OJDmLIElDu-ZWSsBdncdQ,4.5,$$,375.0,Middle Eastern,,,0.83583863,Mediterranean
 OTD,2232 Bush St,94,Low Risk,88.0,94115.0,L5IUpy5mivDyUuwgKcLh7g,3.5,$$,667.0,Vietnamese,,,22.43383308,Vietnamese
 KAMEKYO,943 COLE St,90,Low Risk,90.375,94117.0,fV-FyAnmdzJr9gAKtotXiA,3.5,$$,223.0,Sushi Bars,Japanese,,5.163320838,Japanese
 Saigon Deli Express,50 Drumm St,92,Moderate Risk,92.25,94111.0,v98OxfO-yZjQGqzBuXMerg,2.5,$,112.0,Vietnamese,Delis,,7.799958244,Vietnamese
 Ted's Sports Bar & Grill,312 HARRIET St,92,Moderate Risk,81.5,94103.0,afowVC3HF8FtEV4hVqd-3g,4.0,$$,162.0,Sports Bars,American (Traditional),Chicken Wings,5.670506238,Other
-Zantes Pizza,3489 MISSION St,89,Moderate Risk,91.78571429,94110.0,WIg_d_GJzk-2SDRGp4W9MQ,3.5,$$,997.0,Pizza,Indian,,0.5958477010000001,Other
+Zantes Pizza,3489 MISSION St,89,Moderate Risk,91.78571429,94110.0,WIg_d_GJzk-2SDRGp4W9MQ,3.5,$$,997.0,Pizza,Indian,,0.5958477010000001,Italian
 Aicha,1303 Polk St,91,Low Risk,91.3,94109.0,r_jnIM3ziVhCUKMI3iQ6WQ,4.0,$$,473.0,Moroccan,Halal,Middle Eastern,4.214169218,Other
 Tsunami Panhandle,1306 Fulton St,87,High Risk,87.0,94117.0,NBdAqG4Kdqy0BrCrWa0xUg,3.5,$$$,857.0,Sushi Bars,Japanese,Seafood,3.8722592160000002,Japanese
 The Little Chihuahua,292 Divisadero St,94,Moderate Risk,94.0,94117.0,7rUZnmRVyCpq4TrB9Brsiw,4.0,$$,1428.0,Mexican,,,2.748144996,Mexican
@@ -1375,17 +1375,17 @@ Clay Oven Indian Restaurant,385 WEST PORTAL Ave,81,Moderate Risk,85.92307692,941
 Ninki Sushi Bar & Restaurant,1439 TARAVAL St,78,High Risk,82.0,94116.0,h6l8EL19eoNvAzUK5dDR3Q,3.0,$$,310.0,Sushi Bars,,,5.861849841000001,Japanese
 Manzoni,2790 Diamond St,96,Low Risk,94.85714286,94131.0,pf_1RlNcUfs9KkntxVQFmA,4.0,$$,220.0,Italian,,,20.92879571,Italian
 Salama Halal Meat,604 Geary St,100,,100.0,94102.0,DtTuMb5gaSWbaqABmuNK1g,4.0,$$,72.0,Meat Shops,,,8.789984381,Other
-Nizario's Pizza No 4,279 Columbus St,92,Moderate Risk,92.0,94133.0,39lX9TdUBxkdNxALgqtvyg,3.5,$,172.0,Pizza,,,7.257731741000001,Other
+Nizario's Pizza No 4,279 Columbus St,92,Moderate Risk,92.0,94133.0,39lX9TdUBxkdNxALgqtvyg,3.5,$,172.0,Pizza,,,7.257731741000001,Italian
 Phillies,932 GENEVA Ave,92,Moderate Risk,92.66666667,94112.0,IQN7FHupd698zsc6XmvWQA,4.0,$,259.0,Sandwiches,Cheesesteaks,,8.539357165,Other
-Papa John's Pizza,69 Cambon Dr,94,Low Risk,90.0,94132.0,yCaEfwzerj8QFL6rxYPqSQ,2.5,$$,169.0,Pizza,,,1.795525768,Other
+Papa John's Pizza,69 Cambon Dr,94,Low Risk,90.0,94132.0,yCaEfwzerj8QFL6rxYPqSQ,2.5,$$,169.0,Pizza,,,1.795525768,Italian
 Sightglass Roasters,270 07th St,100,Low Risk,98.0,94103.0,VD527WwvrhE3Nhzf5vaMNw,4.0,$$,1745.0,Coffee & Tea,,,25.86302981,Other
 Parkside Tavern,1940 TARAVAL St,86,Moderate Risk,88.0,94116.0,2kAb8kvymt5xJfoNFTwFyQ,4.0,$$,528.0,Bars,Breakfast & Brunch,American (Traditional),4.531289461,Other
 Yamasho,1161 Post St,96,Moderate Risk,94.4,94109.0,BrZ6n1TMCkPfxkF-B09F0Q,3.5,$$,565.0,Japanese,Karaoke,Sushi Bars,3.610841161,Japanese
 Trace Restaurant,181 3rd St 1/F,96,Moderate Risk,89.57142857,94103.0,bKfPWcmfszfvQ1CNhvVhlQ,3.5,$$,331.0,American (New),,,15.25804657,American
 Upstairs Bar,181 03rd St 2/F,92,Moderate Risk,92.66666667,94105.0,hdnNzDpEVxBYUYlrPr0CzA,3.0,$$,8.0,Lounges,,,8.675617363999999,Other
-Pi Bar,1432 Valencia St,87,Low Risk,89.625,94110.0,d3KfHPRCscsm2gC884lsHg,3.5,$$,431.0,Pizza,Gastropubs,Beer Bar,5.673986871,Other
+Pi Bar,1432 Valencia St,87,Low Risk,89.625,94110.0,d3KfHPRCscsm2gC884lsHg,3.5,$$,431.0,Pizza,Gastropubs,Beer Bar,5.673986871,Italian
 Cafe Me,500 Washington St #102,100,,100.0,94111.0,bdFlEMBC6HRgoHKcgoHc1g,4.5,$,288.0,Coffee & Tea,Sandwiches,Breakfast & Brunch,25.88232106,Other
-Patxi's Chicago Pizza,3318 Fillmore St,87,Moderate Risk,86.4,94123.0,mMbfBqC3RHiGWGZoY0eWCg,3.5,$$,881.0,Pizza,Salad,Italian,7.510856559,Other
+Patxi's Chicago Pizza,3318 Fillmore St,87,Moderate Risk,86.4,94123.0,mMbfBqC3RHiGWGZoY0eWCg,3.5,$$,881.0,Pizza,Salad,Italian,7.510856559,Italian
 Mayes,1233 Polk St,81,Moderate Risk,83.15384615,94109.0,uXIXd10crfSV8JJi-efHeA,3.0,$$,629.0,Bars,Dance Clubs,American (New),8.422883587000001,Other
 Quince Restaurant,470 Pacific Ave,100,,100.0,94133.0,zFxD8QinHt69Bs7M2mgB-Q,4.0,$$$$,1416.0,French,Italian,,3.872500292,Other
 Pupuseria El Golazo,785 Moscow St,94,Low Risk,94.66666667,94112.0,R-qR-pFCw71bjFpr8jfi6Q,3.0,$,3.0,Restaurants,,,6.736076291,Other
@@ -1410,11 +1410,11 @@ Delarosa,2175 CHESTNUT St,86,Moderate Risk,89.0,94123.0,QQkroHtwS96-dzMpT4a-DA,4
 Barbacco Eno-Trattoria,220 California St,94,Moderate Risk,90.0,94111.0,Wd5ho0_FKk9n7uV8pSCYIg,4.0,$$,1560.0,Italian,Bars,,15.80624927,Italian
 La Oaxaquena Bakery and Restaurant,2128 Mission St,67,Low Risk,72.88,94110.0,KKBBekDW-TQK8tam_6dn7w,4.0,$,496.0,Mexican,,,7.099433436,Mexican
 The Sacred Grounds Cafe,2095 HAYES St,91,High Risk,91.0,94117.0,N2MO7risubQGcEoVhDUoyw,3.5,$,138.0,Coffee & Tea,Sandwiches,,6.140194725,Other
-Brothers Pizza,3627 TARAVAL St,96,Moderate Risk,88.22222222,94116.0,FiECX8M93w3e3AmWchPSAw,3.5,$,366.0,Pizza,Indian,,12.52841902,Other
+Brothers Pizza,3627 TARAVAL St,96,Moderate Risk,88.22222222,94116.0,FiECX8M93w3e3AmWchPSAw,3.5,$,366.0,Pizza,Indian,,12.52841902,Italian
 The Grove,690 Mission St,90,Moderate Risk,88.66666667,94105.0,4_hIVof0Q8dfUBwlREOEGg,3.5,$$,1847.0,Sandwiches,American (New),Cafes,4.251555178,Other
 The American Grilled Cheese,1 South Park  Suite 103A,96,Moderate Risk,94.5,94107.0,gxb1-SxUSEIskQg-nNcO-A,4.0,$$,1473.0,Breakfast & Brunch,American (Traditional),,13.47857369,Other
 Credo Restaurant,360 Pine St,92,Low Risk,89.81818182,94104.0,iXjbvsGyhGttLRaV6shP1g,4.0,$$$,820.0,Italian,Bars,,11.17380604,Italian
-Donairo's Pizza,6905 Geary Blvd,94,Low Risk,96.0,94121.0,uyNbpsDWXXoIhY9nKdAFpw,4.0,$,139.0,Pizza,Salad,Chicken Wings,7.029623186,Other
+Donairo's Pizza,6905 Geary Blvd,94,Low Risk,96.0,94121.0,uyNbpsDWXXoIhY9nKdAFpw,4.0,$,139.0,Pizza,Salad,Chicken Wings,7.029623186,Italian
 Lee's Deli,615 Market St,94,Moderate Risk,89.8,94105.0,TDZXy8vev4R3uENpkjY3pg,3.0,$,123.0,Sandwiches,Chinese,Salad,10.69186402,Other
 Good Eats Cafe,200 Pine St #160,89,Low Risk,88.5,94104.0,UapQrh04k9QkZuuIuc_mzg,4.0,$,171.0,Cafes,,,9.761556745,Other
 Rosamunde Sausage Grill,2832 MISSION St,86,Moderate Risk,88.83333333,94110.0,J-gFvT4B5UoZgoEOAmxNxw,3.5,$$,943.0,Bars,Breakfast & Brunch,German,6.588813981,Other
@@ -1469,7 +1469,7 @@ Benu,22 HAWTHORNE St,98,Low Risk,97.0,94105.0,q2EbLD93gEO5uXXx7Pk3bw,4.5,$$$$,10
 Spice Kit,405 Howard St Suite 130,78,High Risk,82.15384615,94105.0,ZvF32O9uid0dMyyQcPeYPg,3.5,$,543.0,Sandwiches,Asian Fusion,,40.98697173,Other
 Curbside Cafe,2417 CALIFORNIA St,85,Moderate Risk,83.66666667,94115.0,eL1aKZx9bplkBesYcGJ11w,4.0,$$,696.0,Breakfast & Brunch,French,American (New),28.46901419,Other
 Hooker's Sweet Treats,442 Hyde St,96,Moderate Risk,98.4,94109.0,tAghPcePjS0SpWDPfrDTTA,4.5,$$,273.0,Chocolatiers & Shops,Coffee & Tea,,3.522781868,Other
-Slice House by Tony Gemignani,1556 Stockton St,94,Low Risk,90.57142857,94133.0,huUzLVDESMfD-MV0w3BjpQ,3.5,$,405.0,Pizza,Sandwiches,,6.464772468,Other
+Slice House by Tony Gemignani,1556 Stockton St,94,Low Risk,90.57142857,94133.0,huUzLVDESMfD-MV0w3BjpQ,3.5,$,405.0,Pizza,Sandwiches,,6.464772468,Italian
 The Little Chihuahua Mexican,4123 24th St,96,Moderate Risk,98.0,94114.0,bNXxYVpi5YvbhVHIi4MLWA,3.5,$$,358.0,Mexican,,,7.168898756,Mexican
 Spin City Coffee Bar,1299 SANCHEZ St,92,Moderate Risk,93.8,94114.0,O6tHtZC9tEfyHjr7gZ0Nyw,4.0,$,125.0,Coffee & Tea,Laundromat,,5.707273007,Other
 Roam Artisan Burgers,1785 UNION St,89,High Risk,92.0,94123.0,6wUNarxe7sJTriiqLjZHAA,4.0,$$,1502.0,Burgers,,,3.289132095,Other
@@ -1497,7 +1497,7 @@ Yakiniq,1640 Post St 2nd Floor,87,,87.0,94115.0,pgJUJIRqxn4pF9BTo1wChw,3.0,$$,13
 The Salad Place,400 London St,96,Moderate Risk,93.33333333,94112.0,Wk1-orX62HlLxyIO0yHp-A,4.5,$,202.0,American (Traditional),Sandwiches,Salad,7.039138106,American
 The Golden West,8 Trinity Pl,89,Low Risk,82.125,94104.0,MKh6d8G53GPFvi7oWY-h1Q,4.0,$,354.0,Bakeries,Sandwiches,American (New),18.42216775,Other
 Angkor Borei Restaurant,3471 MISSION St,92,Low Risk,91.28571429,94110.0,SEDGOmBM_J10LEUR8M-BUQ,4.0,$$,511.0,Cambodian,,,3.6968455239999995,Other
-Zero Zero,826 FOLSOM St,90,Low Risk,90.88888889,94107.0,8skVQNkVBv90iiPtFeSpzw,4.0,$$,3157.0,Pizza,Italian,Cocktail Bars,8.569081599,Other
+Zero Zero,826 FOLSOM St,90,Low Risk,90.88888889,94107.0,8skVQNkVBv90iiPtFeSpzw,4.0,$$,3157.0,Pizza,Italian,Cocktail Bars,8.569081599,Italian
 Tokyo Express Restaurant,814 Mission St,72,High Risk,73.57894737,94103.0,S3WHEyZlU5tutkUgJoRLxA,3.5,$$,434.0,Sushi Bars,Japanese,,4.717856525,Japanese
 Saiwaii Ramen,2240 IRVING St,94,Low Risk,94.0,94122.0,7Cl-sZlymEjhxm0MJTR7nw,3.5,$$,1128.0,Sushi Bars,Ramen,Chinese,6.129597785,Japanese
 Subway Sandwiches,77 Van Ness Ave #100,92,Moderate Risk,91.28571429,94102.0,qDjjbKNlkmkmG5_Y9AuB5g,2.5,$,32.0,Sandwiches,Fast Food,,13.65119897,Other
@@ -1516,10 +1516,10 @@ Ragazza,311 DIVISADERO St,92,Moderate Risk,92.0,94117.0,9acPdpguULGPbChPwpS3aw,4
 The Sycamore,2140 MISSION St,94,Moderate Risk,86.70588235,94110.0,wNcShx5YTSMvOxt6G0iA9w,4.0,$$,711.0,Gastropubs,Bars,,8.76209298,Other
 Moyo's Yogurt,1737 Post St #367,96,Moderate Risk,97.0,94115.0,pGtYO6HNIJ3VrBsmRqEgSg,3.5,$,124.0,Ice Cream & Frozen Yogurt,,,7.357979942,Other
 Arizmendi Bakery,1268 Valencia St,94,Moderate Risk,90.54545455,94110.0,_2_1FQO_DGzeCTky0x9DQA,4.5,$,579.0,Bakeries,Pizza,,7.614135647,Other
-Fresco Pizza and Grill,1338 Polk St,90,Moderate Risk,88.33333333,94109.0,YP_rvV2YMnM8MTIBV3M8Sw,3.5,$,339.0,Pizza,Middle Eastern,,8.071758254,Other
+Fresco Pizza and Grill,1338 Polk St,90,Moderate Risk,88.33333333,94109.0,YP_rvV2YMnM8MTIBV3M8Sw,3.5,$,339.0,Pizza,Middle Eastern,,8.071758254,Italian
 House of Thai,901 LARKIN ST,96,Moderate Risk,89.57142857,94109.0,vKBW6SWFrIYXW1kIOFY_Ng,4.0,$$,1290.0,Thai,,,8.253686988,Thai
 Dragon River Restaurant,5045 GEARY Blvd,69,High Risk,77.36363636,94118.0,mWIsRlWrFsHFw4fb03HONQ,3.5,$,131.0,Chinese,,,4.047314977,Chinese
-Golden Gate Indian Cuisine & Pizza,1388 C 46th Ave,86,Low Risk,89.27272727,94122.0,#NAME?,3.5,$$,480.0,Pizza,Indian,Seafood,16.45787932,Other
+Golden Gate Indian Cuisine & Pizza,1388 C 46th Ave,86,Low Risk,89.27272727,94122.0,#NAME?,3.5,$$,480.0,Pizza,Indian,Seafood,16.45787932,Italian
 BBC cafe,1485 BAYSHORE Blvd,92,Moderate Risk,90.5,94124.0,daoZStJN1oLeR6clUUXSFA,3.5,$$,15.0,Cafes,Burgers,Sandwiches,5.607349127999999,Other
 Sutter Pub and Restaurant,700 Sutter St,88,Moderate Risk,84.0,94102.0,NeYsTX0GyVq8k-J3dGNf5Q,3.5,$$,265.0,Breakfast & Brunch,Beer Bar,Burgers,7.577988962999999,Other
 Goody Goodie Cream & Sugar,1830 HARRISON STREET,85,Moderate Risk,86.09090909,94103.0,KptdS65mEaw53veKwdyaqg,4.0,$,88.0,Bakeries,Coffee & Tea,Desserts,5.655401404,Other
@@ -1529,7 +1529,7 @@ Fatted Calf SF,320 Fell St,92,Moderate Risk,96.0,94102.0,hoZ-BYwxXSNd5gaLUFcU7Q,
 Aroma Tea Shop,302 06th Ave,100,Low Risk,94.66666667,94118.0,4CykXfygkNWlz87qkh5SCA,4.5,$$,220.0,Coffee & Tea,,,7.558353635,Other
 Leopold's,2400 Polk St,94,Low Risk,94.0,94109.0,sQavxElZ71EGMrQ1zktn8Q,4.5,$$,1006.0,German,Austrian,Bars,4.270392533,Other
 Piccadilly Fish & Chips,1348 Polk St,92,Moderate Risk,92.57142857,94109.0,haF3hGlqzeLYmNJ-0cq5yA,3.5,$,266.0,Fish & Chips,,,2.08819363,Other
-Michael Mina Restaurant,252 California St,88,Low Risk,85.5,94111.0,5I3fM8fRdkJdKL-_BJ1qvw,4.0,$$$$,1177.0,Middle Eastern,,,7.854608358999999,Other
+Michael Mina Restaurant,252 California St,88,Low Risk,85.5,94111.0,5I3fM8fRdkJdKL-_BJ1qvw,4.0,$$$$,1177.0,Middle Eastern,,,7.854608358999999,Mediterranean
 Twenty Five Lusk,25 Lusk St,96,Low Risk,96.0,94107.0,zvIbFkcZwqhTuDF7t7eQsQ,4.0,$$$,1374.0,American (New),Cocktail Bars,,6.9730868820000005,American
 We Love Jam,1310 09th Ave,100,,100.0,94122.0,OXyM6FbiEzqdYpimZIz1kw,4.5,$$,10.0,Specialty Food,,,20.49516229,Other
 Sushirrito,59 New Montgomery St,94,Low Risk,86.8,94105.0,olURYDOi4ZlLlCV7vVuuCg,3.5,$$,1562.0,Japanese,Asian Fusion,Sushi Bars,3.9757867360000003,Japanese
@@ -1545,10 +1545,10 @@ Straw,203 Octavia St,85,Low Risk,87.5,94102.0,IMcnK1JuvoQPN8OktoLtIg,4.0,$$,1735
 18 Reasons,3674 18th St,92,Moderate Risk,92.0,94110.0,PY6Y8XE2DcoZTHxweJGufw,4.5,,55.0,Venues & Event Spaces,Cooking Schools,,6.801794247,Other
 Reveille Coffee,768 Sansome,90,Moderate Risk,90.0,94111.0,2YTKy7LN5jZVF-xz1C0AGg,4.0,$$,75.0,Coffee & Tea,Food Trucks,,9.647415976,Other
 Mint,1 Dr Carlton B. Goodlett Pl Basement,88,Moderate Risk,88.85714286,94102.0,wmHsRaRxka4ZOqZGkNNLmQ,3.5,$,8.0,Salad,Soup,Sandwiches,38.31907233,Other
-Locali Mediterranean,98 Battery St #B,94,Low Risk,88.66666667,94111.0,weV0R2I-nc73zbmkd-Etdw,4.0,$,227.0,Greek,Mediterranean,Halal,25.31124238,Other
+Locali Mediterranean,98 Battery St #B,94,Low Risk,88.66666667,94111.0,weV0R2I-nc73zbmkd-Etdw,4.0,$,227.0,Greek,Mediterranean,Halal,25.31124238,Mediterranean
 Jane,2123 Fillmore St,90,Moderate Risk,86.36363636,94115.0,Xc_ZRIqAbNfUb2m54xnRoA,4.0,$$,915.0,Coffee & Tea,Bakeries,Breakfast & Brunch,5.9419869279999995,Other
 Palmyra,700 HAIGHT St,88,Moderate Risk,87.5,94117.0,ZD5-5Gu44WrcsYtw7qMgiw,4.0,$,821.0,Mediterranean,Middle Eastern,Syrian,13.10439824,Mediterranean
-Taraval Pizza,1115 Taraval St,84,Moderate Risk,88.5,94116.0,kTbI2NtsXwtaPlg-wN-jqA,3.0,$,222.0,Pizza,,,9.742289323,Other
+Taraval Pizza,1115 Taraval St,84,Moderate Risk,88.5,94116.0,kTbI2NtsXwtaPlg-wN-jqA,3.0,$,222.0,Pizza,,,9.742289323,Italian
 Modera Liquor & Wine,4401 Geary Blvd,96,Low Risk,95.6,94118.0,_BQXQQPA1NSQ5W3PCwLGoQ,4.5,$,19.0,"Beer, Wine & Spirits",Convenience Stores,,7.521517579,Other
 New Alternatives,1600 GUERRERO St,90,Low Risk,91.71428571,94110.0,K4He9m65xKuKacpbK6ebLQ,4.5,$,70.0,Cafes,Breakfast & Brunch,Juice Bars & Smoothies,7.396596972999999,Other
 Tope,1326 Grant Ave,90,Moderate Risk,91.6,94133.0,MyboQThGWO1z470Btk3iwQ,4.0,$,148.0,Dance Clubs,Cocktail Bars,,8.712739357,Other
@@ -1581,11 +1581,11 @@ Jackson Fillmore Trattoria,2506 FILLMORE St,90,Moderate Risk,88.85714286,94115.0
 Nob Hill Liquors,1000 Hyde St,94,Moderate Risk,92.0,94109.0,VBjF2lqeHLRkAcuj41825w,3.5,$$,13.0,"Beer, Wine & Spirits",,,7.60945403,Other
 Locanda,557 VALENCIA St,92,Moderate Risk,92.0,94110.0,43Ca7h2QxO6so8IvRk91FQ,4.0,$$$,957.0,Italian,Bars,Breakfast & Brunch,3.720877873,Italian
 Bluestem Brasserie,1 Yerba Buena Ln,80,High Risk,75.2,94103.0,dhTrfvdlpFE33USafJ3cjQ,3.5,$$$,1622.0,Brasseries,Steakhouses,Wine Bars,13.05450637,Other
-DNA Pizza,371 11th St,90,Moderate Risk,88.0,94103.0,ch6WIAsv-q1yJZ2STzGfGg,3.0,$,372.0,Pizza,Vegan,Sandwiches,6.181412052000001,Other
+DNA Pizza,371 11th St,90,Moderate Risk,88.0,94103.0,ch6WIAsv-q1yJZ2STzGfGg,3.0,$,372.0,Pizza,Vegan,Sandwiches,6.181412052000001,Italian
 Yellow Submarine,503 IRVING St,92,Low Risk,93.0,94122.0,o0SCABG4LGBKmIjiIB6WIQ,4.0,$,874.0,Sandwiches,,,5.110402113,Other
 La Ciccia,291 30th St,96,Low Risk,93.5,94131.0,1toCkhuD0b57iFotMu3XEQ,4.5,$$$,1052.0,Seafood,Sardinian,,7.680880216,Other
 Kobe Bento,901 Kearny St,94,Low Risk,91.0,94133.0,s2noUNveNyXYZyVqXGjcNQ,3.5,$,186.0,Asian Fusion,Juice Bars & Smoothies,Bubble Tea,6.417245325,Other
-Escape From New York Pizza,715 HARRISON St,100,Low Risk,99.0,94107.0,egC1k2gQRudp22rePKIWCQ,3.5,$,155.0,Pizza,,,8.713390112,Other
+Escape From New York Pizza,715 HARRISON St,100,Low Risk,99.0,94107.0,egC1k2gQRudp22rePKIWCQ,3.5,$,155.0,Pizza,,,8.713390112,Italian
 Gott's Roadside Tray Gourmet,1 Ferry Building #6,92,Low Risk,92.0,94111.0,5wmrWv9RTUlsim4c02lz2w,3.5,$$,2548.0,Burgers,Seafood,Sandwiches,7.548014402000001,Other
 Tacko Shop,3115 Fillmore St,92,Low Risk,92.0,94123.0,uUWH7T9V0kyu-3nig_gatQ,4.0,$$,713.0,Mexican,,,3.000699342,Mexican
 Focaccia Market Bakery,455 Market St 150,71,High Risk,75.5,94105.0,NfZKuDovZOIbCLZJGt4m2w,3.5,$,276.0,Delis,Bakeries,,11.27339019,Other
@@ -1596,12 +1596,12 @@ Red House Bakery,2818 San Bruno Ave,81,Low Risk,79.75,94134.0,M3Qs_xtzTMnWriyxOq
 Blarney Stone,5625 GEARY Blvd,98,Low Risk,95.0,94121.0,Ec4Lr71PxCnWjuI7NVnWOA,4.0,$,232.0,Pubs,Irish,,21.72555033,Other
 Haight Street Happy Donuts,1794 HAIGHT St,96,Low Risk,92.4,94117.0,TFbiAJ2AO8P5Q5HNis7sOw,3.0,$,43.0,Donuts,,,4.617193581,Other
 Venga Empanadas,443 Valencia St,87,Low Risk,87.21428571,94103.0,bbuirqZnTJ33WZx9sdii6A,3.5,$,385.0,Empanadas,Caterers,Argentine,7.229623664,Other
-Mr. Pizza Man,2680 22nd St,84,Low Risk,86.22222222,94110.0,GcvOqnJDNPxmBfTy_SGVTw,2.5,$,106.0,Pizza,,,5.494499583,Other
+Mr. Pizza Man,2680 22nd St,84,Low Risk,86.22222222,94110.0,GcvOqnJDNPxmBfTy_SGVTw,2.5,$,106.0,Pizza,,,5.494499583,Italian
 Sakesan,626 Clement St,88,Moderate Risk,87.66666667,94118.0,LDqA7rQ3fCmPWFymhIXXcQ,4.0,$$,1006.0,Japanese,Karaoke,Sushi Bars,9.324696627,Japanese
 Sugarhill Kitchen,1449 LOMBARD St,91,High Risk,92.66666667,94123.0,m0l7ZrOIJWfMTS-R36Z5Ng,4.0,$$,73.0,Tapas/Small Plates,American (New),Desserts,5.795820506,Other
 Spices Restaurant,291 06th Ave,80,Moderate Risk,78.86666667,94118.0,Rc8CGVjeE9eB3KZzcsKlCQ,4.0,$$,146.0,Szechuan,Taiwanese,Hot Pot,4.815841583,Other
 Ristorante Milano,1448 Pacific Ave,96,Low Risk,94.66666667,94109.0,v1aUahwzM8CTeLA0O7J8ww,4.0,$$$,688.0,Italian,,,2.478481635,Italian
-Roma Pizzeria,5099 MISSION St,78,Moderate Risk,76.95,94112.0,x1P8FikDw0WU78m-Hipu3w,2.5,$$,182.0,Pizza,Italian,,8.471986986000001,Other
+Roma Pizzeria,5099 MISSION St,78,Moderate Risk,76.95,94112.0,x1P8FikDw0WU78m-Hipu3w,2.5,$$,182.0,Pizza,Italian,,8.471986986000001,Italian
 Al's Super Cafe,3286 MISSION St,88,Low Risk,90.0,94110.0,uT8e6x2qzJFoZ9ndi-LLrQ,3.5,$$,150.0,American (Traditional),Breakfast & Brunch,Burgers,7.230745474,American
 Bamboo Asia,41 Montgomery St,86,Moderate Risk,81.0,94104.0,E_7WX-JGYRm2jKEIQzIbAw,3.5,$,685.0,Indian,Vietnamese,Japanese,7.500149264,Indian
 Naked Lunch,504 Broadway St,92,Low Risk,83.25,94133.0,K9aoButJPQD15rbA5HZMqw,4.0,$$,608.0,Sandwiches,Salad,Soup,8.267407232,Other
@@ -1621,7 +1621,7 @@ Tempest,431 NATOMA St,89,Moderate Risk,85.18181818,94103.0,qfdWWJCMvoTKI8u7rshm_
 Castro Village Wine Co.,4119 19th St,98,Low Risk,99.0,94114.0,XoSfRFF7F0K8dlquiWuuXw,4.5,$$,58.0,"Beer, Wine & Spirits",,,4.193776843999999,Other
 The Posh Bagel,742 IRVING St,96,Low Risk,88.2,94122.0,53OMO9ZADqat5GEF2B-LBg,3.0,$,157.0,Sandwiches,Coffee & Tea,Bagels,6.839653612,Other
 Cafe Majestic,1500 SUTTER St,90,Low Risk,84.2,94109.0,XdfyFAmoPZ7_doOxRKFCow,3.5,$$,46.0,Italian,Lounges,Venues & Event Spaces,1.945197036,Italian
-Nizario's Pizza #2,4077 18th St,92,Moderate Risk,87.33333333,94114.0,08zJLnD6LNHt491Yw68A7w,3.5,$,304.0,Pizza,,,8.532113245,Other
+Nizario's Pizza #2,4077 18th St,92,Moderate Risk,87.33333333,94114.0,08zJLnD6LNHt491Yw68A7w,3.5,$,304.0,Pizza,,,8.532113245,Italian
 Cafe Bunn Mi,417 CLEMENT St,68,Moderate Risk,73.33333333,94118.0,Ep3VtYXc-wvSAp8SaEGa_Q,4.0,$,1158.0,Vietnamese,Sandwiches,Noodles,5.686462975,Vietnamese
 Coffee To The People,1206 Masonic Ave,88,Moderate Risk,88.0,94117.0,HZThElQfFLIqGc8ZVdRh7g,3.5,$,487.0,Coffee & Tea,,,8.233370615,Other
 Sweet Hut,519 Clement St,83,Low Risk,85.58333333,94118.0,dViv_h32FR56owNtH6N0fg,3.5,$,274.0,Desserts,Bubble Tea,,3.702362908,Other
@@ -1644,7 +1644,7 @@ Lee's Deli,280 Battery St,73,High Risk,78.33333333,94111.0,o9qPn-h9qAwZo0jIytIxt
 DR. TEETH AND THE ELECTRIC MAYHEM,2323 MISSION St,84,Low Risk,84.92307692,94110.0,y8mGQTwmFaSu3d7dAywOHA,3.5,$$,977.0,Bars,American (New),,6.1922798960000005,Other
 Green Island Restaurant,4012 Geary Blvd,75,Moderate Risk,71.6,94118.0,u-obmxevldBOidDYkL8J6w,3.5,$,114.0,Chinese,,,8.545427852000001,Chinese
 MINT,1 Dr Carlton B Goodlett Pl Ground Floor,96,Low Risk,96.0,94102.0,wmHsRaRxka4ZOqZGkNNLmQ,3.5,$,8.0,Salad,Soup,Sandwiches,38.31907233,Other
-Paris Pizza,448 Broadway St,90,Low Risk,88.875,94133.0,b3AQeuuQw0_o-Qh7i3v28g,3.5,$,107.0,Pizza,Italian,Sandwiches,8.671875484,Other
+Paris Pizza,448 Broadway St,90,Low Risk,88.875,94133.0,b3AQeuuQw0_o-Qh7i3v28g,3.5,$,107.0,Pizza,Italian,Sandwiches,8.671875484,Italian
 Brick and Mortar,1710 Mission St,92,Low Risk,92.0,94103.0,6s67w_r3LZXiSZG8URUq8w,3.0,$$,158.0,Music Venues,,,6.546136422000001,Other
 Giordano Bros.,3108 16th St,94,Low Risk,89.875,94103.0,X43AJ7rTKiAS0vuuKRNVjA,4.0,$$,417.0,Sports Bars,Sandwiches,,8.74968828,Other
 Sozai,1500 Irving St,90,Moderate Risk,84.85714286,94122.0,pKP6ikrLyM5Gtua13kVoUw,4.0,$$,2016.0,Ramen,Izakaya,Noodles,12.50490092,Other
@@ -1668,7 +1668,7 @@ Jang Soo BBQ,6314 Geary Blvd,78,High Risk,78.47058824,94121.0,d74oNV0yHMfZPVoYy9
 Specialty's Cafe & Bakery,500 Howard St,90,Moderate Risk,92.66666667,94105.0,5l8QQIMUs7KJrcfq23_lmA,3.0,$,141.0,Sandwiches,Salad,Cafes,7.1744659010000005,Other
 Tupelo,1337 Grant Ave,90,Moderate Risk,81.9,94133.0,qYvkBzpJNKTyfcmAfzUKyQ,3.5,$$,231.0,Southern,Bars,Music Venues,9.479743832,Other
 Beachside Coffee Bar & Kitchen,4300 JUDAH St,85,High Risk,85.85714286,94122.0,fyeTybE7wDkieUwq4urOCA,4.0,$$,785.0,Breakfast & Brunch,Coffee & Tea,American (Traditional),6.225091213,Other
-Mozzeria,3228 16th St,89,Moderate Risk,91.66666667,94103.0,chZfJOs022rr8DufI4r3Uw,4.5,$$,713.0,Pizza,Italian,,7.2909199110000005,Other
+Mozzeria,3228 16th St,89,Moderate Risk,91.66666667,94103.0,chZfJOs022rr8DufI4r3Uw,4.5,$$,713.0,Pizza,Italian,,7.2909199110000005,Italian
 RIVERSIDE SEAFOOD RESTAURANT,1201 VICENTE St,86,Moderate Risk,76.66666667,94116.0,1xvpFG2vz5zKpbCS6lwFlQ,3.5,$$,286.0,Dim Sum,Seafood,Cantonese,7.210132797999999,Other
 Biergarten,424 Octavia St,88,Moderate Risk,90.5,94102.0,GfeaoeKtZh-57SFWgjPqnw,4.0,$$,523.0,German,Pubs,,7.70974298,Other
 Etcetera Wine Bar,795 VALENCIA St,96,Moderate Risk,95.0,94110.0,7hi9bFJQyiMDqaW8fcSLDQ,4.0,$$,331.0,Wine Bars,American (New),Tapas/Small Plates,13.35766296,Other
@@ -1750,7 +1750,7 @@ Kippu Japanese Restaurant,1707 BUCHANAN St,76,Low Risk,76.0,94115.0,wAPk6QJV6NtX
 Yong Fong Co.,612 Clement St,94,Moderate Risk,96.5,94118.0,lSRAnkiD8akXIMYIcCxPZw,4.0,,1.0,Drugstores,,,8.276695034,Other
 El Tomate Restaurant,2904 24th St,87,Low Risk,86.9375,94110.0,bNs24yP7wb3rcm6T_jexSw,4.5,$$,84.0,Mexican,Breakfast & Brunch,,7.745948146,Mexican
 Cassava,3519 Balboa St,85,High Risk,82.84615385,94121.0,muX0aRES6vsp5DEuJaW_uw,4.0,$$,807.0,American (New),Breakfast & Brunch,,6.896924847,American
-Nizario's Pizza,535 VALENCIA St,90,Low Risk,90.66666667,94110.0,VWIvg9RaWltrDfSa8ZZ05A,3.5,$,56.0,Pizza,,,4.003654067,Other
+Nizario's Pizza,535 VALENCIA St,90,Low Risk,90.66666667,94110.0,VWIvg9RaWltrDfSa8ZZ05A,3.5,$,56.0,Pizza,,,4.003654067,Italian
 Pho Nice,880 Geneva Ave #A,85,Moderate Risk,82.69230769,94112.0,Mgk1j_eDT06emCLlgMJrlg,3.0,$,116.0,Vietnamese,,,8.772483816,Vietnamese
 Wow Naan-N-Curry,642 Irving St,90,Moderate Risk,85.38461538,94122.0,zLvZUKm0eV5O27x4mzg-xw,3.0,$,1300.0,Indian,Pakistani,Halal,7.238691998999999,Indian
 Cerveceria De Mateveza,3801 18th St,100,,100.0,94114.0,dlDdlCew3UHfKlKNOtNHPw,4.0,$$,190.0,Bars,Breweries,Venues & Event Spaces,0.856965605,Other
@@ -1773,7 +1773,7 @@ Small Foods,522 02nd St,82,High Risk,78.0,94107.0,jDka56EYw8ZdrAEqMxROCQ,3.5,$$,
 Farley's,1315 18th St,94,Moderate Risk,94.4,94107.0,LPlebkRnRpmbrjz9Z8sYPg,4.0,$,631.0,Coffee & Tea,,,11.75705197,Other
 Slurp Ramen,710 Commercial St,92,Moderate Risk,91.25,94108.0,BO45tCdHsoFixt8nHzJC3w,4.0,$$,393.0,Ramen,Noodles,Soup,5.868460476,Other
 Super Duper,783 Mission St #1010,83,Moderate Risk,81.125,94103.0,uK9gleO9ufjw53z-qekWaw,4.0,$$,1275.0,Burgers,American (Traditional),,4.9328575,Other
-All Good Pizza,1605 Jerrold Ave,73,Moderate Risk,73.0,94124.0,BIKlPjJIN8fbNOkDQpkvZQ,4.5,$$,210.0,Pizza,Sandwiches,Salad,40.3667086,Other
+All Good Pizza,1605 Jerrold Ave,73,Moderate Risk,73.0,94124.0,BIKlPjJIN8fbNOkDQpkvZQ,4.5,$$,210.0,Pizza,Sandwiches,Salad,40.3667086,Italian
 Grant Place Restaurant,737 Washington St,92,Low Risk,79.4,94108.0,zR_f2QngVJFu9kkRpxXvYQ,2.5,$$,377.0,Dim Sum,Seafood,Cantonese,9.474406087,Other
 Geneva Bubble Tea,981 Geneva Ave,81,Moderate Risk,81.0,94112.0,pSVzNRoyaGZJ_hbm0T_tVg,3.5,$,61.0,Coffee & Tea,Bubble Tea,,6.736526458999999,Other
 Local Edition,691 Market St,88,Low Risk,88.0,94105.0,jp4X-7QjdffRBab9XMf2Bg,4.0,$$,1552.0,Lounges,Cocktail Bars,Whiskey Bars,7.744539034,Other
@@ -1786,7 +1786,7 @@ Ghirardelli Chocolate,845 Market St Suite 014,94,Moderate Risk,95.0,94103.0,np4o
 West of Pecos,550 Valencia St,90,Moderate Risk,89.75,94110.0,ReeiGTEamR1ScmzAdH7s4A,4.0,$$,915.0,American (Traditional),Tex-Mex,,5.550385593,American
 Cafe Troya Fillmore,2125 FILLMORE St,79,High Risk,82.08333333,94115.0,o4x29HYKvEUf7Regrn-J9g,4.0,$$,503.0,Mediterranean,Turkish,,14.81631765,Mediterranean
 Cajun House,308 05th Ave,84,Moderate Risk,85.25,94118.0,Mavr1mEE-CCP3GHTKle7BA,3.5,$$,531.0,Cajun/Creole,Seafood,Asian Fusion,7.140787473,Other
-Carmel Pizza Company,2826 Jones St,90,Moderate Risk,90.0,94133.0,IhVsaINdU_Syqp23JuKzrA,4.5,$$,751.0,Pizza,,,16.47082282,Other
+Carmel Pizza Company,2826 Jones St,90,Moderate Risk,90.0,94133.0,IhVsaINdU_Syqp23JuKzrA,4.5,$$,751.0,Pizza,,,16.47082282,Italian
 Lahore Karahi,612 O'Farrell St,83,Low Risk,76.51851852,94109.0,5zKrxtjKK09F_Dwgs5Kxwg,4.0,$,1373.0,Indian,Pakistani,,8.650284323,Indian
 Washington Cafe,826 Washington St,84,High Risk,81.13333333,94108.0,RijD_Q_BIYJMf4q-zlTvLQ,3.5,$$,181.0,Chinese,,,8.693006921,Chinese
 Hayes Valley Bakeworks,550 Gough St,94,Moderate Risk,95.2,94102.0,qW8Bh8jpS9Xc-UV28F9jBw,4.0,$,139.0,Bakeries,Coffee & Tea,American (New),6.397739915,Other
@@ -1806,11 +1806,11 @@ Grandma's Deli & Cafe,1551 Mission St,88,Low Risk,90.28571429,94103.0,E6wgv3ieF_
 Center Cafe,205 13th St,81,Low Risk,78.72727273,94103.0,FDpfJsxkExULZt3ipT8hVg,4.5,$,21.0,Chinese,,,7.0022511960000005,Chinese
 Mehfil Indian Restaurant,28 02nd St,53,High Risk,64.38461538,94105.0,QxwRTAggTFgRk1RskYDrjQ,3.5,$,332.0,Indian,,,29.99519818,Indian
 Dolce Amore,1477 Van Ness Ave,98,Low Risk,94.0,94109.0,ip8uNJnwVaPYYBiV80ZLoQ,4.0,$$,438.0,Modern European,Breakfast & Brunch,Desserts,4.991465176,Other
-Orexi Inc.,243 WEST PORTAL Ave,88,Low Risk,89.33333333,94127.0,Du3-fALBKDhn0osed2kOpg,4.0,$$,338.0,Greek,Mediterranean,Desserts,5.528961878,Other
+Orexi Inc.,243 WEST PORTAL Ave,88,Low Risk,89.33333333,94127.0,Du3-fALBKDhn0osed2kOpg,4.0,$$,338.0,Greek,Mediterranean,Desserts,5.528961878,Mediterranean
 SPRESSA,51 Cambon Dr,100,,100.0,94132.0,si_o8bmymED9RWxPHYnZ1A,3.0,$,91.0,Coffee & Tea,,,14.27253993,Other
 Jamber,858 Folsom St,90,Low Risk,89.0,94107.0,UF2y6BusFeZMZsGYUVcAaw,4.0,$$,641.0,Wine Bars,American (New),Pubs,3.675496724,Other
 Chili Cha Cha 2,3166 24th St,83,High Risk,86.36363636,94110.0,qVc7u4fu0HHWCUeYGxhRyg,4.0,$$,286.0,Thai,,,7.438279700000001,Thai
-Goat Hill Pizza,170 WEST PORTAL Ave,96,Moderate Risk,93.5,94127.0,Lq-o2PjfCp87XOOZC-N6Dw,3.5,$,218.0,Pizza,Italian,Sandwiches,5.497335252999999,Other
+Goat Hill Pizza,170 WEST PORTAL Ave,96,Moderate Risk,93.5,94127.0,Lq-o2PjfCp87XOOZC-N6Dw,3.5,$,218.0,Pizza,Italian,Sandwiches,5.497335252999999,Italian
 Tacos El Tuca,428 11th St,87,High Risk,87.0,94103.0,lKMWPIxn5sKD3mVk-q-bAA,3.0,,9.0,Food Stands,,,5.116145298,Other
 New Jumbo Seafood Restaurant,1532 NORIEGA St,64,High Risk,66.6,94122.0,_az0NrGR-v9P-xtKoE45CA,2.5,$$,207.0,Seafood,Cantonese,,7.31227698,Other
 Plaj Restaurant & Bar,333 FULTON St,91,Low Risk,92.5,94102.0,feufnVt4k_t2eJakDU1bAw,4.0,$$$,644.0,Scandinavian,Bars,,9.46718827,Other
@@ -1944,7 +1944,7 @@ Curry Up Now,659 Valencia St,92,Low Risk,91.0,94110.0,bBTRc2-Fq_ppT0b_i4v4iQ,3.5
 Crepe & Brioche,3251 20th Ave,100,,100.0,94132.0,VYSsWzzOVavuJ_EZc7-EXA,4.5,$,164.0,Farmers Market,,,4.461200572,Other
 Waraku,1638 Post St,90,Low Risk,90.0,94115.0,IdqBJvRIA0YPwLZaoUNM0w,3.5,$$,816.0,Ramen,Noodles,Izakaya,9.473038379,Other
 Sam's Cable Car Lounge,222 Powell St,96,Moderate Risk,96.0,94102.0,cP_wdOcf21fd2VWOXZH0cQ,4.0,$$,457.0,Lounges,,,13.4866596,Other
-Papa John's Pizza,969 Sutter St,94,Low Risk,92.375,94109.0,TyYg1zXxGgI8X_XOfpclHw,2.5,$,107.0,Pizza,,,9.599083718,Other
+Papa John's Pizza,969 Sutter St,94,Low Risk,92.375,94109.0,TyYg1zXxGgI8X_XOfpclHw,2.5,$,107.0,Pizza,,,9.599083718,Italian
 Chou Chou Bakery Bistro,400 Dewey Blvd,92,Moderate Risk,93.33333333,94116.0,tpuKzQh5d6veDB-M9qU6Fw,3.5,$$$,1158.0,French,,,5.789305822,Other
 Gold Dust Lounge,165 Jefferson St,79,Low Risk,79.0,94133.0,kq-tNuFXl01cpssLUIqH9w,4.0,$$,337.0,Lounges,Karaoke,Cocktail Bars,6.250101932000001,Other
 Xpresso Tea,6901 Geary Blvd,94,Low Risk,93.75,94121.0,NcBe0E7_Tx4D_21TP3MNcQ,3.5,$,41.0,Coffee & Tea,Bubble Tea,Taiwanese,5.909591947000001,Other
@@ -1971,7 +1971,7 @@ J. Georgie's Donuts and Restaurant,2462 San Bruno Ave,85,Low Risk,81.52631579,94
 AHA Fresh,4007 24th St,82,Low Risk,84.53333333,94114.0,3sGEIoyXkMmc1YX1TYkSMg,4.0,$$,953.0,Breakfast & Brunch,Burgers,,5.622005152000001,Other
 Palmer's,2298 Fillmore St,91,High Risk,91.5,94115.0,mYQmEp2dsRTmNhgIrJ7mKQ,3.5,$$,243.0,Bars,American (Traditional),,5.795312845,Other
 Tai Chi Restaurant,2031 Polk St,82,Low Risk,81.2,94109.0,iVqr8ThQQClKSWPcpYOebQ,3.5,$$,575.0,Chinese,,,7.150483017000001,Chinese
-Kezar Pizzetta,775 Frederick St,92,Moderate Risk,94.0,94117.0,bX9oEDq6qvQuuf6sxbfwVw,4.0,$$,147.0,Pizza,,,6.643494246,Other
+Kezar Pizzetta,775 Frederick St,92,Moderate Risk,94.0,94117.0,bX9oEDq6qvQuuf6sxbfwVw,4.0,$$,147.0,Pizza,,,6.643494246,Italian
 Proposition Chicken,1750 Market St,92,Moderate Risk,92.0,94102.0,T_7sirePSw4yP9OhoDMUwQ,3.5,$$,543.0,Chicken Wings,Gluten-Free,Comfort Food,6.092981609,Other
 Little Red Riding Truck,Soma Street Food Park,92,Moderate Risk,91.5,94103.0,ziDJD2-M38PUEmft4kJ8nQ,4.5,$$,845.0,Food Trucks,,,5.153785044,Other
 Roli Roti,Various Farmers Markets,91,Low Risk,91.0,94111.0,gaiA5XmqTeYODmzQgM8CHw,4.5,$$,1042.0,Farmers Market,,,22.93709152,Other
@@ -2000,7 +2000,7 @@ Pressed Juicery,2162 A Union St,98,Low Risk,96.5,94123.0,WqeEFLjIFsDZSRbFOneh6Q,
 Batter Up,428 11th St,93,High Risk,84.75,94103.0,ziDJD2-M38PUEmft4kJ8nQ,4.5,$$,845.0,Food Trucks,,,5.153785044,Other
 Roka Akor,801 Montgomery St,96,Moderate Risk,94.66666667,94133.0,qKVwVCJ_5D0iOxJYE9wSJw,4.0,$$$$,1183.0,Steakhouses,Japanese,Cocktail Bars,5.811613769,Other
 Foxtail Catering & Events,2565 03rd St Unit#310,100,Low Risk,96.0,94107.0,6VfQZGL16ztQbLlwjVOE1Q,4.0,,14.0,Caterers,,,3732.046631,Other
-Pizza Express,813 Cortland Ave,86,Low Risk,79.52380952,94110.0,nWq4vV0Sgz-QpX9DrVLubw,3.5,$$,161.0,Pizza,,,8.577449015,Other
+Pizza Express,813 Cortland Ave,86,Low Risk,79.52380952,94110.0,nWq4vV0Sgz-QpX9DrVLubw,3.5,$$,161.0,Pizza,,,8.577449015,Italian
 Mikkeller Bar,34 Mason St,90,Moderate Risk,90.90909091,94102.0,A4dzocYPoer0llJydoQU-g,4.0,$$,1166.0,Gastropubs,Beer Bar,Breakfast & Brunch,3.629614282,Other
 Golden Lotus,631 Larkin St,92,Moderate Risk,80.75,94109.0,AeMidC6u6o-oy9E0ZzfLPg,4.0,$,210.0,Vietnamese,Noodles,,6.040951599,Vietnamese
 Gallardo's Mexican Restaurant,3248 18th St,76,Moderate Risk,80.0,94110.0,a5m_BP44_9mtD0QEfeuKeA,4.0,$,421.0,Mexican,Breakfast & Brunch,,14.08715518,Mexican
@@ -2024,7 +2024,7 @@ Sabrosa,3200 Fillmore St,88,Low Risk,88.18181818,94123.0,dJ93b_ApQ5MmCXvN__OG3g,
 Le Marais Bakery,2066 Chestnut St,86,Low Risk,83.81818182,94123.0,B76lMItyIiNC_uD4QmqJYg,3.0,$$,570.0,Bakeries,French,Patisserie/Cake Shop,2.442274775,Other
 Applebee's Fisherman's Wharf,2770 Taylor St,100,Low Risk,98.5,94133.0,EOM6CItD6sI5P3a-JV61_Q,2.0,$$,453.0,Burgers,American (Traditional),Sports Bars,2.999685585,Other
 Bistro Gambrinus,1813 Fulton St,86,Low Risk,86.0,94117.0,d6N43H2tRrm5N1MdD2ENYQ,4.0,$$,291.0,Sports Bars,Comfort Food,American (Traditional),7.241098385,Other
-Nizario's Pizza SFSU,1650 Holloway Ave,98,Low Risk,96.66666667,94132.0,bZuoVQJW0tyrJ6NJMWnGfw,4.0,$,19.0,Pizza,,,24.46619693,Other
+Nizario's Pizza SFSU,1650 Holloway Ave,98,Low Risk,96.66666667,94132.0,bZuoVQJW0tyrJ6NJMWnGfw,4.0,$,19.0,Pizza,,,24.46619693,Italian
 The Fillmore,1805 Geary Blvd,98,Low Risk,94.0,94115.0,_xbBbHSrWM8vvTo9DO51EA,4.0,$$,1135.0,Music Venues,,,19.52819668,Other
 Tenroku Sushi,1825 Post St #215,83,Moderate Risk,73.4,94115.0,VGb0wBUFj7sBwJdru345qg,3.5,$$,390.0,Conveyor Belt Sushi,,,11.69487521,Japanese
 Dolores Park Cafe,501 Dolores St,94,Low Risk,92.8,94110.0,#NAME?,3.5,$$,672.0,American (New),Coffee & Tea,Breakfast & Brunch,4.888809514,American
@@ -2052,7 +2052,7 @@ Victory Hall And Parlor,360 Ritch St,92,Low Risk,92.88888889,94107.0,dhxGqKiGoeQ
 Home Cafe,1222 Noriega St,89,Low Risk,92.55555556,94122.0,t0MUKjSjCaQeXHTGQlfosg,4.5,$,992.0,Coffee & Tea,,,5.660961865,Other
 Laguna Café,1821 Haight St,90,Low Risk,91.6,94117.0,Z661e-IOrGuCcvLLe1lS1w,4.0,$$,318.0,Hookah Bars,Cafes,Middle Eastern,7.791587912000001,Other
 Zazang Restaurant,2340 Geary Blvd,78,Low Risk,78.0,94115.0,Cp_rUceIEyUzIe4DkrxDSA,3.5,$$,466.0,Korean,Noodles,Soup,6.862464055,Korean
-The Pizza Shop,3104 24th St,100,Moderate Risk,99.2,94110.0,13HilRfX-kXGxMS0BxNlpg,4.5,$,332.0,Pizza,,,23.4586158,Other
+The Pizza Shop,3104 24th St,100,Moderate Risk,99.2,94110.0,13HilRfX-kXGxMS0BxNlpg,4.5,$,332.0,Pizza,,,23.4586158,Italian
 Umami Burger,242 King St,89,High Risk,89.6,94107.0,kap3f22nZTN9rGofjFak_g,3.0,$$,964.0,Burgers,American (New),Gastropubs,9.393471826,Other
 Brioche Bakery & Cafe,210 Columbus Ave,88,Moderate Risk,84.76923077,94133.0,QQwsy-M3O5w6FSPaVFJ3uQ,4.0,$$,468.0,Bakeries,Breakfast & Brunch,Cafes,5.03658311,Other
 Chang Hong Meat Market,1335 Powell St,88,Low Risk,88.53333333,94133.0,6rUZd1LPgzYeOuZLffPckQ,4.5,,2.0,Meat Shops,,,9.225104369,Other
@@ -2081,7 +2081,7 @@ Bobo's Lounge,1434 Lombard St,98,Low Risk,91.0,94123.0,bgoSfVaZFXDthHLbWxyeQw,4.
 Reveille Coffee Co.,4080 18th St,90,Moderate Risk,93.42857143,94114.0,FaT8F0_7su4exwvKJ8ULPw,4.0,$,397.0,Coffee & Tea,Cafes,,3.62845603,Other
 Maruya,2931 16th St,91,High Risk,91.5,94103.0,k8UnUjLkikZSdJ8NYWl6zA,4.0,$$$$,347.0,Japanese,Sushi Bars,,8.587730913,Japanese
 Bonita Taqueria and Rotisserie,2257 Chestnut St,90,Moderate Risk,91.6,94123.0,SdOPi7Q1amwl5a-xbvY_ig,3.5,$$,276.0,Mexican,,,6.273109345,Mexican
-Pizza Zone,555 Beach St,98,Low Risk,96.66666667,94133.0,wtP5sfAxmBfWypUhNbdAww,3.5,$,147.0,Pizza,,,6.944836258,Other
+Pizza Zone,555 Beach St,98,Low Risk,96.66666667,94133.0,wtP5sfAxmBfWypUhNbdAww,3.5,$,147.0,Pizza,,,6.944836258,Italian
 Kaya,1420 Market St,89,Low Risk,86.25,94102.0,IRSeIAnxadeUqCNjKbfenQ,4.0,$$,155.0,Caribbean,,,5.777476191,Other
 Wang Wah Restaurant,1612 Ocean Ave,88,Moderate Risk,88.13333333,94112.0,oeaM1vbqnJ73eTqHNHgcjw,4.0,$,157.0,Chinese,,,6.726753981,Chinese
 Bun Mee,650 Market St,83,Moderate Risk,81.88888889,94104.0,ZxanwRCgQN-akkTf8Wc2iQ,3.0,$,558.0,Vietnamese,Sandwiches,,1.116786799,Vietnamese
@@ -2089,11 +2089,11 @@ Cabin,1750 Polk St,100,Moderate Risk,98.5,94109.0,iuyXW9gHTo8BUTCT9Ba97w,4.0,$$,
 Saint Frank Coffee,2340 Polk St,92,Moderate Risk,93.0,94109.0,AsmIi9jXkb9ACliVB4Fp9w,4.5,$,628.0,Coffee & Tea,Sandwiches,Breakfast & Brunch,5.643666354,Other
 Cantina Verde,388 Market St #104,90,Moderate Risk,83.75,94111.0,Ftm3Whp3gspBAfRClp_vzA,3.5,$,257.0,Mexican,Salad,Breakfast & Brunch,18.91832924,Mexican
 Sweetheart Cafe,909 Grant Ave,82,Low Risk,72.30434783,94108.0,WxC-bzdy05oSzpjEqT3ZVQ,3.5,$,421.0,Bubble Tea,Breakfast & Brunch,Cafes,9.055602443,Other
-Long Bridge Pizza Company,2347 03rd St,100,,100.0,94107.0,myeMXCowUnMGo99TTPeogw,4.5,$$,426.0,Pizza,Salad,Sandwiches,7.751386792999999,Other
-Firetrail Pizza,428 11th St,87,Low Risk,89.75,94103.0,xSLGnEGxO85EAk1DXhB4aQ,4.0,$$,132.0,Pizza,,,5.153785044,Other
+Long Bridge Pizza Company,2347 03rd St,100,,100.0,94107.0,myeMXCowUnMGo99TTPeogw,4.5,$$,426.0,Pizza,Salad,Sandwiches,7.751386792999999,Italian
+Firetrail Pizza,428 11th St,87,Low Risk,89.75,94103.0,xSLGnEGxO85EAk1DXhB4aQ,4.0,$$,132.0,Pizza,,,5.153785044,Italian
 Z & Y Restaurant,655 Jackson St,69,Moderate Risk,74.5,94133.0,GzOumj6_QOeQByuc_0yajQ,3.5,$$,1511.0,Chinese,Seafood,Soup,15.06178539,Chinese
 Roadside Rosy's,1018 Columbus Ave,100,Low Risk,94.8,94133.0,rLkgnC_1qcAeURnN7TLxJA,3.5,$$,2.0,"Beer, Wine & Spirits",Delis,,2.741843715,Other
-All Nite Pizza & Foods,5155 03rd St,88,Low Risk,82.27272727,94124.0,1z0GaE4sSB3rvHJS2ow08Q,3.5,,9.0,Pizza,Burgers,Chicken Wings,4.708568639,Other
+All Nite Pizza & Foods,5155 03rd St,88,Low Risk,82.27272727,94124.0,1z0GaE4sSB3rvHJS2ow08Q,3.5,,9.0,Pizza,Burgers,Chicken Wings,4.708568639,Italian
 Archive Bar & Kitchen,602 Mission St,81,Low Risk,79.28571429,94105.0,OPdh9KMz01TaxR1ba-HxkQ,4.0,$$,328.0,American (New),Pizza,,6.488909381,American
 Curry Leaf,943 Columbus Ave,90,Moderate Risk,89.6,94133.0,c70nh-BV7Nn_rnNXDXnABg,4.5,$$,559.0,Indian,Halal,Pakistani,7.480278752,Indian
 Saiwalks,3348 Steiner St,93,High Risk,90.33333333,94123.0,UafpqzZcf6L31lTQRNe1zg,3.5,$$,328.0,Vietnamese,Asian Fusion,Noodles,7.764771242999999,Vietnamese
@@ -2125,7 +2125,7 @@ Dumpling Kitchen,1935 Taraval St,71,Moderate Risk,78.0,94116.0,BI40rGhpngLNPacrj
 S & E Cafe,2406 19th Ave,75,Moderate Risk,79.15384615,94116.0,qYGumGNy19rWv0JuoGtJjQ,3.0,$$,225.0,Chinese,Hong Kong Style Cafe,,6.201482905,Chinese
 4505 Burgers and BBQ,705 Divisadero St,87,High Risk,84.71428571,94117.0,sjj1TvKV1RYEjYhuLlXe0w,3.5,$$,1439.0,Barbeque,Burgers,Sandwiches,11.99563628,Other
 City Taqueria,1836 Divisadero St,79,Moderate Risk,75.0,94115.0,imfAj62Nm0f7y0Cj_sbjsQ,3.5,$,302.0,Mexican,,,8.719039,Mexican
-PizzaHacker,3299 Mission St,92,Low Risk,90.46153846,94110.0,cIkwt0L2Xsp8tzGL0uKajg,4.0,$$,294.0,Pizza,Italian,,7.748664172000001,Other
+PizzaHacker,3299 Mission St,92,Low Risk,90.46153846,94110.0,cIkwt0L2Xsp8tzGL0uKajg,4.0,$$,294.0,Pizza,Italian,,7.748664172000001,Italian
 Andytown Coffee Roasters,3655 Lawton St,100,,100.0,94122.0,IoPgRTk7Cs3ydeM5R2NRZA,4.5,$,766.0,Coffee & Tea,,,10.67686728,Other
 Golden Horse Restaurant,1060 Hyde St,79,Low Risk,76.47619048,94109.0,F8RMjYx3rWpCVXmjgZd6vw,3.5,$,170.0,Chinese,,,9.838821243,Chinese
 Pho Hour,1114 Bryant St,85,High Risk,79.0,94103.0,Z8JBS-dYIITEhOf4n8s9Bg,4.0,$,222.0,Vietnamese,Asian Fusion,,35.26334946,Vietnamese
@@ -2167,7 +2167,7 @@ Grain D'or,236 Clement St,73,High Risk,81.9,94118.0,3IWPBbSE-3JF4Fzr1RvMhw,3.5,$
 T-WE TEA,50 Post St #12,100,,100.0,94104.0,Ej70gc47gQvbDVTitBNMRQ,5.0,$$,93.0,Tea Rooms,Coffee & Tea,,32.40810693,Other
 San Tung #2,1033 Irving St,90,Moderate Risk,90.0,94122.0,IgeBowYv2Q-2-VC5Xef0SA,4.0,$$,446.0,Chinese,,,7.400429516,Chinese
 Hopwater Distribution,850 Bush St,100,High Risk,87.375,94108.0,mbmJRdYFNUKeV_toR0KfVA,4.5,$$,673.0,American (Traditional),Beer Bar,,4.811629127,American
-Souvla,517 Hayes St,89,High Risk,91.33333333,94102.0,kFgjHGp-cTUK5uPaSJOORA,4.0,$$,1199.0,Greek,Mediterranean,,7.110495117,Other
+Souvla,517 Hayes St,89,High Risk,91.33333333,94102.0,kFgjHGp-cTUK5uPaSJOORA,4.0,$$,1199.0,Greek,Mediterranean,,7.110495117,Mediterranean
 Pollo,2823 Mission St,96,Moderate Risk,96.66666667,94110.0,s_ni_uFL3rczrNiGQmyXHw,4.5,$$,566.0,American (New),,,17.05765163,American
 Elephant Sushi 3,705 Geary St,92,Moderate Risk,90.14285714,94109.0,eQtJR9FsTl6v-EnzVeHDcg,4.5,$$,243.0,Sushi Bars,,,2.060550015,Japanese
 The Willows,1582 Folsom St,90,Low Risk,86.92307692,94103.0,EY6AZjt3JDqtz7WRzthocA,3.5,$$,242.0,Comfort Food,Sports Bars,,4.118141638,Other
@@ -2302,8 +2302,8 @@ Temo Cafe,3000 24th St,90,Low Risk,92.90909091,94110.0,vLJIuMyrw96Tz1YHrr4YTg,4.
 Perilla Vietnamese Cuisine,836 Irving St,75,High Risk,75.41666667,94122.0,RNy3_hU1N2qyS5PVc9RaYQ,4.0,$$,1200.0,Vietnamese,,,4.587139914,Vietnamese
 Aracely Restaurant,401 13th St,92,Low Risk,90.85714286,94130.0,KwEekEeXIQtt_CZtp8LAOA,4.0,$$,215.0,American (New),Venues & Event Spaces,Bars,0.439662935,American
 Tazaki Sushi,3420 Judah St,89,Low Risk,91.8,94122.0,llbXUj5XWz8XjLzhtpuWRA,3.5,$$,542.0,Sushi Bars,Japanese,,6.800761946000001,Japanese
-Patxi's Pizza,4042 24th St,86,Low Risk,88.66666667,94114.0,s-9OIo45O9SMoGpBzyL2fQ,3.0,$$,773.0,Pizza,Salad,Italian,5.849179679,Other
-Patxi's Pizza,822 Irving St,89,High Risk,90.8,94122.0,fIOva7HaL9WhFUUQwxn9TQ,3.5,$$,687.0,Pizza,Italian,Salad,2.75821377,Other
+Patxi's Pizza,4042 24th St,86,Low Risk,88.66666667,94114.0,s-9OIo45O9SMoGpBzyL2fQ,3.0,$$,773.0,Pizza,Salad,Italian,5.849179679,Italian
+Patxi's Pizza,822 Irving St,89,High Risk,90.8,94122.0,fIOva7HaL9WhFUUQwxn9TQ,3.5,$$,687.0,Pizza,Italian,Salad,2.75821377,Italian
 Taqueria El Farolito #10,358 Beach St,65,High Risk,78.11538462,94133.0,32DgQWrJoAA71NyFUzimHA,4.0,$$,105.0,Mexican,,,1.9900997569999999,Mexican
 Ladle and Leaf,4 Embarcadero Center  Street Level,100,,100.0,94111.0,VSKBLEQq6JHcQ7HveDSKmA,3.0,$,48.0,Salad,Sandwiches,Soup,52.74251809,Other
 Peet's Coffee & Tea,101 Post St,92,Moderate Risk,92.0,94108.0,ICEaZ482yUg-vd4OBhQPNQ,4.5,$,13.0,Coffee & Tea,,,22.36647564,Other
@@ -2336,13 +2336,13 @@ Liholiho Yacht Club,871 Sutter St,100,Moderate Risk,98.0,94109.0,KkAVX3Wb7E3lP5F
 Mugizo,1581 Webster St 217,74,Moderate Risk,77.75,94115.0,VGb0wBUFj7sBwJdru345qg,3.5,$$,390.0,Conveyor Belt Sushi,,,20.25476591,Japanese
 Toast Eatery,160 West Portal Ave,87,High Risk,87.66666667,94127.0,IqgazewkkBXLLLmEkLJFyg,3.5,$$,225.0,Coffee & Tea,Breakfast & Brunch,Sandwiches,5.493784402999999,Other
 The Masonic Auditorium,1111 California St,96,Low Risk,85.28571429,94108.0,2I1xBCRaE9A0hh0yJhOXbg,3.5,,354.0,Venues & Event Spaces,,,4.220678459,Other
-OZ Pizza,508 Castro St,85,Moderate Risk,81.66666667,94114.0,xpnTVZXOgEjDtfDCXCvxmg,3.5,$,179.0,Pizza,Salad,,7.8405205339999995,Other
+OZ Pizza,508 Castro St,85,Moderate Risk,81.66666667,94114.0,xpnTVZXOgEjDtfDCXCvxmg,3.5,$,179.0,Pizza,Salad,,7.8405205339999995,Italian
 Omakase,665 Townsend St,92,Moderate Risk,93.33333333,94103.0,WpcWACqlAodx5dbe5GJWZA,4.5,$$$$,403.0,Sushi Bars,Japanese,,13.10410696,Japanese
 Stem Kitchen and Garden,499 Illinois St,96,Low Risk,96.0,94158.0,32dV6L389VACZYJ0ILAhnQ,3.5,$$,365.0,American (New),Mediterranean,Bars,23.74355477,American
-Mythic Pizza,551 Haight St,77,High Risk,77.0,94117.0,jxCbBIDQiYk_xv2svoCICg,3.0,$,411.0,Pizza,,,2.6454182790000003,Other
+Mythic Pizza,551 Haight St,77,High Risk,77.0,94117.0,jxCbBIDQiYk_xv2svoCICg,3.0,$,411.0,Pizza,,,2.6454182790000003,Italian
 Tap (415),845 Market St #495,88,Moderate Risk,85.55555556,94103.0,aBmkctzBBeBnMFo8gf-r4g,4.0,$,13.0,Lounges,,,2.08818531,Other
 Arashi Sushi House,4724 Geary Blvd,83,Moderate Risk,83.66666667,94118.0,zBn4XAHsYGEb9at3J-PQVw,4.0,$$,377.0,Sushi Bars,Japanese,,6.6994684829999995,Japanese
-Primo Pizza,1064 Divisadero St,85,Low Risk,85.0,94115.0,Z7EtdtEXrmlMWPYNzJ6u5g,3.0,$,115.0,Pizza,,,9.938599131,Other
+Primo Pizza,1064 Divisadero St,85,Low Risk,85.0,94115.0,Z7EtdtEXrmlMWPYNzJ6u5g,3.0,$,115.0,Pizza,,,9.938599131,Italian
 HANGOUT SPOT,2445 Noriega St,92,Moderate Risk,92.0,94122.0,gcHarI2kKzC33R8WdYV9dg,2.5,$$,58.0,Chinese,,,9.876757234,Chinese
 Caffe Central,530 Parnassus Ave,92,Moderate Risk,90.8,94143.0,7JTreWpsi8KXO6UM96pJww,4.5,$$,22.0,Coffee & Tea,,,4.773740625,Other
 High Treason,443 Clement St,96,Low Risk,96.0,94118.0,7tQ_-4YBty68xUePrdug2Q,4.5,$$,123.0,Wine Bars,American (Traditional),,11.42248084,Other
@@ -2358,7 +2358,7 @@ Al's Place,1499 Valencia St,86,Low Risk,87.53846154,94110.0,xRxqebiQobZqJIRtDxnZ
 Cozy Cafe,965 Sutter St Suite C,91,High Risk,94.8,94109.0,h5BuMHI3LjAoWdMhM353Hg,4.5,$,47.0,Cafes,,,1.6481037680000001,Other
 Pressed Juicery,75 1st St,96,Moderate Risk,93.0,94105.0,Ukkt5Mlea2FVWsv11Rd25A,4.0,$$,84.0,Juice Bars & Smoothies,Ice Cream & Frozen Yogurt,,6.705310366,Other
 Rock Japanese Cuisine,614 Pine St,84,Moderate Risk,85.46153846,94108.0,d90zt60UG9Gx6sGFkR9fjQ,3.0,$$,446.0,Sushi Bars,Japanese,,5.060088832,Japanese
-Round Table Pizza,4523 Mission St,93,High Risk,92.42857143,94112.0,k3TJbAbPpwp3mIAjlWogGQ,3.0,$$,65.0,Pizza,,,4.216624959,Other
+Round Table Pizza,4523 Mission St,93,High Risk,92.42857143,94112.0,k3TJbAbPpwp3mIAjlWogGQ,3.0,$$,65.0,Pizza,,,4.216624959,Italian
 L'emigrante,2199 Mission St,83,Moderate Risk,84.18181818,94110.0,SbGMD9EMTY4bg1dVPNbe4g,4.5,$$,130.0,Wine Bars,Sandwiches,Tapas/Small Plates,4.446390209,Other
 Korean BobCha#2,428 11th St,98,Low Risk,98.0,94103.0,gsLpJ7W3dgTQ5xUBim00UQ,4.0,$$,171.0,Food Trucks,Korean,Chicken Wings,2.067439389,Other
 Henry's Hunan Restaurant,674 Sacramento St,85,Low Risk,85.11111111,94111.0,BUKaKTt48zFHmLWOtxjRLQ,3.5,$,281.0,Chinese,,,6.5319702060000004,Chinese
@@ -2368,11 +2368,11 @@ The Progress,1525 Fillmore St,93,High Risk,91.28571429,94115.0,CS0pUlk25RV2-vhKF
 Amelie,1754 Polk St,92,Low Risk,93.0,94109.0,OCk8JFBaOw_p2EY6mi5iLQ,4.0,$$,1307.0,Wine Bars,Lounges,French,8.375124349,Other
 Sotto Mare Oysteria & Seafood,552 Green St,86,Moderate Risk,81.73333333,,,,,,,,,,Other
 La Capra Coffee,50 Fremont St,92,Moderate Risk,85.0,94105.0,2oRvvIAnDjxCN01uhTUsGg,3.5,$$,124.0,Coffee & Tea,Salad,Sandwiches,7.700747952,Other
-Goodfellas Pizzeria & Grill,377 Bay St Suite A,84,Low Risk,85.36363636,94133.0,WiYuZTvpLccsCLaouxpt0w,3.5,$$,233.0,Pizza,American (Traditional),Sandwiches,5.8332024989999995,Other
+Goodfellas Pizzeria & Grill,377 Bay St Suite A,84,Low Risk,85.36363636,94133.0,WiYuZTvpLccsCLaouxpt0w,3.5,$$,233.0,Pizza,American (Traditional),Sandwiches,5.8332024989999995,Italian
 Sunset Reservoir Brewing Company,1735 Noriega St,71,Low Risk,81.625,94122.0,pvSEAWvYCxIkvJ-IEbrhCg,3.5,$$,577.0,American (Traditional),Breweries,,10.25512678,American
 Blue Bottle Coffee,1 Mint Plaza,93,High Risk,93.0,94103.0,QKGPdnFah6GcD9CmIUzpqQ,3.5,$,150.0,Coffee & Tea,Vietnamese,Sandwiches,15.88359284,Other
 Mi-Tea,647 Irving St,98,Low Risk,98.0,94122.0,8XmKxo4MmowayIEwHWrdnw,3.0,$,99.0,Bubble Tea,,,21.02729496,Other
-The Slice,719 14th St,96,Low Risk,94.33333333,94114.0,LGxZxA-aHxheqFhJ2NAh6Q,3.0,$,169.0,Pizza,,,7.22278823,Other
+The Slice,719 14th St,96,Low Risk,94.33333333,94114.0,LGxZxA-aHxheqFhJ2NAh6Q,3.0,$,169.0,Pizza,,,7.22278823,Italian
 May Lee Restaurant,1256 7th Ave,75,Low Risk,80.0,94122.0,4_7LJsh5lPWwzrWEkqeZNw,3.5,$,185.0,Chinese,,,1.6505273169999999,Chinese
 Waffle Cone Shop,Pier 39  B-4,96,Low Risk,93.5,94133.0,nFNwRbpIsNjio8KMbfdUqA,3.0,$,20.0,Waffles,,,3.052632607,Other
 Miss Tomato Sandwich Shop,388 Market St #106,77,Low Risk,79.72727273,94111.0,sIHeT2rJmTmovIUeplZJSw,4.0,$,258.0,Sandwiches,Breakfast & Brunch,Coffee & Tea,2.657752165,Other
@@ -2395,8 +2395,8 @@ Red Door Coffee,505 Howard St,94,Moderate Risk,95.33333333,94105.0,qCNfOc-4Sd0Q0
 Terrace Cafe,"2100 Webster St., # 108",85,High Risk,87.75,94115.0,XfSnLzMvHAT_XO4xVkTEOw,1.5,,6.0,Cafes,,,3.9994128989999997,Other
 Togo's,2300 16th St,90,Low Risk,83.33333333,94103.0,SX63MrpvROHn0QLzhvYkyg,3.0,$,91.0,American (Traditional),Barbeque,Sandwiches,10.90764929,American
 Fumi Curry,3303 Mission St,79,High Risk,80.76190476,94110.0,olOldyL0jSpDuZE0tELVcw,4.0,$$,319.0,Ramen,Japanese Curry,,5.995134015,Other
-Village Pizzeria,1 Clement St,87,Low Risk,87.0,94118.0,QAMEktS2QgJ-Yl2ooERmgw,3.5,$$,231.0,Pizza,Italian,,2.456433798,Other
-Soma Pizza,483 03rd St,81,Moderate Risk,79.21428571,94107.0,bK-DM8mHn4_A8rUtPdSyyA,3.5,$,237.0,Pizza,Burgers,Fast Food,10.4687931,Other
+Village Pizzeria,1 Clement St,87,Low Risk,87.0,94118.0,QAMEktS2QgJ-Yl2ooERmgw,3.5,$$,231.0,Pizza,Italian,,2.456433798,Italian
+Soma Pizza,483 03rd St,81,Moderate Risk,79.21428571,94107.0,bK-DM8mHn4_A8rUtPdSyyA,3.5,$,237.0,Pizza,Burgers,Fast Food,10.4687931,Italian
 El Buen Comer,3435 Mission St,96,Moderate Risk,91.85714286,94110.0,znrz-V6Y59l0Re8PZKOIXg,4.0,$$,262.0,Mexican,Breakfast & Brunch,,23.17988768,Mexican
 Emanuel Coffee,488 Haight St,81,Low Risk,84.0,94117.0,uc0bxlCNL7qm4YPW2iUB7g,4.5,$,113.0,Salvadoran,Breakfast & Brunch,Mexican,1.224856283,Other
 Wild Flower Cafe,411 Sansome St,86,Moderate Risk,86.0,94111.0,gTt7YgeOn9x9iWGGjlMtBw,3.5,$,274.0,Buffets,Salad,Cafes,3.581154143,Other
@@ -2423,7 +2423,7 @@ Freshroll,230 Bush St #128,86,High Risk,88.5,94104.0,rO2fY-fs2yqvlFzydAsd-w,3.5,
 Jo Jo's Cafe,1537 Ocean Ave,90,Moderate Risk,86.53846154,94112.0,MryRUvM1rVVtCXBuP8652w,3.5,$$,302.0,Chinese,Breakfast & Brunch,Seafood,5.681110181,Chinese
 Slurp Noodle Bar,469 Castro St,82,Moderate Risk,78.58823529,94114.0,Q9kLEfwnT8DsvlMgbe8iWA,3.5,$$,415.0,Asian Fusion,Ramen,Noodles,7.107376207000001,Other
 Crazy Pepper,2257 San Jose Ave,75,High Risk,63.57142857,94112.0,HBu_2H-jr_v7xFYbJOQmYg,3.5,$,402.0,Chinese,Seafood,Noodles,0.720952395,Chinese
-Jersey,145 02nd St,66,Moderate Risk,73.55555556,94105.0,HlyIiK-k7SkmbxhcbTUQhg,4.0,$$,403.0,Pizza,Italian,Sandwiches,3.734534374,Other
+Jersey,145 02nd St,66,Moderate Risk,73.55555556,94105.0,HlyIiK-k7SkmbxhcbTUQhg,4.0,$$,403.0,Pizza,Italian,Sandwiches,3.734534374,Italian
 Martha & Bros. Coffee Co,401 Irving St,85,High Risk,85.0,94122.0,NSdPk7sJRclphhYIMe186w,4.0,$,125.0,Coffee & Tea,Bakeries,Bagels,3.787046405,Other
 Belle Cora,565 Green St,82,High Risk,82.0,94133.0,uAFTEhihwsFx1r19FtqJHQ,4.5,$$,67.0,Comfort Food,Sports Bars,Tapas/Small Plates,18.58233317,Other
 Julie's Kitchen,50 Post St,92,Moderate Risk,89.0,94104.0,9g4GziBacdIgfPZ-bve5tg,4.0,$$,61.0,Juice Bars & Smoothies,American (Traditional),Asian Fusion,0.538268485,Other
@@ -2468,12 +2468,12 @@ Fort Mason Market and Deli,1701 Greenwich St,92,Moderate Risk,94.8,94123.0,_ANor
 Toast Eatery,1748 Church St,92,Moderate Risk,90.66666667,94131.0,e1GZv2Anetzv0WbHpMG_ng,3.5,$$,734.0,Burgers,Sandwiches,Breakfast & Brunch,5.638596015,Other
 Mathilde French Bistro,315 05th St,86,Low Risk,86.0,94107.0,WWekv34vniav2trhbb2DaA,4.0,$$$,209.0,French,Desserts,Salad,6.789633197000001,Other
 Tacorgasmico,2337 Market St,88,Moderate Risk,90.0,94114.0,NCe1O7Wp-aUt49doy8P-mA,4.0,$$,221.0,Mexican,Latin American,Tex-Mex,5.150774009,Mexican
-Seniores Pizza,559 Divisadero St,94,Low Risk,81.25,94117.0,_OuPUMym94ajvK3FAhfziA,3.5,$,217.0,Pizza,Burgers,Salad,0.743766515,Other
+Seniores Pizza,559 Divisadero St,94,Low Risk,81.25,94117.0,_OuPUMym94ajvK3FAhfziA,3.5,$,217.0,Pizza,Burgers,Salad,0.743766515,Italian
 Papa Mak's Burgers,3755 Noriega St,92,Moderate Risk,90.55555556,94122.0,Km3ze4SL1qqH72HZeZItqA,3.5,$$,277.0,Burgers,Desserts,Salad,7.183723607,Other
 Cafe De Casa,2701 Leavenworth St,100,Low Risk,96.0,94133.0,x29tzG5M7VbZhpG1jcREKQ,4.5,$$,347.0,Coffee & Tea,Brazilian,Gluten-Free,4.468153688999999,Other
 Chisme Cantina,882 Sutter St,98,Low Risk,98.0,94109.0,7X76HyhNAUTcYuY6t6ionQ,4.5,$$,299.0,Tacos,Vegan,,3.092719417,Other
 San Francisco Hometown Creamery,1290 9th Ave,88,Low Risk,90.0,94122.0,iTJ3jZ-dli9WLOrVsFXr6A,4.0,$,669.0,Ice Cream & Frozen Yogurt,,,8.119087421,Other
-New Gyro King,25 Grove St,68,Low Risk,66.5,94102.0,9MrYrNitwRtN5thw6vJwAg,3.5,$,509.0,Greek,Turkish,Mediterranean,7.429525797999999,Other
+New Gyro King,25 Grove St,68,Low Risk,66.5,94102.0,9MrYrNitwRtN5thw6vJwAg,3.5,$,509.0,Greek,Turkish,Mediterranean,7.429525797999999,Mediterranean
 Cookie Love,1488 Pine St,96,Moderate Risk,98.4,94109.0,5ENZTnjqmrtm7EWr_U6nqg,4.5,$,157.0,Desserts,Bakeries,,10.35170871,Other
 Blaze Pizza Fast-Fire'd,3251 20th Ave #157,84,Low Risk,82.45833333,94132.0,vtePtp5wme2yfSYoxIVN4Q,2.5,$,152.0,Mexican,Fast Food,,4.55469953,Mexican
 I Tea S.F,2150 Irving St,98,Low Risk,92.8,94122.0,vr3-AAedsZ7V7SLKmY1iQw,3.5,$,437.0,Tea Rooms,Juice Bars & Smoothies,Bubble Tea,6.879771679,Other
@@ -2490,13 +2490,13 @@ Glaze Teriyaki,2095 Chestnut St,94,Low Risk,94.0,94123.0,#NAME?,4.0,$$,168.0,Jap
 Cheesesteak on Clay,653 Clay St,94,Moderate Risk,94.0,94111.0,KNzWbSlxKBOKjPEziQubgw,4.0,$$,72.0,Cheesesteaks,Sandwiches,,7.039508521,Other
 Underground Grill Kings,2543 Noriega St,96,Moderate Risk,96.0,94122.0,N7pLMJZyx2i_35vskjk85Q,4.5,$,55.0,Karaoke,Taiwanese,Vietnamese,21.22455865,Other
 Mona Lisa Restaurant,353 Columbus Ave,79,High Risk,82.18181818,94133.0,bC3FfFqfaQu7gZznjkmt9Q,4.0,$$,1387.0,Italian,,,6.061374925,Italian
-Montesacro,510 Stevenson St,93,High Risk,88.83333333,94103.0,ikkPHZqQQ2UU2hGFyBuffQ,4.5,$$,580.0,Pizza,,,3.061111975,Other
+Montesacro,510 Stevenson St,93,High Risk,88.83333333,94103.0,ikkPHZqQQ2UU2hGFyBuffQ,4.5,$$,580.0,Pizza,,,3.061111975,Italian
 Feel Good Bakery,270 Noe St,100,,100.0,94114.0,FuRzn-LE6jCe-oLXZW-VrA,4.0,,3.0,Chocolatiers & Shops,,,4.882581977,Other
 Trestle,531 Jackson St,94,Low Risk,94.0,94133.0,jcFf2ZnJYL0nWCdIpqiA-g,4.5,$$$,780.0,American (New),,,3.1254550269999997,American
 Ichi Kakiya,3369 Mission St,100,,100.0,94110.0,HkfhXsRBmfZVQVOzIqyF6A,3.5,$$$,381.0,Japanese,Sushi Bars,Seafood,3.553593486,Japanese
 Mizutani Sushi Bar,4406 California St,81,Moderate Risk,84.3125,94118.0,k96DVqIsqpuCTWb-X2hXJg,4.0,$$,166.0,Sushi Bars,,,7.431591384,Japanese
 The Pin Up,772 Folsom St,81,High Risk,84.6,94107.0,yI9SFw-EkdAtCCzFWjhFdA,3.5,$$,36.0,Diners,American (Traditional),,17.12100567,Other
-Pizza Joint,3088 Balboa St,86,Low Risk,89.11111111,94121.0,PzBvdrfXu7d2MLtoApCL3A,3.5,$,191.0,Pizza,Sandwiches,,4.778407419,Other
+Pizza Joint,3088 Balboa St,86,Low Risk,89.11111111,94121.0,PzBvdrfXu7d2MLtoApCL3A,3.5,$,191.0,Pizza,Sandwiches,,4.778407419,Italian
 Fish and Farm,424 Clay St,96,Low Risk,89.44444444,94111.0,H-VZhA-SKTtuaFbG_U-qHQ,3.0,$$,234.0,American (New),Seafood,Breakfast & Brunch,14.92654849,American
 Taqueria Mexico Tipico,4581 Mission St,86,Low Risk,83.0,94112.0,N_-4AfYmNFKEkvgh3Qj5Eg,4.0,$,231.0,Mexican,,,7.03700482,Mexican
 Lark,4068 18th St,90,Low Risk,87.0,94114.0,LjVlsV9tKGnv7e4Iyt9c5Q,4.0,$$,257.0,American (New),Mediterranean,Wine Bars,18.66466361,American
@@ -2513,7 +2513,7 @@ Blue Bottle Coffee,115 Sansome St,82,High Risk,84.85714286,94104.0,Bcvvia9zPFe3B
 The Storehouse,451 Galvez Ave,96,Moderate Risk,96.0,94124.0,#NAME?,5.0,$$,10.0,Coffee & Tea,,,16.00841352,Other
 Chez Maman,1401 18th St,91,High Risk,90.4,94107.0,UTVDbZv-qiHU06sDkoel3g,4.5,$$,1990.0,French,Burgers,Creperies,8.901906848,Other
 Smitten Ice Cream,2404 California St,96,Moderate Risk,92.33333333,94115.0,EOkEoUwjJzc2hB5ny6_oXA,4.0,$$,271.0,Ice Cream & Frozen Yogurt,,,2.125445975,Other
-Acquolina,1600 Stockton St,86,Moderate Risk,78.5,94133.0,PoAS5PsaEBX5OvzfvHj-2A,4.0,$$,440.0,Pizza,Italian,Wine Bars,8.412613005,Other
+Acquolina,1600 Stockton St,86,Moderate Risk,78.5,94133.0,PoAS5PsaEBX5OvzfvHj-2A,4.0,$$,440.0,Pizza,Italian,Wine Bars,8.412613005,Italian
 Philz Coffee,549 Castro St,96,Moderate Risk,96.66666667,94114.0,wsPDEO08w_lH0x123_YEXg,4.5,$,1041.0,Coffee & Tea,,,14.582687599999998,Other
 Philz Coffee,1775 17th St,92,Low Risk,93.0,94103.0,u0lqYWGjDJUqA9ZCLonl7A,4.5,$,107.0,Coffee & Tea,,,1.9042601940000001,Other
 Hinata Sushi,810 Van Ness Ave,90,Low Risk,90.8,94109.0,yD9-WrXijc_grVmi_zkCfQ,4.5,$$$$,403.0,Sushi Bars,Japanese,,5.399847091,Japanese
@@ -2539,7 +2539,7 @@ The Spice Jar,2500 Bryant St,89,High Risk,80.23529412,94110.0,8Bft7em9yWBFueVFp7
 Fine and Rare,555 Golden Gate Ave,94,Low Risk,94.0,94102.0,Wu8DmDhNB_t4hfJmDs2FdA,4.0,$$,56.0,Wine Bars,American (New),Seafood,10.21900425,Other
 Kio Ramen,3528 Balboa St,83,Low Risk,74.0,94121.0,nN0i7tL2ummbrYUD_JoEdg,3.0,$$,110.0,Ramen,,,6.278513691000001,Other
 Petit Crenn,609 Hayes St,90,Low Risk,91.6,94102.0,kiRsScNQs_UdDV6jPyeCWg,4.0,$$$$,362.0,French,,,3.749624028,Other
-Volare Pizza and Restaurant,456 Haight St,82,Moderate Risk,82.0,94117.0,ma1THfl5FgO9qj6P8DvxdA,3.5,$$,171.0,Pizza,Sandwiches,Halal,13.80493767,Other
+Volare Pizza and Restaurant,456 Haight St,82,Moderate Risk,82.0,94117.0,ma1THfl5FgO9qj6P8DvxdA,3.5,$$,171.0,Pizza,Sandwiches,Halal,13.80493767,Italian
 The Plant Cafe Organic,2335 03rd St,96,Moderate Risk,91.5,94107.0,Dola5XkJBT8IxVgZHWt1zA,3.0,$$,78.0,Vegetarian,Juice Bars & Smoothies,Cafes,25.18793672,Other
 The Storehouse,451 Galvez Ave,100,,100.0,94124.0,#NAME?,5.0,$$,10.0,Coffee & Tea,,,16.00841352,Other
 The Soapbox Cafe,1800 Hyde St,100,,100.0,94109.0,1pwKcUXo27a-d-EClQY04Q,4.5,$,150.0,Vietnamese,Bagels,Cafes,8.441524987000001,Vietnamese
@@ -2558,7 +2558,7 @@ Sam's Chowder Mobile #4,Off The Grid,98,Low Risk,97.14285714,90012.0,9CRgkumAyVR
 Paojao Dumpling & Noodles,380 Bush St #6,88,Moderate Risk,88.88888889,94104.0,ot-EJpmJSa0rjqlykvPurg,3.0,$$,54.0,Ramen,Soup,Korean,2.362986285,Other
 Burma Love,211 Valencia St,90,Low Risk,87.0,94103.0,7tsN9N9mhfJRNTe37pLFMg,4.0,$$,1010.0,Burmese,Bars,Seafood,6.600063502,Other
 A Desi Cafe,1501 Noriega St,79,High Risk,83.28571429,94122.0,oNwdNsdpUkXRQ5HaHZ_pVA,4.5,$$,247.0,Indian,,,0.807674832,Indian
-Bellissimo Pizza,920 Sutter St,85,Low Risk,87.78571429,94109.0,AJo3ez0ecQmu7dcMtz9Jpg,3.5,$,230.0,Pizza,Sandwiches,,7.032174563,Other
+Bellissimo Pizza,920 Sutter St,85,Low Risk,87.78571429,94109.0,AJo3ez0ecQmu7dcMtz9Jpg,3.5,$,230.0,Pizza,Sandwiches,,7.032174563,Italian
 Amitis Cafe,800 Masonic Ave,92,Low Risk,89.5,94117.0,A_2m0mcKEqOJ1XsqUbzUIg,4.5,$,148.0,Poke,Sushi Bars,Japanese Curry,2.9416140669999997,Other
 The Spot Lounge,2325 Taraval St,96,Moderate Risk,96.0,94116.0,RhDJVnbHJXpB64dC9QcoqQ,4.0,$$,548.0,Bars,Asian Fusion,Korean,4.449751633,Other
 Phil'z Coffee,5 Embarcadero Center,100,Low Risk,97.33333333,94111.0,r-L3a4mKLPkCkGf9Askx0g,4.5,$,324.0,Coffee & Tea,Bakeries,Breakfast & Brunch,30.40197159,Other
@@ -2573,12 +2573,12 @@ Pescatore,2455 Mason St,90,Moderate Risk,89.63636364,94133.0,jdKWSulGisIZ6zaXrAp
 Earthbar,301 Pine St,94,Low Risk,91.33333333,94104.0,mOF3GffVrPcwkmH13qA4Rw,3.5,$$,13.0,Juice Bars & Smoothies,Vitamins & Supplements,Acai Bowls,3.4783161189999996,Other
 MAHALO !,1376 09th Ave,94,Moderate Risk,86.8,94122.0,zSWdb3FwpnApHHPPhO0h6A,3.5,$,190.0,Breakfast & Brunch,Hawaiian,Burgers,4.135657158,Other
 Silk Road,3251 20th Ave  6525,90,Moderate Risk,90.375,94132.0,ZIwCyqKmVofQBYsHe1LGAQ,4.5,$,109.0,Russian,Asian Fusion,,32.91146003,Other
-Bruno's Pizza & Restaurant,1375 Fillmore St,79,Moderate Risk,81.18181818,94115.0,miitrMzuWgi4nzNeb-yLNg,3.5,$$,213.0,Pizza,Italian,Sports Bars,9.062528931000001,Other
+Bruno's Pizza & Restaurant,1375 Fillmore St,79,Moderate Risk,81.18181818,94115.0,miitrMzuWgi4nzNeb-yLNg,3.5,$$,213.0,Pizza,Italian,Sports Bars,9.062528931000001,Italian
 Earthbar,747 Market St,81,Moderate Risk,86.55555556,94103.0,AiOwJCI0U-Y2LWUrKKrAqA,3.0,$$,27.0,Juice Bars & Smoothies,Vitamins & Supplements,Acai Bowls,7.976545876,Other
 Proper Food,350 California St,100,,100.0,94104.0,HYJb6rJHJeFmirneMtJ_QQ,4.0,$$,32.0,Sandwiches,Salad,Breakfast & Brunch,7.421853037999999,Other
 Z. Cioccolato,474 Columbus Ave,96,Low Risk,96.0,94133.0,ARHTBmK_uh8t-hBduc1r2Q,4.5,$,409.0,Chocolatiers & Shops,Cooking Classes,,5.853506052999999,Other
 Noc Noc on Broadway,515 Broadway St,100,Moderate Risk,98.0,94133.0,1pe7O6u0Co6_U7wWfSNK-Q,4.5,$$,51.0,Beer Bar,Dive Bars,,3.5112890130000003,Other
-Twin Peaks Pizza and Pasta,1681 Church St,87,Low Risk,91.0,94131.0,3swOgxzZiJTBtxgoHR8QvA,3.5,$$,254.0,Pizza,Italian,,4.679494616,Other
+Twin Peaks Pizza and Pasta,1681 Church St,87,Low Risk,91.0,94131.0,3swOgxzZiJTBtxgoHR8QvA,3.5,$$,254.0,Pizza,Italian,,4.679494616,Italian
 Counter Offer,806 S Van Ness Ave,92,Moderate Risk,92.66666667,94110.0,eEHB5qhyd45GjOpxZ8aBTA,4.5,$,30.0,American (Traditional),Pubs,Burgers,28.65398864,American
 Iza Ramen,237 Fillmore St,86,Moderate Risk,86.0,94117.0,1HaGgUlxYAmvfgGyX68oPw,4.0,$$,626.0,Ramen,Noodles,Izakaya,3.759207105,Other
 Helmand Palace,2424 Van Ness Ave,86,Low Risk,88.66666667,94109.0,ODed3UyqDFIFs3gDcXhm7A,4.5,$$,796.0,Afghan,Mediterranean,Halal,3.5947828580000003,Other
@@ -2629,7 +2629,7 @@ Denny's Restaurant,816 Mission St,98,Low Risk,98.0,94103.0,pfpuDPM6aFKBQcLbwTwRI
 The Perennial Restaurant,59 09th St,96,Moderate Risk,87.75,94103.0,Cq2NmC88h2KMZkjOLheKcw,3.5,$$$,221.0,American (New),"Beer, Wine & Spirits",Vegetarian,4.581751185,American
 Fiorella,2339 Clement St,92,Moderate Risk,91.71428571,94121.0,z1vcsPf9EgBofmg5luEkAQ,4.0,$$,378.0,Italian,Pizza,Wine Bars,9.19305635,Italian
 Mission Foodhall,3100 16th St,98,Low Risk,97.5,94103.0,yfe1OCxNElTa372DL5reYA,4.0,$$,77.0,Coffee & Tea,"Beer, Wine & Spirits",Ice Cream & Frozen Yogurt,11.78321394,Other
-Del Popolo,855 Bush St,96,Moderate Risk,98.0,94108.0,H2IZSqvr71k9-tBn91mgrA,4.0,$$,368.0,Pizza,,,6.313778256,Other
+Del Popolo,855 Bush St,96,Moderate Risk,98.0,94108.0,H2IZSqvr71k9-tBn91mgrA,4.0,$$,368.0,Pizza,,,6.313778256,Italian
 Cafe Med,201 Pine St,81,Low Risk,82.84615385,94104.0,_le519RYA8LPCreBeFunoQ,4.0,$,120.0,Cafes,Mediterranean,,14.39092449,Other
 The Wooden Nickel,1900 Folsom St,92,Moderate Risk,92.0,94103.0,XmUOILwHGWQrlbOk-6y79g,4.5,$,46.0,Bars,,,7.072427957,Other
 Sushi Fantastic,215 Fremont St Suite 2A,83,Low Risk,83.0,94105.0,J_Ita_qQKrMQ_IAad4RSRQ,3.0,$$,228.0,Sushi Bars,Ramen,,3.6078118810000004,Japanese
@@ -2648,10 +2648,10 @@ Alamo Drafthouse Cinema,2550 Mission St,89,Moderate Risk,90.33333333,94110.0,80a
 Panera Bread,301 King St,100,Low Risk,99.0,94158.0,AzMWfNSAv7s1rrtLGRldTg,3.5,$$,503.0,Sandwiches,Salad,Soup,15.21736013,Other
 John Colins,138 Minna St,90,Moderate Risk,89.4,94105.0,v5w23rZNbNiJIwOemm-yNQ,3.5,$$,966.0,Bars,,,10.95867145,Other
 Chica,120 Green St,93,High Risk,89.4,94111.0,0mSCaMw3967v_wOGZp9e3g,4.0,$$,56.0,Mexican,American (New),,9.003885443,Mexican
-Maysoon's Pizza,829 Geary St,71,Low Risk,71.0,94109.0,_dxkvJnxDMqdNjl8RzGIsw,3.5,$,135.0,Pizza,,,4.149321484,Other
+Maysoon's Pizza,829 Geary St,71,Low Risk,71.0,94109.0,_dxkvJnxDMqdNjl8RzGIsw,3.5,$,135.0,Pizza,,,4.149321484,Italian
 Torraku Ramen,428 11th St,82,Low Risk,85.0,94103.0,ziDJD2-M38PUEmft4kJ8nQ,4.5,$$,845.0,Food Trucks,,,5.153785044,Other
 Nojo,231 Franklin St,88,Moderate Risk,91.42857143,94102.0,1IqqA8pcuCIWJtuKfHwU8g,4.0,$$,674.0,Ramen,Izakaya,,8.263514278999999,Other
-Piccolo Forno,725 Columbus Ave,86,Moderate Risk,88.57142857,94133.0,o43B4DnnQbvkdDK6AVafQg,4.5,$$,480.0,Pizza,Italian,,7.927868142,Other
+Piccolo Forno,725 Columbus Ave,86,Moderate Risk,88.57142857,94133.0,o43B4DnnQbvkdDK6AVafQg,4.5,$$,480.0,Pizza,Italian,,7.927868142,Italian
 King of Noodles,1639 Irving St,90,Moderate Risk,90.0,94122.0,dt0nffJ_d5jInX2x_jQmOQ,3.5,$,689.0,Chinese,Noodles,Soup,7.6883245989999995,Chinese
 Yummy Dumpling,1708 Irving St,90,Moderate Risk,90.0,94122.0,bMCss-xNW2DRnC4QH2Y_gw,4.5,$,101.0,Do-It-Yourself Food,Chinese,,4.462687419,Other
 Illy Caffe SF_Battery Street,123 Battery St,94,Low Risk,91.5,94111.0,J3MtGX73_3l3afYAA_UloA,4.0,$,153.0,Coffee & Tea,,,21.97169239,Other
@@ -2675,8 +2675,8 @@ Conching's Kusina,4994 Mission St,84,Moderate Risk,79.0625,94112.0,Al6P6KBX6hAn6
 The Pearl,601 19th St,98,Low Risk,98.0,94107.0,ueXuebXsTMAYDBEOHYlh7A,5.0,,16.0,Venues & Event Spaces,,,9.317317567,Other
 Hot Cookie,407 Castro St,92,Moderate Risk,94.0,94114.0,qZFRnzb-VTfkMC2vDoWJVA,4.0,$,1402.0,Bakeries,Desserts,,5.2486209210000005,Other
 Delicioso Creperie,1550 Bryant St,94,Low Risk,88.6,94103.0,WcOx4I1B0tfBhu94UiHG1w,3.5,$,15.0,Creperies,Breakfast & Brunch,Mexican,6.814465756000001,Other
-Chico's Pizza,468 Ellis St,100,Low Risk,93.6,94102.0,dfoGOvLA7kqE26fhYnWWTg,3.0,$,46.0,Pizza,,,23.55145924,Other
-Chico's Pizza,131 06th St,88,Moderate Risk,87.07692308,94103.0,9Hp8kwNv9Ks8wkU5AxZUhA,3.5,$,329.0,Pizza,,,1.272854624,Other
+Chico's Pizza,468 Ellis St,100,Low Risk,93.6,94102.0,dfoGOvLA7kqE26fhYnWWTg,3.0,$,46.0,Pizza,,,23.55145924,Italian
+Chico's Pizza,131 06th St,88,Moderate Risk,87.07692308,94103.0,9Hp8kwNv9Ks8wkU5AxZUhA,3.5,$,329.0,Pizza,,,1.272854624,Italian
 Steap Tea  Bar,827 Sacramento St,92,Low Risk,92.8,94108.0,zfs3gpYPbMBLseqaAsQN-A,4.5,$,336.0,Coffee & Tea,Bubble Tea,,16.47742503,Other
 Quickly,2116 Irving St,92,Moderate Risk,92.22222222,94122.0,TVLTQ51W6sxp7tL2QQjovg,2.5,$,393.0,Asian Fusion,Juice Bars & Smoothies,Bubble Tea,3.342287753,Other
 Quickly,3251 20th Ave 160,84,Low Risk,84.66666667,94132.0,UplVWsp1X7MjOR2W3cYwEg,2.0,$,63.0,Bubble Tea,Desserts,Coffee & Tea,38.89995305,Other
@@ -2684,7 +2684,7 @@ Ritual Coffee Roasters,1300 Haight St,100,,100.0,94117.0,LFUXTp3kBIC06ykrorH6Ww,
 Eatsa,1 California St,98,Low Risk,91.6,94111.0,fpy-nD_QzVUO9KN7tr_wmw,3.5,$,223.0,Salad,Vegetarian,Breakfast & Brunch,33.14937648,Other
 Kawashima's Kitchen,5800 3rd St  C1001,74,Low Risk,78.23076923,94124.0,GYhjClQ0GAa55Aw_lv3Kww,4.5,,24.0,Caterers,,,7.537292558,Other
 Original US Restaurant,414 Columbus Ave,96,Low Risk,94.0,94133.0,DznN4B9qMQS-fWfddOZzOg,4.0,$$,155.0,Italian,Wine Bars,,11.48927717,Italian
-Domino's #7764,876 Geary St,87,Low Risk,84.6,94109.0,xd4HRRVilNNB45Gm974XiA,1.5,$,364.0,Pizza,Chicken Wings,Sandwiches,4.241931753,Other
+Domino's #7764,876 Geary St,87,Low Risk,84.6,94109.0,xd4HRRVilNNB45Gm974XiA,1.5,$,364.0,Pizza,Chicken Wings,Sandwiches,4.241931753,Italian
 HD Rice Noodles,1395 Noriega St,81,Low Risk,80.55555556,94122.0,gYKKd953x0pCf5bmSdQCCQ,3.5,$,69.0,Noodles,Chinese,Soup,8.511881909,Other
 Boba Guys,8 Octavia St,90,Low Risk,92.0,94102.0,6o0GBaGjWfBkAWFU0Qb6Hw,4.0,$,442.0,Coffee & Tea,Bubble Tea,,37.6543418,Other
 Hot Zushi,531 Haight St,100,,100.0,94117.0,S91SPDiE-VGsOQHVBEuKHw,4.5,$$,132.0,Japanese,Sushi Bars,,9.668829363,Japanese
@@ -2696,7 +2696,7 @@ Allstars Cafe,98 09th St,77,Moderate Risk,78.5,94103.0,fDviyRsyS41ldbxQTS8e8w,4.
 Urban Remedy,1 Ferry Building,96,Low Risk,96.0,94111.0,5zyjU774Z4mEaLOYK4PGzg,4.5,$$,27.0,Health Markets,Organic Stores,Juice Bars & Smoothies,58.52290284,Other
 Yummy Sticks,428 11th St,81,Low Risk,81.0,94117.0,zvqoeNxrfZKqbUFlNiKplg,4.5,$,326.0,Ice Cream & Frozen Yogurt,Food Trucks,,5.116145298,Other
 Saucy Asian,3801 17th St,82,Low Risk,88.5,94114.0,z_Y2VIrU5ugc_5oeHv10Rg,4.0,$$,253.0,Korean,Asian Fusion,Specialty Food,7.702998712,Korean
-Domino's 8134,320 Bayshore Blvd,86,Moderate Risk,86.0,94124.0,RoaaIEjn06C30ElYTdNsNQ,1.5,$,180.0,Pizza,Chicken Wings,Sandwiches,7.68830743,Other
+Domino's 8134,320 Bayshore Blvd,86,Moderate Risk,86.0,94124.0,RoaaIEjn06C30ElYTdNsNQ,1.5,$,180.0,Pizza,Chicken Wings,Sandwiches,7.68830743,Italian
 Holy Grill,659 Townsend St,92,Low Risk,88.5,94103.0,27oLHFt7aHDzQmp2c543fA,3.5,$$,436.0,Burgers,Salad,Sandwiches,7.645025727,Other
 Tonga Room & Hurricane Bar,950 Mason St,98,Low Risk,98.66666667,94108.0,458NXhlB0ZtEaJUPI3PPcA,3.5,$$$,2553.0,Asian Fusion,Tiki Bars,,25.96090575,Other
 Caffe Cento,801 Powell St,98,Low Risk,98.66666667,94108.0,1y2VDwEnRDm0BfvaeGimxA,3.5,$$,112.0,Coffee & Tea,Bakeries,Sandwiches,8.581293772999999,Other
@@ -2705,7 +2705,7 @@ Teo,1111 Mission St.,75,High Risk,75.0,94103.0,JdyOefNJlQgbMw3ne5g1wQ,3.5,$$,270
 Juice Craze,3251 20th Ave 5517,92,Low Risk,74.72727273,94132.0,t3uhSWhgLlJmZqw7cJK4tA,4.0,$,35.0,Juice Bars & Smoothies,,,4.55469953,Other
 WesBurger N' More,2240 Mission St,85,Moderate Risk,84.63636364,94110.0,tjflPf7MTPmSgau-b8CN3A,4.0,$$,467.0,Burgers,,,17.30153091,Other
 India Clay Oven Restaurant and Bar,2436 Clement St,81,Low Risk,84.55,94121.0,800bnSbI4mdJsix1Ulp08g,3.5,$$,665.0,Indian,,,1.102811885,Indian
-Pronto Pizza,798 Eddy St,77,Moderate Risk,72.69230769,94109.0,RcSDUVK2joG2j2yuBBW29A,3.0,$,231.0,Pizza,,,8.575831424,Other
+Pronto Pizza,798 Eddy St,77,Moderate Risk,72.69230769,94109.0,RcSDUVK2joG2j2yuBBW29A,3.0,$,231.0,Pizza,,,8.575831424,Italian
 Tselogs,552 Jones St,96,Low Risk,95.2,94102.0,#NAME?,4.5,$,513.0,Filipino,,,7.936089944,Other
 On Time Cafe,577 Geary St,88,Low Risk,84.72727273,94102.0,dp6yLWi8AX3uewszsc12AA,3.5,$,10.0,Coffee & Tea,Breakfast & Brunch,Sandwiches,3.59769001,Other
 The Castro Fountain,554 Castro St,100,,100.0,94114.0,Rqahy3oCYnQCYd2Shc3cVA,4.5,$$,106.0,Bakeries,Ice Cream & Frozen Yogurt,,3.035763442,Other
@@ -2717,7 +2717,7 @@ Jamba Juice,2014 Market St,98,Low Risk,96.66666667,94114.0,w02GRHHZYr0_I2ebIrfAp
 Jamba Juice,1300 9th Ave,92,Low Risk,92.0,94122.0,s7-8SQMzANk8d0rFVqHa1Q,3.0,$,140.0,Juice Bars & Smoothies,,,6.015255824,Other
 Jamba Juice,152 Kearny St,92,Low Risk,91.33333333,94108.0,igVF_XwOiwu35MCeRTdPcw,3.0,$,86.0,Juice Bars & Smoothies,,,3.928617988,Other
 Jamba Juice,22 Battery St Suite D,86,Moderate Risk,86.0,94111.0,oFj3wUWec-PMUldjEhaa_A,3.5,$,116.0,Juice Bars & Smoothies,,,9.117525657,Other
-Baladie Cafe,337 Kearny St,83,Low Risk,85.0,94108.0,mTekw270OUGWBqE2J-B0eQ,3.5,$,490.0,Greek,Mediterranean,Middle Eastern,4.876060831,Other
+Baladie Cafe,337 Kearny St,83,Low Risk,85.0,94108.0,mTekw270OUGWBqE2J-B0eQ,3.5,$,490.0,Greek,Mediterranean,Middle Eastern,4.876060831,Mediterranean
 D'Maize,2778 24th St,100,,100.0,94110.0,5c_mlYDTeFdH72MZALSvVw,4.5,$,45.0,Breakfast & Brunch,Salvadoran,,3.242717013,Other
 Steep,240 Ritch St,86,Moderate Risk,84.22222222,94107.0,JUhdVtiIdBXjSTS4494zyw,4.0,$,177.0,Bubble Tea,Juice Bars & Smoothies,Acai Bowls,8.626141347,Other
 Jamba Juice,74 New Montgomery St.,90,Low Risk,91.71428571,94105.0,LRC51cZoNXfzi-IjcHgFRw,3.5,$,157.0,Juice Bars & Smoothies,,,36.92409179,Other
@@ -2732,9 +2732,9 @@ Hall of Flame Burgers,73 Cambon St,98,Low Risk,94.0,94132.0,S0OVpWde3SlzzrygVQXd
 Tamarind Hall,1268 Grant Ave,94,Low Risk,92.8,94133.0,zp9aDUzQoZF3Ez6WK-7nQg,4.0,$$,414.0,Thai,Bars,,18.57530405,Thai
 El Rancho Grande at Haight,1654 Haight St,86,High Risk,78.33333333,94117.0,FwUnHx-PwC-z0H4__30tHA,3.5,$,103.0,Mexican,Fast Food,,3.084473945,Mexican
 Onigilly,545 Sansome St,100,,100.0,94111.0,SHYiJWGBc1RDj2PRmb_MKA,4.0,$,51.0,Japanese,,,4.345358222,Japanese
-Firetrail Pizza,601 Mission Bay St,96,Moderate Risk,96.0,94158.0,_0SsT_cv3jhkT4p5kxVvFg,1.0,,1.0,Pizza,,,5.21545807,Other
+Firetrail Pizza,601 Mission Bay St,96,Moderate Risk,96.0,94158.0,_0SsT_cv3jhkT4p5kxVvFg,1.0,,1.0,Pizza,,,5.21545807,Italian
 Pacific Eatery,977 A North Point St,93,High Risk,87.25,94109.0,iBloqsbw9rO3-z_Zia-QXQ,4.0,$,39.0,Hawaiian,Vietnamese,,5.467224764,Other
-Contrada,2136 Union St,96,Moderate Risk,96.0,94123.0,MVK4io_e5Uq0EMS5lOAcWg,3.5,$$,59.0,Pizza,Italian,Wine Bars,4.8403704439999995,Other
+Contrada,2136 Union St,96,Moderate Risk,96.0,94123.0,MVK4io_e5Uq0EMS5lOAcWg,3.5,$$,59.0,Pizza,Italian,Wine Bars,4.8403704439999995,Italian
 Leo's Luxury Oyster Bar,568 Sacramento St,80,High Risk,84.0,94111.0,EKLjQC4LH_WPFJPubtPfMQ,4.0,$$$,324.0,Bars,Seafood,,7.880191743999999,Other
 The Baked Bear,2824 Jones St,86,Moderate Risk,88.28571429,94133.0,W01ZzmeWz0vJip3TVDmdyA,4.5,$,372.0,Ice Cream & Frozen Yogurt,Bakeries,,9.083585805,Other
 Los Yaquis,324 South Van Ness Ave,84,Moderate Risk,83.41176471,94103.0,j6FcuKFXAJujFgy-QHN8ww,4.0,$$,281.0,Mexican,Breakfast & Brunch,Soup,15.58507604,Mexican
@@ -2748,7 +2748,7 @@ Cuisine of Nepal,3486 B Mission,98,Low Risk,97.0,94110.0,iUockw0CUssKZLyoGJYEXA,
 Tartine Manufactory,595 Alabama St,87,High Risk,87.0,94110.0,TdXsIPBVRLP3DR-A3sKdpg,3.5,$$,986.0,Bakeries,Coffee & Tea,American (New),6.582147677000001,Other
 Bill's Place,2315 Clement St,79,Low Risk,83.2,94121.0,Gi15y5zxXg5yzcb-YqYg2Q,3.5,$$,718.0,Burgers,Diners,Breakfast & Brunch,1.747198078,Other
 Aina,900 22nd St,88,Moderate Risk,90.5,94107.0,RRY9YSBKCuiRMA7M3qzV1w,4.0,$$,939.0,Breakfast & Brunch,Hawaiian,Asian Fusion,2.889870034,Other
-North Beach Pizza,4787 Mission St,91,Low Risk,91.0,94112.0,VUz6gClzt3wunXL9zYLQkQ,3.0,$$,254.0,Pizza,Italian,Sandwiches,5.75025251,Other
+North Beach Pizza,4787 Mission St,91,Low Risk,91.0,94112.0,VUz6gClzt3wunXL9zYLQkQ,3.0,$$,254.0,Pizza,Italian,Sandwiches,5.75025251,Italian
 Scopo Divino,2800 California St  Unit 101,92,Moderate Risk,93.25,94115.0,2k5yh0ZG2uc0ZDYNcNvXsw,4.5,$$,194.0,Wine Bars,Jazz & Blues,Venues & Event Spaces,14.43945914,Other
 The Saratoga,1000 Larkin St,90,Low Risk,92.0,94109.0,r5t4a_EP7c7r3o3Rh1AYIw,4.5,$$$,274.0,American (New),Bars,,7.168238005,American
 Atwater Tavern,295 Terry A Francois Blvd,86,High Risk,85.25,94158.0,hA1B0lQFci2Yv_7gnify6Q,3.5,$$,278.0,Seafood,American (New),Breakfast & Brunch,12.58623297,Other
@@ -2762,10 +2762,10 @@ Sushi Hon,2598 Harrison St,86,Low Risk,85.5,94110.0,3MRyd2-Zx9smDLXWPAL3kw,4.5,$
 Ada's Cafe,375 Beale St,94,Low Risk,94.0,94105.0,wkweUaEcC5B9Rav5j5qTtg,4.5,$$,76.0,Cafes,Breakfast & Brunch,Sandwiches,7.473976866,Other
 Surisan,505 Beach St,92,Low Risk,92.66666667,94133.0,i09UMzccKgyLwGYKDVP28w,4.5,$$,1268.0,Korean,American (New),Breakfast & Brunch,0.5015254720000001,Korean
 Sababa,329 Kearny St,85,Moderate Risk,84.33333333,94108.0,_BDoTBI2YlyUaWFOXBEF8Q,4.5,$$,301.0,Mediterranean,Middle Eastern,Greek,5.26808705,Mediterranean
-Yemen Cafe & Restaurant,1098 Sutter St,86,Low Risk,79.86666667,94109.0,EnwR6rflr-9UT38gTVeCDA,4.0,$$,418.0,Middle Eastern,Halal,,19.47989717,Other
+Yemen Cafe & Restaurant,1098 Sutter St,86,Low Risk,79.86666667,94109.0,EnwR6rflr-9UT38gTVeCDA,4.0,$$,418.0,Middle Eastern,Halal,,19.47989717,Mediterranean
 The Crepe House,1132 Valencia St,94,Moderate Risk,90.9,94110.0,yc5G1g-Rzl1uMHMJ59IKgg,3.5,$$,330.0,Creperies,Breakfast & Brunch,,2.895834787,Other
 Cumaica Coffee,200 Clement St,90,Low Risk,88.72727273,94118.0,mEHXXc6H975yW2yjzENCxA,3.5,$,117.0,Coffee Roasteries,,,5.496396988,Other
-Baiano Pizzeria,100 Gough St,94,Low Risk,91.85714286,94102.0,DAiqwrmv19Uv-I1bOoAJCQ,4.0,$,177.0,Pizza,Salad,,9.986111768999999,Other
+Baiano Pizzeria,100 Gough St,94,Low Risk,91.85714286,94102.0,DAiqwrmv19Uv-I1bOoAJCQ,4.0,$,177.0,Pizza,Salad,,9.986111768999999,Italian
 Above and Beyond Catering,2565 03rd St  #336,94,Low Risk,94.66666667,94107.0,fC265xaB9yJOEeceSITSWQ,4.5,,24.0,Caterers,Party & Event Planning,,20.42102668,Other
 Fork and Spoon Productions,"2565 03rd St, #336",94,Low Risk,96.0,94107.0,hNKCyBaIa4H_Optvl4Zk8g,5.0,,47.0,Caterers,Wedding Planning,Party & Event Planning,20.77751641,Other
 Chestnut Street Coffee Roastery,2331 Chestnut St,92,Moderate Risk,90.8,94123.0,FCTaVlAbGzKNIA59mX38dg,4.0,$,302.0,Coffee & Tea,Coffee Roasteries,Breakfast & Brunch,3.494040217,Other
@@ -2833,7 +2833,7 @@ Cecilia's Pizza & Restaurant,3515 Mission St,81,Low Risk,78.38888889,94110.0,1xa
 Pineapple Bistro and Bar,580 Geary St,91,Low Risk,94.0,94102.0,BoBxY7PkBBJ4qyoEEhziGQ,4.5,$$,49.0,Bars,Cafes,,8.287253996,Other
 Lemongrass Thai Cuisine,2348 Polk St,92,Low Risk,89.5,94109.0,N3N7-DCGQUPBe9v-duuWHQ,3.5,$$,539.0,Thai,,,5.890931361,Thai
 Bellota,888 Brannan St 110,85,High Risk,85.0,94103.0,GjIO1jUDyaRwV0nS7WfQ7Q,4.0,$$$,538.0,Spanish,Seafood,Tapas Bars,5.034061189,Other
-Pachino Pizzeria,318 Kearny St,91,Low Risk,76.83333333,94104.0,A0A797fPf8D3MnfxbGTj7A,4.0,$$,543.0,Pizza,Italian,,25.02939563,Other
+Pachino Pizzeria,318 Kearny St,91,Low Risk,76.83333333,94104.0,A0A797fPf8D3MnfxbGTj7A,4.0,$$,543.0,Pizza,Italian,,25.02939563,Italian
 Shaska Deli Coffee,3406 26th St,83,Moderate Risk,83.5,94110.0,Jq0XsoA-U5mSKCj7WsFlvg,4.5,,6.0,Latin American,Delis,Sandwiches,3.532324801,Other
 Crepes Ooh La La,1220 Polk St,94,Low Risk,94.0,94109.0,G6jtopjm8OUYTWSq8wVsxQ,4.0,$,164.0,Creperies,,,7.693187272,Other
 Sam Rong Cafe,670 Broadway St,67,Low Risk,67.0,94133.0,NJnm-OpsgtkrIxR33CbBTQ,3.5,$,37.0,Cafes,Chinese,,13.43378365,Other
@@ -2862,7 +2862,7 @@ Cherry Blossom Bakery 2,1552 Ocean Ave,83,High Risk,88.08333333,94112.0,wxb6aiRs
 Deccan Spice by M&M,1142 Valencia St,75,Low Risk,80.53333333,94110.0,Yq4TjSPkVnA0H92ej2LK2A,4.0,$$,606.0,Indian,,,7.94455141,Indian
 K-OZ Restaurant Brewery,121 7th St.,94,Low Risk,81.55555556,94103.0,qIJwRdHtHbQQzZsBkWwy1Q,3.5,$$,97.0,American (New),Pubs,,3.384277453,American
 Dabba,71 Stevenson St #100,90,Low Risk,92.0,94105.0,VR_k77UqyeafrPXjBo7Aug,4.0,$$,296.0,Salad,Mediterranean,,4.803574064,Other
-Pizza Zone and Grill,4404 03rd St,92,Moderate Risk,91.25,94124.0,O4PYZNsilApyC3yBsVAgvQ,3.5,$$,27.0,Pizza,American (Traditional),,9.73410488,Other
+Pizza Zone and Grill,4404 03rd St,92,Moderate Risk,91.25,94124.0,O4PYZNsilApyC3yBsVAgvQ,3.5,$$,27.0,Pizza,American (Traditional),,9.73410488,Italian
 Bistro SF Grill,1305 Castro St,83,High Risk,84.0,94114.0,7JGt7QAswGjXNuGN6YYxJQ,4.0,$$,135.0,Gastropubs,Burgers,Seafood,3.0663657960000004,Other
 Smitten Ice Cream,904 Valencia St,98,Low Risk,97.0,94110.0,m1m7nXSioZQkBK30QAY8EQ,3.5,$$,143.0,Ice Cream & Frozen Yogurt,,,7.876235328,Other
 Mr. Banh Mi,3605 Balboa St,90,Moderate Risk,92.0,94121.0,If5hVcf5uRbuq4pKXdyOjA,4.5,$,153.0,Vietnamese,Coffee & Tea,Sandwiches,5.277946329,Vietnamese
@@ -2914,7 +2914,7 @@ Oza OZa,1700 Post St K,96,Moderate Risk,96.0,94115.0,Y96P7pYNYya_bP-Ogun-0w,4.5,
 Rambler,545 Post St,89,Moderate Risk,92.66666667,94102.0,J3N0MdRMW2cJdq8PHXH0ig,3.5,$$,411.0,Cocktail Bars,American (New),Breakfast & Brunch,5.682799577000001,Other
 Cholo Soy,2301 Mission St,92,Low Risk,92.0,94110.0,3h8u-SHi52QnOs-Xhm2bCQ,4.5,$,151.0,Peruvian,,,25.64493658,Other
 Sweet Basil Thai Cuisine,3221 Mission St,82,Moderate Risk,83.23076923,94110.0,hi0wjWbDyRWus_lDJthWLg,3.5,$$,338.0,Thai,,,33.87135885,Thai
-Katani Pizza,2077 Hayes St,98,Low Risk,98.0,94117.0,YS1CoGy0D1Eu0YM7N_3TIg,4.5,$$,149.0,Pizza,,,7.772521368,Other
+Katani Pizza,2077 Hayes St,98,Low Risk,98.0,94117.0,YS1CoGy0D1Eu0YM7N_3TIg,4.5,$$,149.0,Pizza,,,7.772521368,Italian
 Coin-Op Game Room,508 04th St,94,Low Risk,92.8,94107.0,mFiSSArGLi05l9qhlflg8A,4.5,$$,457.0,Bars,Venues & Event Spaces,American (New),13.08735037,Other
 Village House,3398 Balboa St A,85,Low Risk,84.76923077,94121.0,4fSk_CtsVfXDcFtF8-sWgw,4.5,$,201.0,Szechuan,Shanghainese,Noodles,4.276157624,Other
 Caffe Macaroni,59 Columbus Ave,94,Low Risk,94.0,94133.0,j5vMS1_MuSm09STC8aHzYg,4.5,$$,524.0,Italian,,,7.252120266,Italian
@@ -2945,7 +2945,7 @@ Crostini and Java,899 Hyde St,100,,100.0,94109.0,SZs2L7N1tNSsFEdbdEvcdw,5.0,$$,1
 Woods Outbound,4045 Judah St,100,,100.0,94122.0,ArsFz4WRVKboK1Ob_yP7Uw,4.0,$$,50.0,Breweries,,,6.363916696,Other
 Cha Cha Cha on Mission,2327 Mission St,60,High Risk,60.0,94110.0,QH8WwAYdr3NrH2QwHiPjog,3.5,$$,1900.0,Bars,Caribbean,Tapas/Small Plates,2.523137936,Other
 Sno-Crave Tea House,1181 Ocean Ave,92,Low Risk,92.5,94112.0,7ohv_rfRVxBj0F_uVgd-xQ,3.5,$,271.0,Desserts,Bubble Tea,Tea Rooms,7.356239561000001,Other
-Monterey Pizza and Asian Zap,599 Monterey Blvd,83,Low Risk,87.0,94127.0,OdSydJeehNkSv8iBjJjPgw,4.0,$$,94.0,Pizza,Salad,Sandwiches,4.122127608,Other
+Monterey Pizza and Asian Zap,599 Monterey Blvd,83,Low Risk,87.0,94127.0,OdSydJeehNkSv8iBjJjPgw,4.0,$$,94.0,Pizza,Salad,Sandwiches,4.122127608,Italian
 "Culinary Eye, Inc",1501 Cortland Ave,96,Moderate Risk,94.66666667,94110.0,S3NkhLWNg4WEk2-U6n9GgQ,5.0,,41.0,Caterers,,,5.8013058179999994,Other
 Wine Jar,1870 Fillmore St,87,Low Risk,87.0,94115.0,1uaRxpTiyifuRNGyrVt9Hg,3.5,$$,327.0,Wine Bars,,,4.439903796,Other
 Contraband,260 5th St.,96,Moderate Risk,96.5,94103.0,_MOE-nM-de7XKzKl2mFdxA,4.0,$$,127.0,Coffee & Tea,Coffee Roasteries,,5.925299006,Other
@@ -2961,7 +2961,7 @@ Miller's Rest,1085 Sutter St,89,High Risk,90.375,94109.0,hYJWI9nrWS0Wv8pNdQP5yQ,
 Me and Tasty,3970 17th St B,94,Moderate Risk,88.375,94114.0,AE2ong5QiDhG5bz4vQnZxQ,4.0,$$,248.0,Thai,American (New),Breakfast & Brunch,6.204338982,Thai
 Finn Town Tavern,2251 Market St,90,Low Risk,90.0,94114.0,TrZzOXywqYQImtdvqLYDyQ,3.5,$$,367.0,American (Traditional),Cocktail Bars,,6.626439148999999,American
 Eagle Cafe,Pier 39  Space A-201,90,Moderate Risk,88.5,94133.0,dJObXrdAWC9k5lZnJ7zu8w,3.5,$$,729.0,Seafood,American (New),,15.05435545,Other
-Nobhill Pizza & Shawerma,1534 California St,98,Low Risk,96.0,94109.0,VHeDQKCT81P3i0edsMs9rw,4.0,$,204.0,Pizza,Mediterranean,Sandwiches,9.418189149,Other
+Nobhill Pizza & Shawerma,1534 California St,98,Low Risk,96.0,94109.0,VHeDQKCT81P3i0edsMs9rw,4.0,$,204.0,Pizza,Mediterranean,Sandwiches,9.418189149,Italian
 Burger King 4525,1701 Fillmore St,88,Low Risk,88.0,94115.0,wvJvLx0y-O9OMC67HtBrkA,2.0,$,59.0,Fast Food,Burgers,,14.87194161,Other
 Mazzat,501 Fell St.,76,Moderate Risk,77.77777778,94102.0,Lxb2mz0Yay7y8HSmvJ7dmA,4.0,$$,465.0,Mediterranean,Lebanese,Salad,5.026592302,Mediterranean
 Lovejoy's Tea Room,1351 Church St,92,Moderate Risk,92.0,94114.0,s-ihKanDRDHTD8U49HFA5Q,4.5,$$,1153.0,British,Tea Rooms,,7.998628473999999,Other
@@ -3005,7 +3005,7 @@ Poke Origin,716 Irving St,79,Moderate Risk,79.0,94122.0,Jb7ryDNlHca536vKXRtC6g,4
 Pakwan Restaurant,1140 Ocean Ave,71,High Risk,77.33333333,94112.0,JWejPF1dVW29p2MZHUdw1A,4.5,$$,253.0,Halal,Indian,Pakistani,18.43732897,Other
 Vegan Picnic,1977 A Union St,94,Low Risk,95.0,94123.0,qr9Tgbs4g7sf5azGc0wMuA,4.0,$$,258.0,Vegan,Sandwiches,Gluten-Free,7.435669122999999,Other
 Henry's Hunan Restaurant,1016 Bryant St.,79,Moderate Risk,79.0,94103.0,yhckOdCMUWzurAbFxoD5DA,3.0,$$,342.0,Chinese,,,5.77055085,Chinese
-Souvla,758 Valencia St,91,Low Risk,88.33333333,94110.0,GyGNciKqyJ3ELHmw9jMeRA,4.0,$$,290.0,Greek,Mediterranean,,29.2171314,Other
+Souvla,758 Valencia St,91,Low Risk,88.33333333,94110.0,GyGNciKqyJ3ELHmw9jMeRA,4.0,$$,290.0,Greek,Mediterranean,,29.2171314,Mediterranean
 Noeteca,1551 Dolores St,94,Moderate Risk,93.33333333,94110.0,MJ-N4HIVyb59qcHN2zVqMg,4.5,$$,447.0,Wine Bars,Cafes,Beverage Store,7.192497441,Other
 Sharetea,865 Market St Suite 9003,96,Low Risk,95.0,94103.0,ZEZBX5AtYDFa1KhNPLCB5g,3.0,$,94.0,Bubble Tea,Coffee & Tea,Juice Bars & Smoothies,20.96860494,Other
 Mama Lamees,2948 Folsom St.,94,Low Risk,96.5,94110.0,5Jx_6NvjSZVhV02kLiVxnA,5.0,,1.0,Caterers,,,6.437692936,Other
@@ -3031,7 +3031,7 @@ Swamp Restaurant,5423 Geary Blvd,84,Low Risk,87.42857143,94121.0,3deuAFITbQWjBd5
 Streamline,3560 Taraval St,96,Low Risk,96.0,94116.0,mvpDb23Kx9SAOSKkjk12ng,3.5,$,111.0,Coffee & Tea,Bakeries,Breakfast & Brunch,1.771583326,Other
 Coast Poke Counter,30 Battery St,100,Moderate Risk,98.0,94111.0,iZzc4r5VTaXT3OcP8OuqGg,3.0,$$,76.0,Poke,Asian Fusion,Hawaiian,2.43720438,Other
 Zita,2862 24th St.,100,,100.0,94110.0,x4SFi9nmZ7jD7mn9s5ytiA,5.0,$$,65.0,Wine Bars,Sports Bars,Mediterranean,8.242367275,Other
-Tahini,2859 Mission St,86,High Risk,91.0,94110.0,OT5QTq3CxT0-OY9sxfG4QQ,4.5,$$,243.0,Middle Eastern,Falafel,Kebab,7.460673547000001,Other
+Tahini,2859 Mission St,86,High Risk,91.0,94110.0,OT5QTq3CxT0-OY9sxfG4QQ,4.5,$$,243.0,Middle Eastern,Falafel,Kebab,7.460673547000001,Mediterranean
 BeQue Restaurant,1581 Webster St 145,90,Moderate Risk,90.0,94115.0,wALPdWdWUccSF4SDQsozxw,3.0,$$,256.0,Korean,Buffets,Barbeque,17.64544099,Korean
 Blue Barn Gourmet,3344 Steiner St,96,Low Risk,93.5,94123.0,3aN0x52QA5Dk1VNKtULXfg,3.5,$$,65.0,Sandwiches,Salad,,7.397381481,Other
 Herb N Kitchen,333 O'Farrell St,98,Low Risk,99.0,94102.0,ZBQKuDjRxJmxsfaFuujauA,2.5,$$,6.0,Soul Food,,,33.09367364,Other
@@ -3051,7 +3051,7 @@ Enough Tea & Coffee,49 Kearny St,96,Low Risk,95.0,94108.0,7EvFw4sbA7K5NNZ3hK6btg
 Lone Star Saloon,1354 Harrison St,100,Low Risk,99.0,94103.0,GJi4hZiENMK-uGj08SuxMQ,4.0,$,84.0,Gay Bars,,,9.820523944,Other
 Park Gyros Castro,449 Castro St,71,Low Risk,80.4,94114.0,OTedmgwS2zqmBW8wONGwCw,4.0,$$,155.0,Turkish,Mediterranean,Kebab,7.53359748,Other
 Tara Indian Cuisine,2217 Market St,84,Low Risk,84.0,94114.0,wb17yCMbjgDOqaGwTVLeVQ,4.5,$$,307.0,Indian,,,6.999619577000001,Indian
-Pink Onion,64 14th St,96,Moderate Risk,90.75,94103.0,IxDRIBkKtP-f24sr5zHAhQ,4.5,$$,292.0,Pizza,Italian,Gastropubs,7.370206004,Other
+Pink Onion,64 14th St,96,Moderate Risk,90.75,94103.0,IxDRIBkKtP-f24sr5zHAhQ,4.5,$$,292.0,Pizza,Italian,Gastropubs,7.370206004,Italian
 Le Marais Bakery Castro,498 Sanchez St,87,Moderate Risk,88.5,94114.0,ZPyd-U5jejBL7ZDGsbDs5A,3.0,$$,225.0,Bakeries,French,Coffee & Tea,7.295562178,Other
 Western Donut,2034 Mission St,81,High Risk,81.0,94110.0,zufHIc0mwKujU0sYjOqY_g,3.5,,2.0,Donuts,Ice Cream & Frozen Yogurt,,4.955731398999999,Other
 Puppy Bobar,1142 Grant Ave,96,Moderate Risk,96.0,94133.0,Yabbw4NobxuAlF7atqozWQ,4.0,$,105.0,Creperies,Ice Cream & Frozen Yogurt,Bubble Tea,5.1993114380000005,Other
@@ -3095,7 +3095,7 @@ Olea Restaurant,1494 California St,94,Low Risk,95.0,94109.0,14OmmSWHfM717iZo5jeP
 Salt & Straw,586 Hayes St,100,,100.0,94102.0,CB5FsH1m4D0R5wZ0JFmKzw,4.5,$$,370.0,Ice Cream & Frozen Yogurt,Desserts,,6.314067342,Other
 Jiangnan Cuisine,3420 Balboa St,85,Low Risk,86.81818182,94121.0,EcSIjxiaZ36vqCKAJ9ihIw,4.5,$$,187.0,Shanghainese,,,5.9913248910000005,Other
 El Azteca Taqueria,5298 3rd St.,81,Moderate Risk,81.0,94124.0,ABSyNpMRatNSGmW7N-kWzw,3.5,$,80.0,Mexican,Caterers,,29.15289679,Mexican
-Supreme Pizza,3348 18th St,86,Moderate Risk,86.0,94110.0,bucF7GBwlIUJbPFdoLhxNA,3.5,$,124.0,Pizza,Italian,,12.48662126,Other
+Supreme Pizza,3348 18th St,86,Moderate Risk,86.0,94110.0,bucF7GBwlIUJbPFdoLhxNA,3.5,$,124.0,Pizza,Italian,,12.48662126,Italian
 Esan Classic,739 Larkin St,94,Moderate Risk,93.0,94109.0,1x_7BLX8Eb1dGdSrsZy2sw,4.5,$$$,72.0,Thai,,,8.368590537000001,Thai
 Beard Papa's,99 Yerba Buena Lane,92,Moderate Risk,92.0,94103.0,Nw8h8pc4TzHdVlPA3gsOlA,4.0,$,1009.0,Bakeries,Desserts,,10.42301187,Other
 Beard Papa's,"845 Market St., Unit 16",90,Moderate Risk,91.0,94103.0,-6VcjD0CMrsxFr9g_y0QIA,4.0,$,1003.0,Bakeries,Desserts,,39.93606124,Other
@@ -3103,7 +3103,7 @@ Kahnfections,3321 20th St.,100,,100.0,94110.0,u1XwNjU75q7q6JHm7iQTvA,4.5,$$,58.0
 Crown & Acre,615 Sacramento,72,Moderate Risk,72.0,94111.0,avm4lyv85AHtV7FlIMaFZw,4.5,$$,110.0,Breakfast & Brunch,Salad,American (Traditional),11.46495537,Other
 Home Cafe,2018 Clement St.,94,Moderate Risk,93.5,94121.0,Bsz2u4raa8xNolhl3PDV2Q,4.5,$$,520.0,Coffee & Tea,,,9.877351972,Other
 Panzon,53 Stevenson St.,100,High Risk,87.4,94105.0,Vby0_wsCDFwjdsucTpcUgg,4.0,$$,87.0,Mexican,,,6.90700915,Mexican
-New York Pizza Kitchen,127 Eddy St,85,Low Risk,86.33333333,94102.0,tul32Sr5n-qEO-7byl-qng,3.0,$,104.0,Pizza,,,7.758114484,Other
+New York Pizza Kitchen,127 Eddy St,85,Low Risk,86.33333333,94102.0,tul32Sr5n-qEO-7byl-qng,3.0,$,104.0,Pizza,,,7.758114484,Italian
 Koja Kitchen,601 Mission Bay Blvd,82,Low Risk,82.5,94158.0,YOwHU9g6icI-vJ8FM4K51w,4.0,$$,70.0,Korean,Asian Fusion,Japanese,5.21545807,Korean
 Hazel Southern Bar and Kitchen,1446 Market St,92,Moderate Risk,92.0,94102.0,wxTdrL-DzyBch1hxxokX0g,4.0,$$,354.0,Southern,Whiskey Bars,American (New),21.81735319,Other
 Chef Li's Cafe,2726 San Bruno Ave.,81,High Risk,84.5,94134.0,E1xT1uBDaL20n7GKOhh3Jw,4.0,$$,119.0,Hot Pot,Chinese,,8.770181943999999,Other
@@ -3157,9 +3157,9 @@ Nute's,903 Cortland Ave.,96,Low Risk,96.0,94110.0,xfsjCQtkPFdbWTwh9C2p9w,4.5,$$,
 Sightglass Coffee,301 divisadero St,100,,100.0,94117.0,nWYMTPZ1ss-tGOWQHmB0gw,4.0,$$,86.0,Coffee & Tea,,,3.3952426389999997,Other
 Open Kitchen,3913 24th St.,94,Low Risk,94.0,94114.0,oUQQwcwKfcdj0Xn-TpatYw,3.5,$$,859.0,Creperies,Breakfast & Brunch,,4.4830392660000005,Other
 Enter The Cafe,1401 Powell St,92,Low Risk,90.85714286,94133.0,6JAJar5YFil0gXnU-lHDHA,4.5,$,99.0,Ice Cream & Frozen Yogurt,Coffee & Tea,Sandwiches,3.1488665410000003,Other
-Barrel Proof,2331 Mission St.,94,Low Risk,94.0,94110.0,B-yUH6Bc1hxy8teT4wa73A,4.0,$$,53.0,Pizza,Sports Bars,Arcades,5.320947192,Other
+Barrel Proof,2331 Mission St.,94,Low Risk,94.0,94110.0,B-yUH6Bc1hxy8teT4wa73A,4.0,$$,53.0,Pizza,Sports Bars,Arcades,5.320947192,Italian
 Pho Huynh Sang,239 Clement St.,88,Low Risk,88.0,94118.0,C7Lvs_x475WpqXVt0feEBQ,3.5,$$,62.0,Vietnamese,Soup,,3.6360920739999996,Vietnamese
-Troy Greek Cuisine,2226 Polk St,87,High Risk,87.0,94109.0,TjfaAcd9LzRXcw_HbzzVZQ,4.0,$$,97.0,Greek,,,4.816078424,Other
+Troy Greek Cuisine,2226 Polk St,87,High Risk,87.0,94109.0,TjfaAcd9LzRXcw_HbzzVZQ,4.0,$$,97.0,Greek,,,4.816078424,Mediterranean
 Le Cupboard,1298 Church St,92,Low Risk,92.0,94114.0,U7704db2v72ab27SOrXgNg,5.0,$$,51.0,Breakfast & Brunch,Vegan,Caterers,5.588989584,Other
 Lemonade,1266 9th Ave,87,High Risk,87.0,94122.0,NyiBY1VFZKWCn8ViORNzKA,3.0,$$,125.0,American (New),,,7.5866699010000005,American
 Old Ship,298 Pacific Ave,79,Low Risk,78.54545455,94111.0,Z0togIFcaJslgYXsHmso9A,3.5,$$,352.0,Pubs,American (Traditional),Sandwiches,3.4854701269999997,Other
@@ -3194,7 +3194,7 @@ Native Co.,163 02nd St,80,Moderate Risk,84.28571429,94105.0,TMXARqW256grZ5_a3wIB
 Origen,2948 Folsom St.,100,,100.0,94110.0,OkO4qzhxAx-BmzMCr7547A,3.0,,1.0,Mexican,Empanadas,,6.437692936,Mexican
 SINI,322 Kearny St,88,Moderate Risk,88.0,94108.0,IFixCW55AIdKNuYI9M78KQ,4.0,$$,106.0,Turkish,Mediterranean,Halal,6.032157672,Other
 Tea Hut,2815 California St,93,High Risk,87.16666667,94115.0,AdABvu7gwwRjZKzVLQeDOQ,4.0,$,201.0,Bubble Tea,Juice Bars & Smoothies,Tea Rooms,7.185222712000001,Other
-Ardiana,1781 Church St,89,Moderate Risk,89.0,94131.0,EZVWMq_N8UwAmJ_VGG2-Qg,4.5,$$,102.0,Pizza,Italian,Salad,5.25862542,Other
+Ardiana,1781 Church St,89,Moderate Risk,89.0,94131.0,EZVWMq_N8UwAmJ_VGG2-Qg,4.5,$$,102.0,Pizza,Italian,Salad,5.25862542,Italian
 Cafe X,578 Market St,96,Low Risk,96.0,94104.0,_UkR5msuiMeuUCT5xslUNw,4.0,$,74.0,Coffee & Tea,,,6.751129584,Other
 Khamsa,1503 15th St.,79,Moderate Risk,78.11111111,94103.0,Gh3cLhqw1BqpFSN5BaemBg,4.0,$$,166.0,Moroccan,,,6.30044086,Other
 Tato,4608 3rd St.,88,Moderate Risk,88.0,94124.0,4J7OOaWkSuKk9buCkILN_A,4.5,,49.0,Mexican,,,10.53580852,Mexican
@@ -3254,8 +3254,8 @@ TS Cafe,4754 Mission St.,85,Low Risk,85.0,94112.0,blu-Lki84ufB-azvwiSaVA,4.5,$,2
 Joe & The Juice 2213 Fillmore,2213 Fillmore St,90,Moderate Risk,90.0,94115.0,96j3AOrvAXOXlhWYQpUjxg,2.5,$$,62.0,Juice Bars & Smoothies,,,7.020947635,Other
 Bluestone Lane,227 Front St,83,Moderate Risk,83.0,94111.0,xz1p8uJ9dfh5YVzK_WNxzQ,4.0,$$,229.0,Coffee & Tea,Breakfast & Brunch,Gluten-Free,5.33705431,Other
 My Cup of Tea,2666 Ocean Ave,96,Low Risk,96.0,94132.0,kXt-6oFKY6hdv3z99soZyA,4.0,$,109.0,Bubble Tea,,,8.213082983,Other
-Pizza Squared,885 Brannan St #B3,86,Moderate Risk,86.0,94103.0,#NAME?,4.5,,65.0,Pizza,,,5.370446315,Other
-Bizza,1463 Haight St,100,,100.0,94117.0,#NAME?,4.0,$$,138.0,Pizza,Mediterranean,,6.2247197739999995,Other
+Pizza Squared,885 Brannan St #B3,86,Moderate Risk,86.0,94103.0,#NAME?,4.5,,65.0,Pizza,,,5.370446315,Italian
+Bizza,1463 Haight St,100,,100.0,94117.0,#NAME?,4.0,$$,138.0,Pizza,Mediterranean,,6.2247197739999995,Italian
 Thai Idea Vegetarian,710 Polk St,88,Low Risk,88.0,94109.0,f8kY-c4xNHanSwQuI3nYGg,4.5,$$,692.0,Thai,Noodles,Soup,5.50798825,Thai
 Las Palmas on SF,5251 3rd St.,88,Moderate Risk,88.85714286,94124.0,HVuKLsJ5gDMhxZ0d1wQUzw,2.5,$$,40.0,Seafood,Mexican,Fast Food,6.16241813,Other
 Hidden Star Orchards,1 Ferry Building  Suite 50,100,,100.0,94111.0,gaiA5XmqTeYODmzQgM8CHw,4.5,$$,1042.0,Farmers Market,,,22.93709152,Other
@@ -3385,7 +3385,7 @@ Bing & Boba,1476 Haight St,94,Moderate Risk,94.0,94117.0,Yl-RSgod49o-vA8DLpg3Vg,
 Gong Cha,272 O'Farrell St,96,Moderate Risk,96.0,94102.0,lKdMn-4N22cLda3xvXmvEA,3.5,,87.0,Bubble Tea,,,9.730102246,Other
 Mixt Greens / Mixt,901 Valencia St,96,Moderate Risk,96.0,94110.0,yQ26gbzvYwQiPyYpBJCnAw,4.0,$$,91.0,Salad,American (New),Vegan,9.166372332,Other
 T Cup Cafe,3516 Balboa St,94,Moderate Risk,94.0,94121.0,V8C7Oi1rz5V6GPM3BJMXeQ,4.0,$$,37.0,Coffee & Tea,Juice Bars & Smoothies,Bubble Tea,9.675302611000001,Other
-SF Hole in The Wall Pizza,3244 Scott St,96,Moderate Risk,96.0,94123.0,iQwdiPPdfM5JqUPYmHo8Fg,3.5,$,203.0,Pizza,American (Traditional),,0.872522268,Other
+SF Hole in The Wall Pizza,3244 Scott St,96,Moderate Risk,96.0,94123.0,iQwdiPPdfM5JqUPYmHo8Fg,3.5,$,203.0,Pizza,American (Traditional),,0.872522268,Italian
 Eat Sushi,1516 Folsom St,90,Low Risk,90.0,94103.0,5HA7OuFkkN76mBiJmI-MoA,4.5,$$,102.0,Sushi Bars,Ramen,Poke,8.57603526,Japanese
 Golden Coffee,901 Sutter St,92,Moderate Risk,92.0,94109.0,rBwyayyqFMD8chqenrRxag,4.0,$,455.0,Breakfast & Brunch,Coffee & Tea,,7.324295214,Other
 Cracked & Battered,1434 18th St,96,Moderate Risk,96.0,94107.0,O1sRAas2IZQKYVSNZeBagQ,4.5,$$,231.0,Breakfast & Brunch,American (Traditional),,3.937135661,Other
@@ -3396,16 +3396,16 @@ Urban Ritual,488 Fell St,100,,100.0,94102.0,VQPtsRVNTFkFptcXDTtIyg,4.5,$,342.0,B
 Cafe Guatemalteco,4794 Mission St,89,Low Risk,89.0,94112.0,BbeE3FtAlrAfr5wk8vkuyw,4.5,$,61.0,Cafes,,,4.982726045,Other
 Phillmore Creamery,1840 Fillmore St,100,,100.0,94115.0,DicCVq8FwpfT9lD40B_sxg,5.0,$$,153.0,Gelato,Ice Cream & Frozen Yogurt,Coffee & Tea,7.161475553,Other
 Otoro,205 Oak St,87,Moderate Risk,81.66666667,94102.0,kjckqShnIlDeraGJM3Nw4w,4.0,$$,775.0,Japanese,Sushi Bars,,18.22509552,Japanese
-"Mustafio""s Pizza",1116 Polk St,81,Moderate Risk,81.0,94109.0,KD_DF86hX3vlFaB-XuCKuw,3.5,$,218.0,Pizza,,,2.668210748,Other
+"Mustafio""s Pizza",1116 Polk St,81,Moderate Risk,81.0,94109.0,KD_DF86hX3vlFaB-XuCKuw,3.5,$,218.0,Pizza,,,2.668210748,Italian
 Joe & The Juice- 303 2nd Street,303 02nd St,96,Moderate Risk,98.0,94107.0,W0IW4KaU28p-mmF_bb6--w,3.0,$,105.0,Coffee & Tea,Salad,Breakfast & Brunch,16.71939311,Other
 Spice Kitchen,432 Sutter St,82,Low Risk,82.0,94108.0,AgUY2nxGNOhMQOo41dY7ow,3.5,$$,73.0,Szechuan,Noodles,,5.655352708,Other
 Neighbors Corner,499 Douglass St,98,Low Risk,98.0,94114.0,19FlLhyqgZLc5nXzsARvDQ,5.0,$$,72.0,Coffee & Tea,Bakeries,,9.203322755,Other
 Double Decker,2956 24th St,100,,100.0,94110.0,xF_rXBt1ZrE0nO-fKoVHqQ,4.0,$,28.0,Chicken Wings,Burgers,,7.294912403,Other
 Mainland Market,5601 Geary Blvd,84,Low Risk,84.0,94121.0,mYX7fx9W3P74831dAW37Tg,4.0,$,37.0,Fruits & Veggies,Grocery,,5.872124576,Other
 Ichiraku Ramen,5336 Geray Blvd,90,Low Risk,89.66666667,94121.0,8jzDfZi2bCtXlQ9PVYh3wA,4.0,$$,142.0,Ramen,Noodles,,10.80615454,Other
-Anton's Pizza,1196 Folsom St,87,Low Risk,87.0,94103.0,hrof-6ketTqVso0GjFBIXg,3.5,$,24.0,Pizza,Delis,,4.260649269,Other
+Anton's Pizza,1196 Folsom St,87,Low Risk,87.0,94103.0,hrof-6ketTqVso0GjFBIXg,3.5,$,24.0,Pizza,Delis,,4.260649269,Italian
 Z & Y Bistro,606 Jackson St,100,Moderate Risk,94.66666667,94133.0,PH3o6Te6QOA2VC2ZoYz6CQ,4.0,,70.0,Chinese,Wine Bars,Asian Fusion,5.039627048,Chinese
-Irving Pizza,928 Geary St,87,Low Risk,87.0,94109.0,qBpdp2DI-CKTgaxpEJpvvQ,3.0,$,217.0,Pizza,,,6.06272054,Other
+Irving Pizza,928 Geary St,87,Low Risk,87.0,94109.0,qBpdp2DI-CKTgaxpEJpvvQ,3.0,$,217.0,Pizza,,,6.06272054,Italian
 Crave Subs,1650 Holloway Ave SB108,90,Low Risk,90.0,94132.0,kN0zGIdrFqLEvpE72iNTZQ,4.5,,12.0,Sandwiches,Halal,,10.64310639,Other
 The Korean Kitchen,1220 09th Ave,98,Low Risk,98.0,94122.0,ib2KMYdptm0mm2VlaRfuNg,3.5,$$,211.0,Korean,,,29.51814184,Korean
 STONE KOREAN KITCHEN,4 Embarcadero Center  Street Level,75,Low Risk,79.66666667,94111.0,Z5Oa8wKjGPPc2XWzV4ShVA,3.0,$$,792.0,Korean,,,15.56935308,Korean
@@ -3431,7 +3431,7 @@ COCO FRESH TEA & JUICE,2699 TAYLOR ST,98,Low Risk,98.0,94133.0,XoEx0P8wGHRMtCnQN
 THE LUCKY PIG,791 O'FARRELL ST,87,Low Risk,87.0,94109.0,G3nORz3a6ZnHkOwc7xppdw,4.0,$$,91.0,Korean,,,14.44624674,Korean
 KKOCHI KOREAN BBQ RESTAURANT,704 POST ST,90,Moderate Risk,90.0,94109.0,uankR6i5IfVU1_NoW_8h5Q,4.5,,49.0,Korean,Barbeque,Asian Fusion,2.635245036,Korean
 LUKE'S LOBSTER,92 02ND ST,92,Low Risk,92.0,94019.0,78rWDhqKjjvzFFPPZGJp5A,4.0,$$,383.0,Seafood,Food Trucks,,29754.548489999997,Other
-GOCHEES PIZZA,2 EMBARCADERO CTR UNIT B6,100,,100.0,94111.0,Xby671iywqIfGDlmg1HdYA,3.5,$,60.0,Pizza,Salad,,9.37923653,Other
+GOCHEES PIZZA,2 EMBARCADERO CTR UNIT B6,100,,100.0,94111.0,Xby671iywqIfGDlmg1HdYA,3.5,$,60.0,Pizza,Salad,,9.37923653,Italian
 SUSHI SHOH,406 DEWEY BLVD,92,Moderate Risk,92.0,94116.0,3cLA9tLm7zCfEpeRTAeVmw,4.0,$$,219.0,Sushi Bars,Japanese,,7.194947991,Japanese
 JOE & THE JUICE - 1155 4TH STREET,1155 04TH ST,98,Low Risk,98.0,94158.0,Hrbhj21RWNKU3lUzXyvr8Q,3.5,,25.0,Juice Bars & Smoothies,Coffee & Tea,,8.857970511,Other
 VAN NESS CAFE & GYROS,826 VAN NESS AVE,82,Low Risk,82.0,94109.0,vcg3U2vEFuSSK00Njxwk2g,4.0,$$,73.0,Mediterranean,Turkish,Greek,3.425619916,Mediterranean
@@ -3446,9 +3446,9 @@ The Story of Ramen,3231 24th St,91,High Risk,91.0,94110.0,T2_2YZNHFvDTyLWwO90Y2Q
 LEFTYS BALLPARK BUFFET,145 Jefferson St 400,88,Moderate Risk,88.0,94133.0,JZVgYUVoltWoMrcKsu9sRg,3.5,$$,96.0,Buffets,,,28.71900216,Other
 EL CAFE,1400 Taraval St,92,Moderate Risk,92.0,94116.0,wN9fCMRaQxRcAdchpmzgwg,5.0,$,28.0,Cafes,Coffee & Tea,,7.426014007000001,Other
 PALACE OF SPICES,173 Eddy St,83,Low Risk,83.0,94102.0,a_n8SlHw0wBmoJUt4lsGFA,4.0,,54.0,Indian,Chinese,Halal,5.659839817000001,Indian
-CAPTAIN KONA CAFE,393 West Portal Ave,96,Moderate Risk,96.0,94127.0,15B_9j3orhCTi97pj3qiMw,3.5,,21.0,Pizza,Coffee & Tea,Breakfast & Brunch,8.775683236,Other
+CAPTAIN KONA CAFE,393 West Portal Ave,96,Moderate Risk,96.0,94127.0,15B_9j3orhCTi97pj3qiMw,3.5,,21.0,Pizza,Coffee & Tea,Breakfast & Brunch,8.775683236,Italian
 SNOW GARDEN EXPRESS,716 Grant Ave,92,Moderate Risk,92.0,94108.0,FOe0Gmp21Mz1KjL8wi7v5g,3.0,$,124.0,Chinese,,,3.931131305,Chinese
-PRESIDIO PIZZA COMPANY,1862 Divisdero St,92,Low Risk,92.0,94115.0,z7cKVX0Ks3GHrS9YN0F9Dw,3.5,$$,343.0,Pizza,,,7.221084887000001,Other
+PRESIDIO PIZZA COMPANY,1862 Divisdero St,92,Low Risk,92.0,94115.0,z7cKVX0Ks3GHrS9YN0F9Dw,3.5,$$,343.0,Pizza,,,7.221084887000001,Italian
 WORD A CAFE,5114 03rd St,96,Moderate Risk,96.0,94133.0,P9NAxyeyAMaV1GQTZ7M-bg,4.0,$,155.0,Donuts,Coffee & Tea,Sandwiches,15.97645926,Other
 Caffea,428 11 St,91,Low Risk,91.0,94103.0,lXJA0j9uQv4M_TwXWZyotg,5.0,,3.0,Coffee & Tea,Food Trucks,,5.116145298,Other
 MR. EAST KITCHEN,276 05th St,83,Low Risk,83.0,94103.0,C_8tBcwMD5Xy-eA8QCz0Fw,4.0,$$,112.0,Vietnamese,Breakfast & Brunch,Bubble Tea,9.57645683,Vietnamese
@@ -3458,7 +3458,7 @@ HARDWOOD BAR & SMOKERY,680 08th St  Ste. #170,87,Low Risk,87.0,94103.0,pLBEfh2qK
 FREDS AT BARNEYS NEW YORK,77 O'Farrell St  6th Floor,96,Low Risk,96.0,94108.0,OtCEJEnY0TxTdTXALF7tMw,3.0,,32.0,American (New),Breakfast & Brunch,,7.718772844,American
 FRENA,404 20th Ave,92,Moderate Risk,92.0,94121.0,gk_YO2aWBhGvUPKMUSO8pw,4.5,$,31.0,Bakeries,Kosher,Breakfast & Brunch,21.12393883,Other
 MANNY'S,3092 16th St,94,Low Risk,94.0,94103.0,JZ1CWLfJ1cm6fuHkU2vo-g,4.5,,85.0,Cafes,Bars,,5.255969948,Other
-DOPPIO ZERO,395 Hayes St,86,Moderate Risk,86.0,94102.0,hpWxd0XzCugruD-Dl_i4Kw,4.0,$$,119.0,Pizza,Italian,,6.182435556000001,Other
+DOPPIO ZERO,395 Hayes St,86,Moderate Risk,86.0,94102.0,hpWxd0XzCugruD-Dl_i4Kw,4.0,$$,119.0,Pizza,Italian,,6.182435556000001,Italian
 CHOMP N' SWIG,5203 Geary Blvd,88,Moderate Risk,88.0,94118.0,iVjyGjcwqAnHvTExVpxVlw,4.0,$,316.0,Sandwiches,Beer Bar,Breakfast & Brunch,7.19513258,Other
 TROJE,1500 South Van Ness Ave Suite 100,92,Low Risk,92.0,94110.0,vw-XA-13w2DTz96RVpyMCg,5.0,,17.0,Mediterranean,Tapas/Small Plates,Breakfast & Brunch,6.258865244,Mediterranean
 KAIYO RESTAURANT & BAR,1838 UNION St,88,Moderate Risk,88.0,94123.0,_TVBDjUzNKi4HEmUT4yPGA,4.0,,150.0,Japanese,Peruvian,Cocktail Bars,5.763117847,Japanese
@@ -3486,7 +3486,7 @@ MUGUBOKA RESTAURANT,401 Balboa St,94,Low Risk,94.0,94118.0,8oAsGZNNLvIW3CvLcFUPM
 AN CHI,5827 Geary Blvd,83,High Risk,83.0,94121.0,7x1RTQcZAxE8R2tXvWYwiQ,4.0,,27.0,Vietnamese,,,4.462430498,Vietnamese
 HOT SPUD,845 Market St FE11,100,,100.0,94103.0,s53aNq9WU9dUUyUUhktAuQ,4.5,,13.0,Fast Food,Gluten-Free,,8.521814532999999,Other
 GAI,3463 16th St,86,Moderate Risk,86.0,94114.0,ZPsuN4ON2TWD1bhuMjyMQQ,4.0,$$,91.0,Thai,Vietnamese,Singaporean,3.8505482860000004,Thai
-PIZZERIA DELFINA,688 Mission St,100,,100.0,94105.0,jxYgNl25tf2souAYSlkuhw,4.0,,41.0,Pizza,Italian,Wine Bars,4.321572664,Other
+PIZZERIA DELFINA,688 Mission St,100,,100.0,94105.0,jxYgNl25tf2souAYSlkuhw,4.0,,41.0,Pizza,Italian,Wine Bars,4.321572664,Italian
 PING & YANG,955 Larkin St,78,Low Risk,78.0,94109.0,LubmEMi9H4tjsd_PN3cZWQ,4.0,,44.0,Thai,Desserts,,10.66231923,Thai
 NOMMO,396 Harrison St Ste 100,100,,100.0,94105.0,yJqHwUJxgd4aW6aJFdFVSg,4.5,,13.0,American (Traditional),,,3.512944275,American
 BREADBELLY,1408 Clement St,96,Low Risk,96.0,94118.0,w3mpnxz64nU8VwHDLz3S6g,4.5,$$,82.0,Bakeries,,,5.420014915,Other
@@ -3504,7 +3504,7 @@ SWEET MANGO DESSERT & CAFE,5217 GEARY BLVD,88,Low Risk,88.0,94118.0,Zn6UlhMoCmO0
 TWO SONS SANDWICHES,2249 17TH St,98,Low Risk,98.0,94103.0,uhih68N9hjl9RWd-Bi8NhA,4.5,$,200.0,Sandwiches,,,6.017798803,Other
 JANCHAY'S BISTRO.,400 WALLER ST,94,Low Risk,94.0,94117.0,U7deKSVRmBE-MG7Skk9YSg,4.5,,48.0,Thai,Seafood,Asian Fusion,7.501562483,Thai
 MANGO CRAZY,51 JEFFERSON ST STE O,96,Low Risk,96.0,94133.0,8uFqhhyvFAxoRw4IQmYBsw,4.5,,37.0,Specialty Food,,,7.518159552999999,Other
-CROSSROAD PIZZERIA,1596 MARKET ST,92,Low Risk,92.0,94102.0,g1ycmGtoAbFcL-qOXuuVLw,4.5,,8.0,Pizza,,,6.241061364,Other
+CROSSROAD PIZZERIA,1596 MARKET ST,92,Low Risk,92.0,94102.0,g1ycmGtoAbFcL-qOXuuVLw,4.5,,8.0,Pizza,,,6.241061364,Italian
 THE LINKS BAR AND GRILL,3129 CLEMENT ST,98,Low Risk,98.0,94121.0,BP0D8y1iCA7xq21zds4xfg,4.5,,8.0,Bars,American (Traditional),,3.9127939960000004,Other
 TAYLOR LANE ORGANIC COFFEE,2001 MARKET St,100,,100.0,94114.0,Z-_h54EkdTqZ8oYTUKXp5w,4.0,,1.0,Coffee & Tea,,,4.89323736,Other
 BLUESTONE LANE,562 SUTTER ST,98,Low Risk,98.0,94102.0,nE0A10WAQzl9yRHDH0nwlg,4.0,,4.0,Coffee & Tea,Gluten-Free,Breakfast & Brunch,2.254577326,Other
@@ -3517,4 +3517,4 @@ HAPPY DONUTS,299 ELLIS,100,,100.0,94102.0,dBhk84ryE-Vleu5rwBaKag,4.0,$,37.0,Donu
 ONE BOILING POT,1155 TARAVAL ST,91,High Risk,91.0,94116.0,s86RCsfbIYSR7yvHfrBUvg,3.0,$$,104.0,Hot Pot,Desserts,Tapas/Small Plates,17.18818892,Other
 B & B CAFE,1634 IRVING ST,69,Low Risk,69.0,94122.0,NsvzBa88kK7ZFsKnqc_-QA,4.5,$,76.0,Bubble Tea,Sandwiches,,6.431337242000001,Other
 Marley's Streats,428 11th St,100,,100.0,94103.0,ziDJD2-M38PUEmft4kJ8nQ,4.5,$$,845.0,Food Trucks,,,5.153785044,Other
-GOLDEN STATE PIZZA AND GRILL,2414 San Bruno Ave,94,Moderate Risk,94.0,94134.0,0lzYnhGuHMpZtqsv5gZacA,4.0,,1.0,Pizza,Burgers,Chicken Wings,7.867267515,Other
+GOLDEN STATE PIZZA AND GRILL,2414 San Bruno Ave,94,Moderate Risk,94.0,94134.0,0lzYnhGuHMpZtqsv5gZacA,4.0,,1.0,Pizza,Burgers,Chicken Wings,7.867267515,Italian
